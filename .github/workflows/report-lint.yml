@@ -1,0 +1,16 @@
+name: report-lint
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: tools/check-repo.sh
+      - run: tools/check-report.sh --strict
+      - run: tools/check-links.sh
+      - run: tools/build-index.sh --check
