@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="36" android:compileSdkVersionCodename="16" android:requiredSplitTypes="base__abi,base__density" android:splitTypes="" package="com.gpsmapcamera.geotagginglocationonphoto" platformBuildVersionCode="36" platformBuildVersionName="16">
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-feature android:name="android.hardware.camera.autofocus"/>
+    <uses-feature android:name="android.hardware.camera"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.FLASHLIGHT" android:permissionGroup="android.permission-group.HARDWARE_CONTROLS"/>
+    <uses-permission android:maxSdkVersion="32" android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_MEDIA_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID"/>
+    <uses-feature android:name="android.hardware.microphone"/>
+    <uses-feature android:name="android.hardware.sensor.accelerometer" android:required="true"/>
+    <queries>
+        <intent>
+            <action android:name="android.intent.action.MAIN"/>
+        </intent>
+        <intent>
+            <action android:name="androidx.camera.extensions.action.VENDOR_ACTION"/>
+        </intent>
+        <intent>
+            <action android:name="android.intent.action.VIEW"/>
+            <category android:name="android.intent.category.BROWSABLE"/>
+            <data android:scheme="https"/>
+        </intent>
+        <intent>
+            <action android:name="android.support.customtabs.action.CustomTabsService"/>
+        </intent>
+        <intent>
+            <action android:name="android.intent.action.INSERT"/>
+            <data android:mimeType="vnd.android.cursor.dir/event"/>
+        </intent>
+        <intent>
+            <action android:name="android.intent.action.VIEW"/>
+            <data android:scheme="sms"/>
+        </intent>
+        <intent>
+            <action android:name="android.intent.action.DIAL"/>
+            <data android:path="tel:"/>
+        </intent>
+        <package android:name="com.android.vending"/>
+        <package android:name="com.facebook.katana"/>
+        <intent>
+            <action android:name="com.android.vending.billing.InAppBillingService.BIND"/>
+        </intent>
+        <intent>
+            <action android:name="com.google.android.apps.play.billingtestcompanion.BillingOverrideService.BIND"/>
+        </intent>
+        <package android:name="com.google.android.apps.maps"/>
+    </queries>
+    <uses-feature android:name="android.hardware.screen.portrait" android:required="false"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.READ_BASIC_PHONE_STATE"/>
+    <permission android:name="com.gpsmapcamera.geotagginglocationonphoto.permission.C2D_MESSAGE" android:protectionLevel="signature"/>
+    <uses-permission android:name="com.gpsmapcamera.geotagginglocationonphoto.permission.C2D_MESSAGE"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE"/>
+    <uses-permission android:name="com.sec.android.provider.badge.permission.READ"/>
+    <uses-permission android:name="com.sec.android.provider.badge.permission.WRITE"/>
+    <uses-permission android:name="com.htc.launcher.permission.READ_SETTINGS"/>
+    <uses-permission android:name="com.htc.launcher.permission.UPDATE_SHORTCUT"/>
+    <uses-permission android:name="com.sonyericsson.home.permission.BROADCAST_BADGE"/>
+    <uses-permission android:name="com.sonymobile.home.permission.PROVIDER_INSERT_BADGE"/>
+    <uses-permission android:name="com.anddoes.launcher.permission.UPDATE_COUNT"/>
+    <uses-permission android:name="com.majeur.launcher.permission.UPDATE_BADGE"/>
+    <uses-permission android:name="com.huawei.android.launcher.permission.CHANGE_BADGE"/>
+    <uses-permission android:name="com.huawei.android.launcher.permission.READ_SETTINGS"/>
+    <uses-permission android:name="com.huawei.android.launcher.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.READ_APP_BADGE"/>
+    <uses-permission android:name="com.oppo.launcher.permission.READ_SETTINGS"/>
+    <uses-permission android:name="com.oppo.launcher.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_READ"/>
+    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_WRITE"/>
+    <uses-permission android:name="android.permission.USE_BIOMETRIC"/>
+    <uses-permission android:name="android.permission.USE_FINGERPRINT"/>
+    <uses-permission android:name="com.android.vending.BILLING"/>
+    <uses-feature android:glEsVersion="0x00020000" android:required="true"/>
+    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"/>
+    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_ATTRIBUTION"/>
+    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_AD_ID"/>
+    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_CUSTOM_AUDIENCE"/>
+    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_TOPICS"/>
+    <permission android:name="com.gpsmapcamera.geotagginglocationonphoto.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" android:protectionLevel="signature"/>
+    <uses-permission android:name="com.gpsmapcamera.geotagginglocationonphoto.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"/>
+    <application android:allowBackup="false" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:enableOnBackInvokedCallback="false" android:extractNativeLibs="false" android:icon="@mipmap/ic_launcher" android:label="@string/app_name" android:largeHeap="true" android:name="com.pairip.application.Application" android:networkSecurityConfig="@xml/network_security_config" android:requestLegacyExternalStorage="true" android:roundIcon="@mipmap/ic_launcher_round" android:supportsRtl="true" android:theme="@style/AppTheme" android:usesCleartextTraffic="true">
+        <activity android:configChanges="uiMode" android:exported="false" android:name="com.gpsmapcamera.geotagginglocationonphoto.activity.BefAftReportingActivity" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize"/>
+        <activity android:configChanges="uiMode" android:exported="false" android:name="com.gpsmapcamera.geotagginglocationonphoto.activity.BefAftSettingActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="uiMode" android:exported="false" android:name="com.gpsmapcamera.geotagginglocationonphoto.activity.ReportingActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="uiMode" android:exported="false" android:name="com.gpsmapcamera.geotagginglocationonphoto.activity.NoteActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="uiMode" android:exported="false" android:name="com.gpsmapcamera.geotagginglocationonphoto.activity.GDFolderActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="uiMode" android:exported="false" android:name="com.gpsmapcamera.geotagginglocationonphoto.activity.MyFilesActivity" android:screenOrientation="portrait"/>
+        <uses-library android:name="org.apache.http.legacy" android:required="false"/>
+        <activity android:configChanges="uiMode" android:exported="false" android:name="com.gpsmapcamera.geotagginglocationonphoto.activity.PDFReportingActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="uiMode" android:exported="false" android:name="com.gpsmapcamera.geotagginglocationonphoto.activity.PDFSettingActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="uiMode" android:exported="false" android:name="com.gpsmapcamera.geotagginglocationonphoto.activity.VideoTutorial" android:screenOrientation="portrait"/>
+        <activity android:configChanges="uiMode" android:exported="false" android:name="com.gpsmapcamera.geotagginglocationonphoto.activity.FAQScreen" android:screenOrientation="portrait"/>
+        <activity android:configChanges="uiMode" android:launchMode="singleTop" android:name="com.gpsmapcamera.geotagginglocationonphoto.activity.AddLocationActivity" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize"/>
+        <activity android:configChanges="uiMode" android:name="com.gpsmapcamera.geotagginglocationonphoto.activity.UserGuide_Answer_Activity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="uiMode" android:exported="false" android:name="com.gpsmapcamera.geotagginglocationonphoto.activity.UserGuide_Activity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="uiMode" android:exported="false" android:name="com.gpsmapcamera.geotagginglocationonphoto.activity.OnBoardingActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="uiMode" android:exported="false" android:name="com.gpsmapcamera.geotagginglocationonphoto.ui.activities.MediaViewerActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="uiMode" android:exported="false" android:name="com.gpsmapcamera.geotagginglocationonphoto.ui.activities.GalleryActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="uiMode" android:exported="false" android:name="com.gpsmapcamera.geotagginglocationonphoto.ui.activities.SingleFolderActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="orientation|screenSize" android:exported="false" android:name="com.gpsmapcamera.geotagginglocationonphoto.ui.activities.VideoPlayerActivity" android:resizeableActivity="true" android:screenOrientation="portrait"/>
+        <activity android:configChanges="uiMode" android:exported="false" android:name="com.gpsmapcamera.geotagginglocationonphoto.activity.SettingActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="uiMode" android:exported="false" android:name="com.gpsmapcamera.geotagginglocationonphoto.activity.EmailSettingActivity" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize"/>
+        <activity android:configChanges="uiMode" android:exported="false" android:name="com.gpsmapcamera.geotagginglocationonphoto.activity.PrimaryRecipientActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="uiMode" android:exported="false" android:name="com.gpsmapcamera.geotagginglocationonphoto.activity.SecondaryRecipientActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="uiMode" android:exported="false" android:name="com.gpsmapcamera.geotagginglocationonphoto.clusterImage.activity.ImageClusterActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="uiMode" android:exported="false" android:name="com.gpsmapcamera.geotagginglocationonphoto.clusterImage.activity.GalleryActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="uiMode" android:exported="false" android:name="com.gpsmapcamera.geotagginglocationonphoto.clusterImage.activity.PreviewActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="uiMode" android:exported="false" android:name="com.gpsmapcamera.geotagginglocationonphoto.activity.SubSettingActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="uiMode" android:exported="false" android:name="com.gpsmapcamera.geotagginglocationonphoto.activity.Permission_Activity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="uiMode" android:name="com.gpsmapcamera.geotagginglocationonphoto.activity.TempletSelectionActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="uiMode" android:name="com.gpsmapcamera.geotagginglocationonphoto.activity.StampColorActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="uiMode" android:name="com.gpsmapcamera.geotagginglocationonphoto.activity.HorizontalCustomDate" android:screenOrientation="portrait"/>
+        <activity android:configChanges="uiMode" android:name="com.gpsmapcamera.geotagginglocationonphoto.activity.TempletSettingActivity" android:screenOrientation="portrait"/>
+        <meta-data android:name="com.google.android.gms.ads.flag.OPTIMIZE_AD_LOADING" android:value="true"/>
+        <meta-data android:name="com.google.android.gms.ads.flag.OPTIMIZE_INITIALIZATION" android:value="true"/>
+        <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/facebook_app_id"/>
+        <meta-data android:name="com.google.android.gms.ads.APPLICATION_ID" android:value="@string/GPS_Map_camera_ADS_APP_ID"/>
+        <meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="@string/MAP_SDK_KEY"/>
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
+        <meta-data android:name="com.google.mlkit.vision.DEPENDENCIES" android:value="barcode_ui"/>
+        <meta-data android:name="com.google.android.gms.ads.flag.NATIVE_AD_DEBUGGER_ENABLED" android:value="false"/>
+        <meta-data android:name="com.tiktok.sdk.APPLICATION_ID" android:value="@string/TIKTOK_APP_ID"/>
+        <receiver android:configChanges="uiMode" android:enabled="true" android:exported="false" android:name="com.gpsmapcamera.geotagginglocationonphoto.LocalNotification.AlarmReceiver"/>
+        <receiver android:configChanges="uiMode" android:enabled="true" android:exported="false" android:name="com.gpsmapcamera.geotagginglocationonphoto.LocalNotification.AutoStart">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+        </receiver>
+        <activity android:configChanges="orientation|screenSize|uiMode" android:exported="true" android:name="com.gpsmapcamera.geotagginglocationonphoto.activity.Splash_Screen" android:screenOrientation="portrait" android:theme="@style/AppTheme.SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="uiMode" android:launchMode="singleTop" android:name="com.gpsmapcamera.geotagginglocationonphoto.activity.MoreAppsActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="uiMode" android:launchMode="singleTop" android:name="com.gpsmapcamera.geotagginglocationonphoto.activity.Privacy_Policy" android:screenOrientation="portrait"/>
+        <activity android:configChanges="uiMode" android:launchMode="singleTop" android:name="com.yalantis.ucrop.UCropActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="uiMode" android:launchMode="singleTop" android:name="com.gpsmapcamera.geotagginglocationonphoto.activity.Send_An_Error" android:screenOrientation="portrait" android:windowSoftInputMode="stateAlwaysHidden|adjustResize"/>
+        <activity android:configChanges="uiMode" android:launchMode="singleTop" android:name="com.gpsmapcamera.geotagginglocationonphoto.activity.FolderActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="uiMode" android:launchMode="singleTop" android:name="com.gpsmapcamera.geotagginglocationonphoto.activity.InAppPurchaseActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="uiMode" android:launchMode="singleTop" android:name="com.gpsmapcamera.geotagginglocationonphoto.activity.FileName_Activity" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize|stateHidden"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize|uiMode" android:exported="true" android:label="@string/app_name" android:name="com.gpsmapcamera.geotagginglocationonphoto.activity.CameraActivity" android:screenOrientation="portrait" android:theme="@style/AppTheme" android:windowSoftInputMode="adjustResize|stateVisible">
+            <intent-filter>
+                <action android:name="android.media.action.IMAGE_CAPTURE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.media.action.IMAGE_CAPTURE_SECURE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.media.action.STILL_IMAGE_CAMERA"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.media.action.STILL_IMAGE_CAMERA_SECURE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="uiMode" android:launchMode="singleTop" android:name="com.gpsmapcamera.geotagginglocationonphoto.activity.LocationActivity" android:screenOrientation="portrait" android:windowSoftInputMode="adjustPan"/>
+        <activity android:configChanges="uiMode" android:name="com.gpsmapcamera.geotagginglocationonphoto.activity.LanguageSelectionActivity" android:screenOrientation="portrait"/>
+        <provider android:authorities="com.gpsmapcamera.geotagginglocationonphoto.provider" android:grantUriPermissions="true" android:name="androidx.core.content.FileProvider">
+            <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/provider_paths"/>
+        </provider>
+        <activity android:name="com.tejpratapsingh.pdfcreator.activity.PDFViewerActivity"/>
+        <activity android:name="com.tejpratapsingh.pdfcreator.activity.PDFCreatorActivity"/>
+        <meta-data android:name="com.onesignal.NotificationServiceExtension" android:value="com.susamp.os_notifications.NotificationServiceExtension"/>
+        <activity android:name="com.karumi.dexter.DexterActivity" android:theme="@style/Dexter.Internal.Theme.Transparent"/>
+        <provider android:authorities="com.gpsmapcamera.geotagginglocationonphoto.androidx-startup" android:exported="false" android:name="androidx.startup.InitializationProvider">
+            <meta-data android:name="com.google.maps.android.utils.attribution.AttributionIdInitializer" android:value="androidx.startup"/>
+            <meta-data android:name="com.onesignal.core.internal.application.impl.ActivityLifecycleInitializer" android:value="androidx.startup"/>
+            <meta-data android:name="androidx.work.WorkManagerInitializer" android:value="androidx.startup"/>
+            <meta-data android:name="androidx.emoji2.text.EmojiCompatInitializer" android:value="androidx.startup"/>
+            <meta-data android:name="androidx.lifecycle.ProcessLifecycleInitializer" android:value="androidx.startup"/>
+            <meta-data android:name="androidx.profileinstaller.ProfileInstallerInitializer" android:value="androidx.startup"/>
+            <meta-data android:name="okhttp3.internal.platform.PlatformInitializer" android:value="androidx.startup"/>
+        </provider>
+        <uses-library android:name="androidx.camera.extensions.impl" android:required="false"/>
+        <service android:enabled="false" android:exported="false" android:name="androidx.camera.core.impl.MetadataHolderService">
+            <meta-data android:name="androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER" android:value="androidx.camera.camera2.Camera2Config$DefaultProvider"/>
+        </service>
+        <activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:exported="false" android:name="com.google.android.libraries.ads.mobile.sdk.common.AdActivity" android:theme="@style/Theme.GoogleMobileAds"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenLayout|screenSize" android:excludeFromRecents="true" android:exported="false" android:launchMode="singleTop" android:name="com.google.android.play.core.hsdp.service.HsdpShimActivity" android:theme="@style/Theme.HsdpServiceTransparent"/>
+        <activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize" android:name="com.facebook.FacebookActivity" android:theme="@style/com_facebook_activity_theme"/>
+        <activity android:name="com.facebook.CustomTabMainActivity"/>
+        <activity android:exported="true" android:name="com.facebook.CustomTabActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:host="cct.com.gpsmapcamera.geotagginglocationonphoto" android:scheme="fbconnect"/>
+            </intent-filter>
+        </activity>
+        <service android:directBootAware="true" android:exported="false" android:name="com.google.mlkit.common.internal.MlKitComponentDiscoveryService">
+            <meta-data android:name="com.google.firebase.components:com.google.mlkit.vision.barcode.internal.BarcodeRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data android:name="com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data android:name="com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+        </service>
+        <provider android:authorities="com.gpsmapcamera.geotagginglocationonphoto.mlkitinitprovider" android:exported="false" android:initOrder="99" android:name="com.google.mlkit.common.internal.MlKitInitProvider"/>
+        <receiver android:exported="true" android:name="com.onesignal.notifications.receivers.FCMBroadcastReceiver" android:permission="com.google.android.c2dm.permission.SEND">
+            <intent-filter android:priority="999">
+                <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
+                <category android:name="com.gpsmapcamera.geotagginglocationonphoto"/>
+            </intent-filter>
+        </receiver>
+        <service android:exported="false" android:name="com.onesignal.notifications.services.HmsMessageServiceOneSignal">
+            <intent-filter>
+                <action android:name="com.huawei.push.action.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+        <activity android:exported="true" android:name="com.onesignal.NotificationOpenedActivityHMS" android:noHistory="true" android:theme="@android:style/Theme.Translucent.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+            </intent-filter>
+        </activity>
+        <receiver android:exported="false" android:name="com.onesignal.notifications.receivers.NotificationDismissReceiver"/>
+        <receiver android:exported="false" android:name="com.onesignal.notifications.receivers.BootUpReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:exported="false" android:name="com.onesignal.notifications.receivers.UpgradeReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.MY_PACKAGE_REPLACED"/>
+            </intent-filter>
+        </receiver>
+        <activity android:excludeFromRecents="true" android:exported="false" android:name="com.onesignal.notifications.activities.NotificationOpenedActivity" android:noHistory="true" android:taskAffinity="" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <activity android:excludeFromRecents="true" android:exported="false" android:name="com.onesignal.notifications.activities.NotificationOpenedActivityAndroid22AndOlder" android:noHistory="true" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <service android:exported="false" android:name="com.onesignal.core.services.SyncJobService" android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <service android:exported="false" android:name="com.onesignal.SyncJobService" android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <activity android:exported="false" android:name="com.onesignal.core.activities.PermissionsActivity" android:theme="@style/OneSignal.Theme.Translucent"/>
+        <meta-data android:name="com.google.android.play.billingclient.version" android:value="9.1.0"/>
+        <activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize" android:exported="false" android:name="com.android.billingclient.api.ProxyBillingActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize" android:exported="false" android:name="com.android.billingclient.api.ProxyBillingActivityV2" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <activity android:excludeFromRecents="true" android:exported="false" android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <service android:exported="true" android:name="com.google.android.gms.auth.api.signin.RevocationBoundService" android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" android:visibleToInstantApps="true"/>
+        <receiver android:enabled="true" android:exported="false" android:name="com.google.android.gms.measurement.AppMeasurementReceiver"/>
+        <service android:enabled="true" android:exported="false" android:name="com.google.android.gms.measurement.AppMeasurementService"/>
+        <service android:enabled="true" android:exported="false" android:name="com.google.android.gms.measurement.AppMeasurementJobService" android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <service android:directBootAware="true" android:exported="false" android:name="com.google.firebase.components.ComponentDiscoveryService">
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingKtxRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.remoteconfig.FirebaseRemoteConfigKtxRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.remoteconfig.RemoteConfigRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.abt.component.AbtRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+        </service>
+        <receiver android:exported="true" android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver" android:permission="com.google.android.c2dm.permission.SEND">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
+            </intent-filter>
+            <meta-data android:name="com.google.android.gms.cloudmessaging.FINISHED_AFTER_HANDLED" android:value="true"/>
+        </receiver>
+        <service android:directBootAware="true" android:exported="false" android:name="com.google.firebase.messaging.FirebaseMessagingService">
+            <intent-filter android:priority="-500">
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+        <activity android:exported="false" android:name="com.google.android.gms.common.api.GoogleApiActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <provider android:authorities="com.gpsmapcamera.geotagginglocationonphoto.firebaseinitprovider" android:directBootAware="true" android:exported="false" android:initOrder="100" android:name="com.google.firebase.provider.FirebaseInitProvider"/>
+        <service android:directBootAware="false" android:enabled="@bool/enable_system_job_service_default" android:exported="true" android:name="androidx.work.impl.background.systemjob.SystemJobService" android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <service android:directBootAware="false" android:enabled="@bool/enable_system_foreground_service_default" android:exported="false" android:name="androidx.work.impl.foreground.SystemForegroundService"/>
+        <receiver android:directBootAware="false" android:enabled="true" android:exported="false" android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"/>
+        <receiver android:directBootAware="false" android:enabled="false" android:exported="false" android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:directBootAware="false" android:enabled="true" android:exported="true" android:name="androidx.work.impl.diagnostics.DiagnosticsReceiver" android:permission="android.permission.DUMP">
+            <intent-filter>
+                <action android:name="androidx.work.diagnostics.REQUEST_DIAGNOSTICS"/>
+            </intent-filter>
+        </receiver>
+        <provider android:authorities="com.gpsmapcamera.geotagginglocationonphoto.FacebookInitProvider" android:exported="false" android:name="com.facebook.internal.FacebookInitProvider"/>
+        <receiver android:exported="false" android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver">
+            <intent-filter>
+                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:exported="false" android:name="com.facebook.AuthenticationTokenManager$CurrentAuthenticationTokenChangedBroadcastReceiver">
+            <intent-filter>
+                <action android:name="com.facebook.sdk.ACTION_CURRENT_AUTHENTICATION_TOKEN_CHANGED"/>
+            </intent-filter>
+        </receiver>
+        <uses-library android:name="android.ext.adservices" android:required="false"/>
+        <service android:directBootAware="true" android:exported="false" android:name="androidx.room.MultiInstanceInvalidationService"/>
+        <receiver android:directBootAware="false" android:enabled="true" android:exported="true" android:name="androidx.profileinstaller.ProfileInstallReceiver" android:permission="android.permission.DUMP">
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.SKIP_FILE"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION"/>
+            </intent-filter>
+        </receiver>
+        <service android:exported="false" android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery">
+            <meta-data android:name="backend:com.google.android.datatransport.cct.CctBackendFactory" android:value="cct"/>
+        </service>
+        <service android:exported="false" android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService" android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <receiver android:exported="false" android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"/>
+        <activity android:exported="false" android:name="com.google.android.play.core.common.PlayCoreDialogWrapperActivity" android:stateNotNeeded="true" android:theme="@style/Theme.PlayCore.Transparent"/>
+        <activity android:exported="false" android:name="com.pairip.licensecheck.LicenseActivity"/>
+        <meta-data android:name="com.android.vending.splits.required" android:value="true"/>
+        <meta-data android:name="com.android.stamp.source" android:value="https://play.google.com/store"/>
+        <meta-data android:name="com.android.stamp.type" android:value="STAMP_TYPE_DISTRIBUTION_APK"/>
+        <meta-data android:name="com.android.vending.splits" android:resource="@xml/splits0"/>
+        <meta-data android:name="com.android.vending.derived.apk.id" android:value="4"/>
+    </application>
+    <uses-permission android:name="com.android.vending.CHECK_LICENSE"/>
+</manifest>

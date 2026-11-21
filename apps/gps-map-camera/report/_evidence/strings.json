@@ -1,0 +1,4046 @@
+[
+{
+"name": "CronetProviderClassName",
+"value": "com.google.android.gms.net.PlayServicesCronetProvider"
+},
+{
+"name": "Details",
+"value": "Info"
+},
+{
+"name": "GPS_Map_camera_ADS_APP_ID",
+"value": "ca-app-pub-1531973473735447~5005213190"
+},
+{
+"name": "MAP_SDK_KEY",
+"value": "AIzaSyD741…[redacted]"
+},
+{
+"name": "MGRS_USNG",
+"value": "MGRS, USNG"
+},
+{
+"name": "Mobiledata",
+"value": "Use Mobile Data"
+},
+{
+"name": "PRODUCT_ID_12_MONTHS",
+"value": "com.gpsmapcamera.withoutads.oneyear"
+},
+{
+"name": "PRODUCT_ID_6_MONTHS",
+"value": "com.gpsmapcamera.withoutads.sixmonth"
+},
+{
+"name": "PRODUCT_ID_AD",
+"value": "com.gpsmapcamera.geotagginglocationonphoto.removeads"
+},
+{
+"name": "PRODUCT_ID_ALL",
+"value": "com.gpsmapcamera.geotagginglocationonphoto.fullpurchase"
+},
+{
+"name": "PRODUCT_ID_WITH_AD",
+"value": "com.gpsmapcamera.geotagginglocationonphoto.adsfullpurchase"
+},
+{
+"name": "TIKTOK_APP_ID",
+"value": "7594777517932707848"
+},
+{
+"name": "UTM",
+"value": "UTM"
+},
+{
+"name": "_12_months",
+"value": "12 Months"
+},
+{
+"name": "_24_hour",
+"value": "24 Hour"
+},
+{
+"name": "_6_months",
+"value": "6 Months"
+},
+{
+"name": "_mo",
+"value": "/mo"
+},
+{
+"name": "_splash_title",
+"value": "GPS Map Camera"
+},
+{
+"name": "abc_action_bar_home_description",
+"value": "Navigate home"
+},
+{
+"name": "abc_action_bar_up_description",
+"value": "Navigate up"
+},
+{
+"name": "abc_action_menu_overflow_description",
+"value": "More options"
+},
+{
+"name": "abc_action_mode_done",
+"value": "Done"
+},
+{
+"name": "abc_activity_chooser_view_see_all",
+"value": "See all"
+},
+{
+"name": "abc_activitychooserview_choose_application",
+"value": "Choose an app"
+},
+{
+"name": "abc_capital_off",
+"value": "OFF"
+},
+{
+"name": "abc_capital_on",
+"value": "ON"
+},
+{
+"name": "abc_menu_alt_shortcut_label",
+"value": "Alt+"
+},
+{
+"name": "abc_menu_ctrl_shortcut_label",
+"value": "Ctrl+"
+},
+{
+"name": "abc_menu_delete_shortcut_label",
+"value": "delete"
+},
+{
+"name": "abc_menu_enter_shortcut_label",
+"value": "enter"
+},
+{
+"name": "abc_menu_function_shortcut_label",
+"value": "Function+"
+},
+{
+"name": "abc_menu_meta_shortcut_label",
+"value": "Meta+"
+},
+{
+"name": "abc_menu_shift_shortcut_label",
+"value": "Shift+"
+},
+{
+"name": "abc_menu_space_shortcut_label",
+"value": "space"
+},
+{
+"name": "abc_menu_sym_shortcut_label",
+"value": "Sym+"
+},
+{
+"name": "abc_prepend_shortcut_label",
+"value": "Menu+"
+},
+{
+"name": "abc_search_hint",
+"value": "Search\u2026"
+},
+{
+"name": "abc_searchview_description_clear",
+"value": "Clear query"
+},
+{
+"name": "abc_searchview_description_query",
+"value": "Search query"
+},
+{
+"name": "abc_searchview_description_search",
+"value": "Search"
+},
+{
+"name": "abc_searchview_description_submit",
+"value": "Submit query"
+},
+{
+"name": "abc_searchview_description_voice",
+"value": "Voice search"
+},
+{
+"name": "abc_shareactionprovider_share_with",
+"value": "Share with"
+},
+{
+"name": "abc_shareactionprovider_share_with_application",
+"value": "Share with %s"
+},
+{
+"name": "abc_toolbar_collapse_description",
+"value": "Collapse"
+},
+{
+"name": "about",
+"value": "ABOUT"
+},
+{
+"name": "about_privacy_policy",
+"value": "https://sites.google.com/view/gmcapp-privacy/home"
+},
+{
+"name": "about_term_of_use",
+"value": "https://sites.google.com/view/gmcapptos/home"
+},
+{
+"name": "accuracy",
+"value": "Accuracy"
+},
+{
+"name": "action_settings",
+"value": "Settings"
+},
+{
+"name": "add",
+"value": "Add"
+},
+{
+"name": "add_address",
+"value": "Address"
+},
+{
+"name": "add_company_name_first",
+"value": "Add company name first"
+},
+{
+"name": "add_comparison_group",
+"value": "+ Add Comparison Group"
+},
+{
+"name": "add_contact_number_first",
+"value": "Add Contact Number first"
+},
+{
+"name": "add_custom_name",
+"value": "Add Custom Name"
+},
+{
+"name": "add_custom_name_1",
+"value": "Custom Name 1"
+},
+{
+"name": "add_custom_name_2",
+"value": "Custom Name 2"
+},
+{
+"name": "add_custom_name_3",
+"value": "Custom Name 3"
+},
+{
+"name": "add_date_and_time",
+"value": "Date and Time"
+},
+{
+"name": "add_description",
+"value": "Add a description (optional)"
+},
+{
+"name": "add_folder_empty_msg",
+"value": "Please add valid folder name"
+},
+{
+"name": "add_lat_lng",
+"value": "Latitude/Longitude"
+},
+{
+"name": "add_mobile_number",
+"value": "Add Mobile Number"
+},
+{
+"name": "add_new_folder",
+"value": "Add New Folder"
+},
+{
+"name": "add_note",
+"value": "Add"
+},
+{
+"name": "add_note_",
+"value": "Add note"
+},
+{
+"name": "add_notes_hashtag",
+"value": "Add Note / Hashtag"
+},
+{
+"name": "add_number",
+"value": "Add Number"
+},
+{
+"name": "add_office_number",
+"value": "Add Office Number"
+},
+{
+"name": "add_person_name_first",
+"value": "Add Person Name first"
+},
+{
+"name": "add_photo",
+"value": "Add photos"
+},
+{
+"name": "add_private_contact_number",
+"value": "Add Private Contact Number"
+},
+{
+"name": "add_project_name_first",
+"value": "Add project name first"
+},
+{
+"name": "add_remark_first",
+"value": "Add remark first"
+},
+{
+"name": "add_sequence_num",
+"value": "Sequence Number"
+},
+{
+"name": "add_site_landline_number",
+"value": "Add Site Landline Number"
+},
+{
+"name": "add_summary",
+"value": "Add Summary (Optional)"
+},
+{
+"name": "add_supervisor_first",
+"value": "Add supervisor first"
+},
+{
+"name": "add_tag",
+"value": "Add Tag"
+},
+{
+"name": "add_text",
+"value": "Add Text"
+},
+{
+"name": "add_title",
+"value": "Add title"
+},
+{
+"name": "add_title_first",
+"value": "Add title first"
+},
+{
+"name": "addi_rec",
+"value": "Additional Recipient"
+},
+{
+"name": "address",
+"value": "Full Address"
+},
+{
+"name": "adele",
+"value": "Adele"
+},
+{
+"name": "advance_settings",
+"value": "Stamp Settings"
+},
+{
+"name": "advance_template",
+"value": "Advance Template"
+},
+{
+"name": "after",
+"value": "After"
+},
+{
+"name": "alert_delete_companyname_pdf",
+"value": "Delete Company Name"
+},
+{
+"name": "alert_delete_message_companyname_pdf",
+"value": "Are you sure want to delete this company name?"
+},
+{
+"name": "alert_delete_message_projectname_pdf",
+"value": "Are you sure want to delete this project name?"
+},
+{
+"name": "alert_delete_message_remark_pdf",
+"value": "Are you sure want to delete this remark?"
+},
+{
+"name": "alert_delete_message_supervisor_pdf",
+"value": "Are you sure want to delete this supervisor name?"
+},
+{
+"name": "alert_delete_message_title_pdf",
+"value": "Are you sure want to delete this title?"
+},
+{
+"name": "alert_delete_projectname_pdf",
+"value": "Delete Project Name"
+},
+{
+"name": "alert_delete_remark_pdf",
+"value": "Delete Remark"
+},
+{
+"name": "alert_delete_supervisor_pdf",
+"value": "Delete Supervisor Name"
+},
+{
+"name": "alert_delete_title_pdf",
+"value": "Delete Title"
+},
+{
+"name": "alert_share_btn_negative",
+"value": "No, Thanks"
+},
+{
+"name": "alert_share_btn_positive",
+"value": "Share"
+},
+{
+"name": "alert_share_dialog_mesg",
+"value": "If you Enjoy using GPS Map Camera for Photos App than share app with your friends network."
+},
+{
+"name": "alert_share_title",
+"value": "Share App"
+},
+{
+"name": "all_address_empty_msg",
+"value": "Please enter at least one address value"
+},
+{
+"name": "allignment",
+"value": "Alignment"
+},
+{
+"name": "allow",
+"value": "Allow"
+},
+{
+"name": "allow_for_smooth",
+"value": "Open Setting and Give Manual Permission For Access Location and Camera For Better and Fast Response"
+},
+{
+"name": "allow_for_smooth_1",
+"value": "Open Setting and Give Manual Permission For Access Location, Storage and Camera For Better and Fast Response"
+},
+{
+"name": "allow_for_smooth_audio",
+"value": "Open Setting and give manual permission for Record Audio for record video sound"
+},
+{
+"name": "allow_permissions",
+"value": "Allow Permissions"
+},
+{
+"name": "altitude",
+"value": "Altitude"
+},
+{
+"name": "amazon",
+"value": "Amazon"
+},
+{
+"name": "androidx_startup",
+"value": "androidx.startup"
+},
+{
+"name": "ans_1_pre_desc",
+"value": "- The Manual Location feature allows users to edit and customize the location details stamped on their photos. This feature is particularly useful for adding personalized addresses to photos taken for events, business purposes, or creative projects."
+},
+{
+"name": "ans_1_pre_desc_1",
+"value": "\u2726 How to use the Manual Location feature?"
+},
+{
+"name": "ans_1_que_1",
+"value": "\u2726 What does \u201cIn Range\u201d Manual Location mean?"
+},
+{
+"name": "ans_1_que_1_ans",
+"value": "- \u201cIn Range\u201d means you\u2019ve added a Manual Location with a specific range (like 100m), and your current location is inside that range."
+},
+{
+"name": "ans_1_que_2",
+"value": "\u2726 What is an \\\"Out of Range\\\" Manual Location?"
+},
+{
+"name": "ans_1_que_2_ans",
+"value": "- \\\"Out of Range\\\" means you\u2019ve added Manual Locations, but your current location is not inside the range of any of added manual location. Since your current location is outside the range of all Manual Locations, you cannot use them on your photos until you move closer to one of those locations."
+},
+{
+"name": "ans_1_que_3",
+"value": "\"\u2726 Why can't I select an Out of Range Manual Location?\""
+},
+{
+"name": "ans_1_que_3_ans",
+"value": "\"- You cannot select an Out of Range Manual Location because your current location is outside the range you set for manual locations. Once you're inside the range, you\u2019ll be able to select and use that Manual Location on your photos.\""
+},
+{
+"name": "ans_1_que_4",
+"value": "\u2726 What is the purpose of setting a range for Manual Locations?"
+},
+{
+"name": "ans_1_que_4_ans",
+"value": "- The range ensures that you are physically inside the location range you set. This keeps your photos authentic by making sure the address stamped on the photo matches where you are. You need to be within the specified range (for example, 100m) to use the Manual Location."
+},
+{
+"name": "ans_1_que_5",
+"value": "\u2726 How does the Manual Location feature improve photo authenticity?"
+},
+{
+"name": "ans_1_que_5_ans",
+"value": "- By requiring you to be physically within range of the location you set, the feature ensures that the address stamped on your photos is accurate and can\u2019t be manipulated. This adds authenticity and trustworthiness to your work photos, as the location data is real."
+},
+{
+"name": "ans_1_que_6",
+"value": "\u2726 Why can\u2019t I change the short address (City, State, Country) in Manual Locations?"
+},
+{
+"name": "ans_1_que_6_ans",
+"value": "- To maintain location accuracy, the short address (City, State, Country) cannot be changed. This ensures the photo\u2019s location is real and prevents from stamping photos with false or incorrect city or country information."
+},
+{
+"name": "ans_1_que_7",
+"value": "\u2726 Can I use Manual Locations without visiting the actual place?"
+},
+{
+"name": "ans_1_que_7_ans",
+"value": "- No, you must visit the actual place and be within the range you set to use a Manual Location. This ensures that the address stamped on your photos reflects the real location where the photo was taken."
+},
+{
+"name": "ans_1_que_8",
+"value": "\u2726 Can I add a Manual Location for a different place while I\u2019m at my current location?"
+},
+{
+"name": "ans_1_que_8_ans",
+"value": "\"- Yes, you can add a Manual Location for another place while you\u2019re at your current location. However, you will only be able to use that Manual Location when you are physically near that place and within the range you set. If you are not in the range of that location, you won't be able to use it to stamp photos.\""
+},
+{
+"name": "ans_1_step_1_desc",
+"value": "- Find + and tap to add the Manual Location."
+},
+{
+"name": "ans_1_step_4_desc",
+"value": "- Choose a radius for the range (for example, 100m). This means you have to be within that distance from the location to use it."
+},
+{
+"name": "ans_1_step_5",
+"value": "Edit the location \\\"Line 1\\\""
+},
+{
+"name": "ans_1_step_5_desc",
+"value": "- You can change the detailed address."
+},
+{
+"name": "ans_1_step_6_desc_1",
+"value": "- After filling in the details, tap \\\"\u2714\\\"."
+},
+{
+"name": "ans_1_step_6_desc_2",
+"value": "- Your manual location is now added!"
+},
+{
+"name": "ans_1_step_7_desc",
+"value": "- You can see and use the Manual Location feature when you are physically in range of the manually added locations."
+},
+{
+"name": "answer_1_desc_11",
+"value": "Set a Range"
+},
+{
+"name": "answer_1_desc_3",
+"value": "Add Manual Location"
+},
+{
+"name": "answer_1_desc_4",
+"value": "Set a title for the Manual Location"
+},
+{
+"name": "answer_1_desc_6",
+"value": "- Give the location a name. This can be anything you like to help you remember it."
+},
+{
+"name": "app_error_report",
+"value": "Error Report"
+},
+{
+"name": "app_name",
+"value": "GPS Map Camera"
+},
+{
+"name": "app_recipient",
+"value": "support@gpsmapcamera.com"
+},
+{
+"name": "app_theme",
+"value": "App Theme"
+},
+{
+"name": "appbar_scrolling_view_behavior",
+"value": "com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior"
+},
+{
+"name": "apply",
+"value": "Apply"
+},
+{
+"name": "april",
+"value": "April"
+},
+{
+"name": "aqilevel",
+"value": "AQI"
+},
+{
+"name": "are_you_enjoy_app",
+"value": "\"Here's whats you get\""
+},
+{
+"name": "are_you_sure_you_want_to_delete_this_item",
+"value": "Are you sure you want to delete?"
+},
+{
+"name": "ascending",
+"value": "Ascending"
+},
+{
+"name": "atleast_one_location",
+"value": "Add at least 1 location."
+},
+{
+"name": "audrey",
+"value": "Audrey"
+},
+{
+"name": "auto_save",
+"value": "Auto-save photos to"
+},
+{
+"name": "azimuth",
+"value": "Azimuth/Bearing"
+},
+{
+"name": "background_color",
+"value": "Background Color"
+},
+{
+"name": "bef_aft_report_title",
+"value": "Before / After Report"
+},
+{
+"name": "before",
+"value": "Before"
+},
+{
+"name": "before_after",
+"value": "Before / After"
+},
+{
+"name": "before_after_disc",
+"value": "Document changes with side-by-side photos, descriptions, and location."
+},
+{
+"name": "bg_color",
+"value": "BG Color"
+},
+{
+"name": "bluemess",
+"value": "BlueMess"
+},
+{
+"name": "bottom_sheet_behavior",
+"value": "com.google.android.material.bottomsheet.BottomSheetBehavior"
+},
+{
+"name": "bottomsheet_action_collapse",
+"value": "Collapse"
+},
+{
+"name": "bottomsheet_action_expand",
+"value": "Expand"
+},
+{
+"name": "bottomsheet_action_expand_halfway",
+"value": "Expand halfway"
+},
+{
+"name": "brightness",
+"value": "Brightness"
+},
+{
+"name": "buy_now",
+"value": "Buy Now"
+},
+{
+"name": "cam_tracking",
+"value": "Show Camera Indicator"
+},
+{
+"name": "cam_tracking_desc",
+"value": "Front/rear camera icon on stamp"
+},
+{
+"name": "camera_level",
+"value": "Camera Level"
+},
+{
+"name": "cancel",
+"value": "Cancel"
+},
+{
+"name": "capture",
+"value": "Photo Capture"
+},
+{
+"name": "change_color",
+"value": "Change Colors"
+},
+{
+"name": "change_orientation",
+"value": "Change Orientation"
+},
+{
+"name": "character_counter_content_description",
+"value": "Characters entered %1$d of %2$d"
+},
+{
+"name": "character_counter_overflowed_content_description",
+"value": "Character limit exceeded %1$d of %2$d"
+},
+{
+"name": "character_counter_pattern",
+"value": "%1$d/%2$d"
+},
+{
+"name": "choose_option",
+"value": "Choose One Option"
+},
+{
+"name": "choose_option_desc",
+"value": "\"You have enabled both 'Location Share' and 'Email Settings'. Please choose only one option to continue.\""
+},
+{
+"name": "choose_your_lan",
+"value": "Choose Your Preferred Language"
+},
+{
+"name": "city",
+"value": "City"
+},
+{
+"name": "clarendon",
+"value": "Clarendon"
+},
+{
+"name": "classic_template",
+"value": "Classic Template"
+},
+{
+"name": "clear_text_end_icon_content_description",
+"value": "Clear text"
+},
+{
+"name": "click_100_times_photo_click",
+"value": "click_100_times_photo_click"
+},
+{
+"name": "click_10_time_open_45_pics",
+"value": "click_10_time_open_45_pics"
+},
+{
+"name": "click_15th_day_app_open",
+"value": "click_15th_day_app_open"
+},
+{
+"name": "click_2nd_day_app_open",
+"value": "click_2nd_day_app_open"
+},
+{
+"name": "click_3_time_no_buy",
+"value": "click_3_time_no_buy"
+},
+{
+"name": "click_3_time_no_buy_stan",
+"value": "click_3_time_no_buy_stan"
+},
+{
+"name": "click_50_photo_click_pro_screen",
+"value": "click_50_photo_click_pro_screen"
+},
+{
+"name": "click_camset_open_time",
+"value": "click_camset_open_time"
+},
+{
+"name": "click_file_open_time",
+"value": "click_file_open_time"
+},
+{
+"name": "click_fold_open_time",
+"value": "click_fold_open_time"
+},
+{
+"name": "click_font_open_time",
+"value": "click_font_open_time"
+},
+{
+"name": "click_map_open_time",
+"value": "click_map_open_time"
+},
+{
+"name": "click_stamppos_open_time",
+"value": "click_stamppos_open_time"
+},
+{
+"name": "click_temp_open_time",
+"value": "click_temp_open_time"
+},
+{
+"name": "close",
+"value": "Close"
+},
+{
+"name": "close_app",
+"value": "Close App"
+},
+{
+"name": "close_button",
+"value": "Close button"
+},
+{
+"name": "cluster_loading",
+"value": "Loading\u2026"
+},
+{
+"name": "collection",
+"value": "Preview"
+},
+{
+"name": "color",
+"value": "Color"
+},
+{
+"name": "color_inapp_msg",
+"value": "To unlock full range of colors, Upgrade to PRO"
+},
+{
+"name": "color_pro_feature_1",
+"value": "Unlimited stamp color customization"
+},
+{
+"name": "color_pro_feature_2",
+"value": "Match your company\u2019s brand colors with HEX codes"
+},
+{
+"name": "color_pro_feature_3",
+"value": "Save and reuse favorite colors"
+},
+{
+"name": "com_facebook_device_auth_instructions",
+"value": "Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above."
+},
+{
+"name": "com_facebook_internet_permission_error_message",
+"value": "WebView login requires INTERNET permission"
+},
+{
+"name": "com_facebook_internet_permission_error_title",
+"value": "AndroidManifest Error"
+},
+{
+"name": "com_facebook_loading",
+"value": "Loading\u2026"
+},
+{
+"name": "com_facebook_smart_device_instructions",
+"value": "To connect your account, open the Facebook app on your mobile device and check for notifications."
+},
+{
+"name": "com_facebook_smart_device_instructions_or",
+"value": "- OR -"
+},
+{
+"name": "com_facebook_smart_login_confirmation_cancel",
+"value": "Not you?"
+},
+{
+"name": "com_facebook_smart_login_confirmation_continue_as",
+"value": "Continue as %1$s"
+},
+{
+"name": "com_facebook_smart_login_confirmation_title",
+"value": "Confirm Login"
+},
+{
+"name": "common_google_play_services_enable_button",
+"value": "Enable"
+},
+{
+"name": "common_google_play_services_enable_text",
+"value": "\"%1$s won't work unless you enable Google Play services.\""
+},
+{
+"name": "common_google_play_services_enable_title",
+"value": "Enable Google Play services"
+},
+{
+"name": "common_google_play_services_install_button",
+"value": "Install"
+},
+{
+"name": "common_google_play_services_install_text",
+"value": "\"%1$s won't run without Google Play services, which are missing from your device.\""
+},
+{
+"name": "common_google_play_services_install_title",
+"value": "Get Google Play services"
+},
+{
+"name": "common_google_play_services_notification_channel_name",
+"value": "Google Play services availability"
+},
+{
+"name": "common_google_play_services_notification_ticker",
+"value": "Google Play services error"
+},
+{
+"name": "common_google_play_services_unknown_issue",
+"value": "%1$s is having trouble with Google Play services. Please try again."
+},
+{
+"name": "common_google_play_services_unsupported_text",
+"value": "\"%1$s won't run without Google Play services, which are not supported by your device.\""
+},
+{
+"name": "common_google_play_services_update_button",
+"value": "Update"
+},
+{
+"name": "common_google_play_services_update_text",
+"value": "\"%1$s won't run unless you update Google Play services.\""
+},
+{
+"name": "common_google_play_services_update_title",
+"value": "Update Google Play services"
+},
+{
+"name": "common_google_play_services_updating_text",
+"value": "\"%1$s won't run without Google Play services, which are currently updating.\""
+},
+{
+"name": "common_google_play_services_wear_update_text",
+"value": "New version of Google Play services needed. It will update itself shortly."
+},
+{
+"name": "common_open_on_phone",
+"value": "Open on phone"
+},
+{
+"name": "company_name",
+"value": "Company Name"
+},
+{
+"name": "company_organisation_name",
+"value": "Company / Organization Name"
+},
+{
+"name": "comparison",
+"value": "Comparison"
+},
+{
+"name": "comparison_title",
+"value": "Comparison Title"
+},
+{
+"name": "compass",
+"value": "Compass"
+},
+{
+"name": "compass_pos",
+"value": "Compass Position"
+},
+{
+"name": "congratulations",
+"value": "Congratulations"
+},
+{
+"name": "connected",
+"value": "Connected"
+},
+{
+"name": "contact_exist",
+"value": "Contact number already exist"
+},
+{
+"name": "contact_number",
+"value": "Contact Number"
+},
+{
+"name": "content",
+"value": "Content"
+},
+{
+"name": "continue_in_language",
+"value": "Continue in %1$s"
+},
+{
+"name": "continue_previous_report",
+"value": "Continue previous report?"
+},
+{
+"name": "continue_report",
+"value": "Continue Report"
+},
+{
+"name": "continue_where_you_left_off",
+"value": "Continue where you left off"
+},
+{
+"name": "contry_flag",
+"value": "Country Flag"
+},
+{
+"name": "coordinates",
+"value": "Coordinates"
+},
+{
+"name": "coordinates_copied",
+"value": "Coordinates copied to clipboard"
+},
+{
+"name": "copied_to",
+"value": "Copied to"
+},
+{
+"name": "copy",
+"value": "Copy"
+},
+{
+"name": "copy_failed",
+"value": "Copy Failed."
+},
+{
+"name": "copy_to",
+"value": "Copy to"
+},
+{
+"name": "copying",
+"value": "Copying\u2026"
+},
+{
+"name": "country",
+"value": "Country"
+},
+{
+"name": "create_custom_folders",
+"value": "Create custom folders"
+},
+{
+"name": "create_custom_folders_desc",
+"value": "Upgrade to organize original photos into folders for projects, sites, or teams."
+},
+{
+"name": "create_custom_format",
+"value": "Create custom format"
+},
+{
+"name": "create_date_time",
+"value": "Create Date &amp; Time"
+},
+{
+"name": "create_folder",
+"value": "Create Folder"
+},
+{
+"name": "cruz",
+"value": "Cruz"
+},
+{
+"name": "cus_1_empty_msg",
+"value": "Please enter custom name 1"
+},
+{
+"name": "cus_2",
+"value": "Custom Name 2"
+},
+{
+"name": "cus_2_empty_msg",
+"value": "Please enter custom name 2"
+},
+{
+"name": "cus_3",
+"value": "Custom Name 3"
+},
+{
+"name": "cus_3_empty_msg",
+"value": "Please enter custom name 3"
+},
+{
+"name": "custom_location",
+"value": "Add Manual Location"
+},
+{
+"name": "custom_location_update",
+"value": "Update Manual Location"
+},
+{
+"name": "custom_stamp_styling",
+"value": "Custom stamp styling"
+},
+{
+"name": "custom_stamp_styling_desc",
+"value": "Upgrade to GPS Map PRO to use custom brand colors, create custom stamp palettes, and unlock unlimited stamp styling."
+},
+{
+"name": "darkmode",
+"value": "Dark Mode"
+},
+{
+"name": "date_and_time",
+"value": "Date &amp; Time"
+},
+{
+"name": "date_taken",
+"value": "Date taken:"
+},
+{
+"name": "date_time_format",
+"value": "Custom Date &amp; Time Format"
+},
+{
+"name": "dateformat",
+"value": "Date Format"
+},
+{
+"name": "datetime_template",
+"value": "DateTime Template"
+},
+{
+"name": "dec_degs",
+"value": "Dec Degs"
+},
+{
+"name": "dec_degs_micro",
+"value": "Dec Degs Micro"
+},
+{
+"name": "dec_mins",
+"value": "Dec Mins"
+},
+{
+"name": "dec_mins_secs",
+"value": "Dec Mins Secs"
+},
+{
+"name": "decimal",
+"value": "Decimal"
+},
+{
+"name": "defaultmode",
+"value": "System Default"
+},
+{
+"name": "deg_mins_secs",
+"value": "Deg Mins Secs"
+},
+{
+"name": "delete",
+"value": "Delete"
+},
+{
+"name": "delete_comparison",
+"value": "Delete comparison?"
+},
+{
+"name": "delete_comparison_confirm_msg",
+"value": "Are you sure you want to delete this &lt;b>%1$s&lt;/b> comparison?"
+},
+{
+"name": "delete_contact_confirm_msg",
+"value": "&lt;b>%1$s&lt;/b> will be removed from recently added contacts."
+},
+{
+"name": "delete_date_msg",
+"value": "Are you sure want to delete the Date?"
+},
+{
+"name": "delete_dialog_message",
+"value": "Contents of the folder will also be deleted."
+},
+{
+"name": "delete_dialog_title",
+"value": "Delete folder?"
+},
+{
+"name": "delete_failed",
+"value": "Delete failed"
+},
+{
+"name": "delete_location",
+"value": "Delete location"
+},
+{
+"name": "delete_location_confirm_msg",
+"value": "&lt;b>%1$s&lt;/b> will be permanently removed from your saved locations."
+},
+{
+"name": "delete_logo_message",
+"value": "Are you sure you want to delete this logo from your recent logos? Photos that already use this logo will not be affected."
+},
+{
+"name": "delete_logo_title",
+"value": "Delete Logo?"
+},
+{
+"name": "delete_note_msg",
+"value": "Are you sure want to delete the Note?"
+},
+{
+"name": "delete_report_tag_msg",
+"value": "Are you sure want to delete the Reporting Tag?"
+},
+{
+"name": "delete_this_item",
+"value": "Delete?"
+},
+{
+"name": "delete_this_location",
+"value": "Delete location?"
+},
+{
+"name": "delete_this_number",
+"value": "Delete this number?"
+},
+{
+"name": "descending",
+"value": "Descending"
+},
+{
+"name": "describe_issue_hint",
+"value": "What happened? Please tell us what you were trying to do."
+},
+{
+"name": "describe_the_issue",
+"value": "Describe the issue"
+},
+{
+"name": "device_storage_path",
+"value": "Device Storage -> DCIM -> GPS Map Camera"
+},
+{
+"name": "discard",
+"value": "Discard"
+},
+{
+"name": "discard_changes",
+"value": "Discard Changes"
+},
+{
+"name": "discard_message",
+"value": "Your changes have not been saved"
+},
+{
+"name": "discard_message_pdf",
+"value": "\"This report and its photos haven't been saved. You'll lose them if you leave.\""
+},
+{
+"name": "discard_report",
+"value": "Discard report?"
+},
+{
+"name": "disconnect",
+"value": "Disconnect"
+},
+{
+"name": "disconnect_description",
+"value": "Photos will no longer sync to your Google Drive account."
+},
+{
+"name": "disconnect_google_drive",
+"value": "Disconnect Google Drive?"
+},
+{
+"name": "dislike_it",
+"value": "Dislike it"
+},
+{
+"name": "dismiss_button_description",
+"value": "sdk_loading_ui_dismiss_button"
+},
+{
+"name": "dms",
+"value": "DMS"
+},
+{
+"name": "done",
+"value": "Done"
+},
+{
+"name": "dummy_folder_empty_msg",
+"value": "Folder name is already exist"
+},
+{
+"name": "economic_warning_msg",
+"value": "With Standard Purchase, Ads will be there! You are purchasing for New Folders, Add file name, Colors &amp; No Watermark."
+},
+{
+"name": "economical",
+"value": "Economical"
+},
+{
+"name": "edit",
+"value": "Edit"
+},
+{
+"name": "edit_date_time",
+"value": "Edit Date &amp; Time"
+},
+{
+"name": "eg_company_or_organization_name",
+"value": "e.g. company or organization name"
+},
+{
+"name": "eg_site_projects",
+"value": "e.g. Site Projects"
+},
+{
+"name": "elevation",
+"value": "Elevation"
+},
+{
+"name": "email",
+"value": "Email"
+},
+{
+"name": "email_choose_from_client",
+"value": "Choose an email client from\u2026"
+},
+{
+"name": "email_is_added_already",
+"value": "Email added already"
+},
+{
+"name": "email_no_client",
+"value": "No email client installed."
+},
+{
+"name": "email_setting",
+"value": "Email Photo"
+},
+{
+"name": "email_setting_desc",
+"value": "Open email with photo attached after capture"
+},
+{
+"name": "empty_contact_number",
+"value": "Please enter contact number"
+},
+{
+"name": "empty_note",
+"value": "Please enter any one from title or note"
+},
+{
+"name": "enable_instant_sharing",
+"value": "Enable Instant Sharing"
+},
+{
+"name": "enable_instant_sharing_first",
+"value": "Enable instant sharing first"
+},
+{
+"name": "enter_company_name",
+"value": "Add Company name first"
+},
+{
+"name": "enter_content",
+"value": "Enter content"
+},
+{
+"name": "enter_correct_email",
+"value": "Enter correct email"
+},
+{
+"name": "enter_email_subject",
+"value": "Enter email subject"
+},
+{
+"name": "enter_file_name",
+"value": "Rename File"
+},
+{
+"name": "enter_new_email",
+"value": "Enter new email"
+},
+{
+"name": "enter_prefix",
+"value": "Enter prefix"
+},
+{
+"name": "enter_prepared_by",
+"value": "Enter prepared by name first"
+},
+{
+"name": "enter_project_name",
+"value": "Add Project name first"
+},
+{
+"name": "enter_remark",
+"value": "Add Remark first"
+},
+{
+"name": "enter_report_title",
+"value": "Enter report title"
+},
+{
+"name": "enter_reportby",
+"value": "Add Report by name first"
+},
+{
+"name": "enter_suffix",
+"value": "Enter suffix"
+},
+{
+"name": "enter_supervisor",
+"value": "Add Supervisor first"
+},
+{
+"name": "error_a11y_label",
+"value": "Error: invalid"
+},
+{
+"name": "error_icon_content_description",
+"value": "Error"
+},
+{
+"name": "error_null_dates",
+"value": "Date should not be empty"
+},
+{
+"name": "error_occurred",
+"value": "Image saving failed"
+},
+{
+"name": "exo_controls_cc_disabled_description",
+"value": "Enable subtitles"
+},
+{
+"name": "exo_controls_cc_enabled_description",
+"value": "Disable subtitles"
+},
+{
+"name": "exo_controls_fullscreen_enter_description",
+"value": "Enter fullscreen"
+},
+{
+"name": "exo_controls_fullscreen_exit_description",
+"value": "Exit fullscreen"
+},
+{
+"name": "exo_controls_hide",
+"value": "Hide player controls"
+},
+{
+"name": "exo_controls_next_description",
+"value": "Next"
+},
+{
+"name": "exo_controls_overflow_hide_description",
+"value": "Hide additional settings"
+},
+{
+"name": "exo_controls_overflow_show_description",
+"value": "Show additional settings"
+},
+{
+"name": "exo_controls_pause_description",
+"value": "Pause"
+},
+{
+"name": "exo_controls_play_description",
+"value": "Play"
+},
+{
+"name": "exo_controls_playback_speed",
+"value": "Speed"
+},
+{
+"name": "exo_controls_previous_description",
+"value": "Previous"
+},
+{
+"name": "exo_controls_repeat_all_description",
+"value": "Current mode: Repeat all. Toggle repeat mode."
+},
+{
+"name": "exo_controls_repeat_off_description",
+"value": "Current mode: Repeat none. Toggle repeat mode."
+},
+{
+"name": "exo_controls_repeat_one_description",
+"value": "Current mode: Repeat one. Toggle repeat mode."
+},
+{
+"name": "exo_controls_settings_description",
+"value": "Settings"
+},
+{
+"name": "exo_controls_show",
+"value": "Show player controls"
+},
+{
+"name": "exo_controls_shuffle_off_description",
+"value": "Enable shuffle mode"
+},
+{
+"name": "exo_controls_shuffle_on_description",
+"value": "Disable shuffle mode"
+},
+{
+"name": "exo_controls_time_placeholder",
+"value": "00:00:00"
+},
+{
+"name": "exo_controls_vr_description",
+"value": "VR mode"
+},
+{
+"name": "exo_item_list",
+"value": "%1$s, %2$s"
+},
+{
+"name": "exo_track_bitrate",
+"value": "%1$.2f Mbps"
+},
+{
+"name": "exo_track_mono",
+"value": "Mono"
+},
+{
+"name": "exo_track_resolution",
+"value": "%1$d \u00d7 %2$d"
+},
+{
+"name": "exo_track_role_alternate",
+"value": "Alternate"
+},
+{
+"name": "exo_track_role_closed_captions",
+"value": "CC"
+},
+{
+"name": "exo_track_role_commentary",
+"value": "Commentary"
+},
+{
+"name": "exo_track_role_supplementary",
+"value": "Supplementary"
+},
+{
+"name": "exo_track_selection_auto",
+"value": "Auto"
+},
+{
+"name": "exo_track_selection_none",
+"value": "None"
+},
+{
+"name": "exo_track_selection_title_audio",
+"value": "Audio"
+},
+{
+"name": "exo_track_stereo",
+"value": "Stereo"
+},
+{
+"name": "exo_track_surround",
+"value": "Surround sound"
+},
+{
+"name": "exo_track_surround_5_point_1",
+"value": "5.1 surround sound"
+},
+{
+"name": "exo_track_surround_7_point_1",
+"value": "7.1 surround sound"
+},
+{
+"name": "exo_track_unknown",
+"value": "Unknown"
+},
+{
+"name": "export_locations",
+"value": "Export Locations"
+},
+{
+"name": "export_notes",
+"value": "Export Notes"
+},
+{
+"name": "exposed_dropdown_menu_content_description",
+"value": "Show dropdown menu"
+},
+{
+"name": "external_sdcard_write_permission",
+"value": "External SDCard Write Permission"
+},
+{
+"name": "fab_transformation_scrim_behavior",
+"value": "com.google.android.material.transformation.FabTransformationScrimBehavior"
+},
+{
+"name": "fab_transformation_sheet_behavior",
+"value": "com.google.android.material.transformation.FabTransformationSheetBehavior"
+},
+{
+"name": "facebook_app_id",
+"value": "322477855923738"
+},
+{
+"name": "failed_to",
+"value": "Failed to"
+},
+{
+"name": "failed_to_copy_some_files",
+"value": "Failed to Copy some files."
+},
+{
+"name": "failed_to_move_some_files",
+"value": "Failed to Move some files."
+},
+{
+"name": "faq",
+"value": "FAQ"
+},
+{
+"name": "faq_ans_1",
+"value": "\u27a4 The GPS Map Camera app is a mobile application that allows users to capture photos with geotags, including GPS location, date, time, and informative details. It enhances your photography experience by adding informative stamps to your images."
+},
+{
+"name": "faq_ans_10",
+"value": "\u27a4 No, you must visit the actual place and be within the range you set to use a Manual Location. This ensures that the address stamped on your photos reflects the real location where the photo was taken."
+},
+{
+"name": "faq_ans_11",
+"value": "\"\u27a4 Yes, you can add a Manual Location for another place while you\u2019re at your current location. However, you will only be able to use that Manual Location when you are physically near that place and within the range you set. If you are not in the range of that location, you won't be able to use it to stamp photos.\""
+},
+{
+"name": "faq_ans_12",
+"value": "\u27a4 In the GPS map camera, there are four types of maps available such as (standard map, Satellite Map, Hybrid Map, Terrain Map) you can use any map type to make your image stylish and important."
+},
+{
+"name": "faq_ans_14",
+"value": "\u27a4 The difference between the \\\"Advance template\\\" and the \\\"Classic template\\\" lies primarily in their layout design."
+},
+{
+"name": "faq_ans_15",
+"value": "\u27a4 If you need an ad-free experience, then you need to purchase the pro version of the GPS map camera. The premium version allows you to use this app without ad interruption."
+},
+{
+"name": "faq_ans_16",
+"value": "\u27a4 To reduce your photo size, go to Settings, find the Image Quality option, and choose the desired quality level: High, Medium, or Low, as you need. Selecting Medium or Low will reduce the file size while maintaining good image quality."
+},
+{
+"name": "faq_ans_2",
+"value": "\u27a4 The Manual Location feature allows users to edit and customize the location details stamped on their photos. This feature is particularly useful for adding personalized addresses to photos taken for events, business purposes, or creative projects."
+},
+{
+"name": "faq_ans_4",
+"value": "\u27a4 \u201cIn Range\u201d means you\u2019ve added a Manual Location with a specific range (like 100m), and your current location is inside that range."
+},
+{
+"name": "faq_ans_5",
+"value": "\"\u27a4 \u201cOut of Range\u201d means you\u2019ve added Manual Locations, but your current location is not inside the range of any of added manual location. Since your current location is outside the range of all Manual Locations, you cannot use them on your photos until you go inside one of those location's range.\""
+},
+{
+"name": "faq_ans_6",
+"value": "\"\u27a4 You cannot select an Out of Range Manual Location because your current location is outside the range you set for manual locations. Once you're inside the range, you\u2019ll be able to select and use that Manual Location on your photos.\""
+},
+{
+"name": "faq_ans_7",
+"value": "\u27a4 The range ensures that you are physically inside the location range you set. This keeps your photos authentic by making sure the address stamped on the photo matches where you are. You need to be within the specified range (for example, 100m) to use the Manual Location."
+},
+{
+"name": "faq_ans_8",
+"value": "\u27a4 By requiring you to be physically within range of the location you set, the feature ensures that the address stamped on your photos is accurate and can\u2019t be manipulated. This adds authenticity and trustworthiness to your work photos, as the location data is real."
+},
+{
+"name": "faq_ans_9",
+"value": "\u27a4 To maintain location accuracy, the short address (City, State, Country) cannot be changed. This ensures the photo\u2019s location is real and prevents from stamping photos with false or incorrect city or country information."
+},
+{
+"name": "faq_cat_all",
+"value": "All"
+},
+{
+"name": "faq_cat_general",
+"value": "General"
+},
+{
+"name": "faq_cat_manual_location",
+"value": "Manual Location"
+},
+{
+"name": "faq_cat_map_photos",
+"value": "Map &amp; Photos"
+},
+{
+"name": "faq_cat_premium_ads",
+"value": "Premium &amp; Ads"
+},
+{
+"name": "faq_cat_templates",
+"value": "Templates"
+},
+{
+"name": "faq_no_results",
+"value": "No questions found"
+},
+{
+"name": "faq_que_1",
+"value": "What is the GPS Map Camera app?"
+},
+{
+"name": "faq_que_10",
+"value": "Can I use Manual Locations without visiting the actual place?"
+},
+{
+"name": "faq_que_11",
+"value": "Can I add a Manual Location for a different place while I\u2019m at my current location?"
+},
+{
+"name": "faq_que_12",
+"value": "What map types are available in the app?"
+},
+{
+"name": "faq_que_13",
+"value": "Where can I see my captured photos?"
+},
+{
+"name": "faq_que_14",
+"value": "What is the difference between \u201cAdvance template\u201d and \u201cClassic template\u201d?"
+},
+{
+"name": "faq_que_15",
+"value": "How do I use the app without advertisements?"
+},
+{
+"name": "faq_que_16",
+"value": "How can I reduce the photo size?"
+},
+{
+"name": "faq_que_17",
+"value": "How do I restore my premium purchase if I change devices?"
+},
+{
+"name": "faq_que_2",
+"value": "What is the Manual Location feature?"
+},
+{
+"name": "faq_que_3",
+"value": "How to use the Manual Location feature?"
+},
+{
+"name": "faq_que_4",
+"value": "What does \u201cIn Range\u201d Manual Location mean?"
+},
+{
+"name": "faq_que_5",
+"value": "What is an \u201cOut of Range\u201d Manual Location?"
+},
+{
+"name": "faq_que_6",
+"value": "\"Why can't I select an Out of Range Manual Location?\""
+},
+{
+"name": "faq_que_7",
+"value": "What is the purpose of setting a range for Manual Locations?"
+},
+{
+"name": "faq_que_8",
+"value": "How does the Manual Location feature improve photo authenticity?"
+},
+{
+"name": "faq_que_9",
+"value": "Why can\u2019t I change the short address (City, State, Country) in Manual Locations?"
+},
+{
+"name": "faq_search_hint",
+"value": "Search questions"
+},
+{
+"name": "file_inapp_msg",
+"value": "For customized file names, Upgrade to PRO"
+},
+{
+"name": "file_name",
+"value": "File Name"
+},
+{
+"name": "file_name_empty_msg",
+"value": "Please select at least one value"
+},
+{
+"name": "file_name_should_not_be_empty",
+"value": "File name should not be empty"
+},
+{
+"name": "file_renamed",
+"value": "File renamed."
+},
+{
+"name": "file_size",
+"value": "File Size"
+},
+{
+"name": "firebase_database_url",
+"value": "https://gps-camera-9bb65.firebaseio.com"
+},
+{
+"name": "focus",
+"value": "Focus"
+},
+{
+"name": "focus_auto",
+"value": "Focus Auto"
+},
+{
+"name": "focus_manual",
+"value": "Focus Manual"
+},
+{
+"name": "folder",
+"value": "Folder"
+},
+{
+"name": "folder_name",
+"value": "Folder Name"
+},
+{
+"name": "folder_path",
+"value": "Folder Path"
+},
+{
+"name": "follow_inst_to_give_perm",
+"value": "Follow the instructions to give application write permission."
+},
+{
+"name": "font_style",
+"value": "Font Style"
+},
+{
+"name": "fonts",
+"value": "Fonts"
+},
+{
+"name": "from_pin",
+"value": "From pin"
+},
+{
+"name": "gcm_defaultSenderId",
+"value": "227445796451"
+},
+{
+"name": "gd_folder_info",
+"value": "Your photos will automatically sync to the selected folder."
+},
+{
+"name": "geofence_radius",
+"value": "Geofence radius"
+},
+{
+"name": "give_access_folder_msg",
+"value": "To show all images, give access to this folder"
+},
+{
+"name": "give_seconday_permission_btn",
+"value": "GRANT WRITE PERMISSION"
+},
+{
+"name": "give_seconday_permission_message",
+"value": "We have detected an External Storage(SD Card) on your Device. Therefore, we would be requiring SD Card Permissions in order to Stamp Images successfully on your SD Card."
+},
+{
+"name": "give_seconday_permission_title",
+"value": "Give Permission"
+},
+{
+"name": "go_premium",
+"value": "Go Premium"
+},
+{
+"name": "go_premium_2",
+"value": "Unlock the full experience with exclusive features and an ad-free interface!"
+},
+{
+"name": "go_to_settings",
+"value": "Go to Settings"
+},
+{
+"name": "google_api_key",
+"value": "AIzaSyAcAs…[redacted]"
+},
+{
+"name": "google_app_id",
+"value": "1:227445796451:android:148f77a88be9bce3069256"
+},
+{
+"name": "google_drive",
+"value": "Google Drive"
+},
+{
+"name": "google_storage_bucket",
+"value": "gps-camera-9bb65.firebasestorage.app"
+},
+{
+"name": "gps_camera_economical",
+"value": "Upgrade to Economical"
+},
+{
+"name": "gps_camera_premium",
+"value": "Upgrade to Premium"
+},
+{
+"name": "grid",
+"value": "Grid"
+},
+{
+"name": "haan",
+"value": "Haan"
+},
+{
+"name": "handleimage",
+"value": "handleImage"
+},
+{
+"name": "help",
+"value": "Help"
+},
+{
+"name": "hide_bottom_view_on_scroll_behavior",
+"value": "com.google.android.material.behavior.HideBottomViewOnScrollBehavior"
+},
+{
+"name": "high",
+"value": "High"
+},
+{
+"name": "hint_note_content",
+"value": "e.g. Snowboard, bindings, boots"
+},
+{
+"name": "hint_note_title",
+"value": "e.g. Note:"
+},
+{
+"name": "hint_title_example",
+"value": "e.g. Site Projects"
+},
+{
+"name": "home_exit_snackbar",
+"value": "Press once again to exit"
+},
+{
+"name": "hour_minute_second",
+"value": "Hour Minute Second"
+},
+{
+"name": "humidity",
+"value": "Humidity"
+},
+{
+"name": "hybrid",
+"value": "Hybrid"
+},
+{
+"name": "image_on_map",
+"value": "Image on Map"
+},
+{
+"name": "image_quality",
+"value": "Photo Quality"
+},
+{
+"name": "image_saved",
+"value": "Image saved successfully"
+},
+{
+"name": "images",
+"value": "Images"
+},
+{
+"name": "import_locations",
+"value": "Import Locations"
+},
+{
+"name": "import_notes",
+"value": "Import Notes"
+},
+{
+"name": "inApp_text_1",
+"value": "Create a location-wise folder."
+},
+{
+"name": "inApp_text_3",
+"value": "Enjoy ad-free app."
+},
+{
+"name": "inApp_text_4",
+"value": "Remove default watermark from stamp."
+},
+{
+"name": "inApp_text_5",
+"value": "Change file name."
+},
+{
+"name": "in_app_text_2",
+"value": "Customise stamp feature."
+},
+{
+"name": "in_range",
+"value": "In Range"
+},
+{
+"name": "include_address_and_time",
+"value": "Include address and time"
+},
+{
+"name": "install",
+"value": "Install"
+},
+{
+"name": "internet_msg",
+"value": "Oops! You\u2019re not connected to the internet. GPS Map Camera needs internet to show your location."
+},
+{
+"name": "invalid_contact_number",
+"value": "Please enter valid contact number"
+},
+{
+"name": "item_selected",
+"value": "Item Selected"
+},
+{
+"name": "item_view_role_description",
+"value": "Tab"
+},
+{
+"name": "items",
+"value": "items"
+},
+{
+"name": "john_parker",
+"value": "John Parker"
+},
+{
+"name": "keep_editing",
+"value": "Keep Editing"
+},
+{
+"name": "label_camera",
+"value": "Camera:"
+},
+{
+"name": "label_name",
+"value": "Name:"
+},
+{
+"name": "label_path",
+"value": "Path:"
+},
+{
+"name": "label_resolution",
+"value": "Resolution:"
+},
+{
+"name": "label_size",
+"value": "Size:"
+},
+{
+"name": "language",
+"value": "Language"
+},
+{
+"name": "language_desc",
+"value": "From the below languages, Please choose your native language, later you can change language from settings."
+},
+{
+"name": "last_updated",
+"value": "Last Updated"
+},
+{
+"name": "lat_lng",
+"value": "Lat/Long"
+},
+{
+"name": "latitude_copied",
+"value": "Latitude copied to clipboard"
+},
+{
+"name": "lightmode",
+"value": "Light Mode"
+},
+{
+"name": "liked_too",
+"value": "We like you too!"
+},
+{
+"name": "lime",
+"value": "Lime"
+},
+{
+"name": "line1_address_empty_msg",
+"value": "Please add Line 1 address first"
+},
+{
+"name": "line2_address_empty_msg",
+"value": "Please add Line 2 address first"
+},
+{
+"name": "line3_address_empty_msg",
+"value": "Please add Line 3 address first"
+},
+{
+"name": "line4_address_empty_msg",
+"value": "Please add Line 4 address first"
+},
+{
+"name": "live",
+"value": "Current Location"
+},
+{
+"name": "loc_empty_msg",
+"value": "\"You can edit location's address by adding manual location.\""
+},
+{
+"name": "loc_empty_msg_inrange",
+"value": "\"Your current location is not in any of your manual location's range. Either you have to be in manual location's range or add your current location as new manual location.\""
+},
+{
+"name": "location_permission_missing_message",
+"value": "\"Looks like this app doesn't have location services configured. Please see OneSignal docs for more information.\""
+},
+{
+"name": "location_permission_missing_title",
+"value": "App Missing Permission"
+},
+{
+"name": "location_permission_name_for_title",
+"value": "Location"
+},
+{
+"name": "location_permission_settings_message",
+"value": "sharing your device location"
+},
+{
+"name": "locations_export_failed",
+"value": "Locations export failed"
+},
+{
+"name": "locations_exported_successfully_at",
+"value": "Locations exported successfully at %1$s"
+},
+{
+"name": "locations_import_failed",
+"value": "Locations import failed"
+},
+{
+"name": "locations_imported_successfully",
+"value": "Locations imported successfully"
+},
+{
+"name": "logo",
+"value": "Logo"
+},
+{
+"name": "longitude_copied",
+"value": "Longitude copied to clipboard"
+},
+{
+"name": "low",
+"value": "Low"
+},
+{
+"name": "m3_loading_indicator_content_description",
+"value": "Loading"
+},
+{
+"name": "magnetic_field",
+"value": "Magnetic Field"
+},
+{
+"name": "main_rec",
+"value": "Main Recipient"
+},
+{
+"name": "manual_location",
+"value": "Manual Location"
+},
+{
+"name": "map_data",
+"value": "Locations"
+},
+{
+"name": "map_position",
+"value": "Map Position"
+},
+{
+"name": "map_scale",
+"value": "Map Scale"
+},
+{
+"name": "map_type",
+"value": "Map Type"
+},
+{
+"name": "mars",
+"value": "Mars"
+},
+{
+"name": "material_clock_display_divider",
+"value": ":"
+},
+{
+"name": "material_motion_easing_accelerated",
+"value": "cubic-bezier(0.4, 0.0, 1.0, 1.0)"
+},
+{
+"name": "material_motion_easing_decelerated",
+"value": "cubic-bezier(0.0, 0.0, 0.2, 1.0)"
+},
+{
+"name": "material_motion_easing_emphasized",
+"value": "path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)"
+},
+{
+"name": "material_motion_easing_linear",
+"value": "cubic-bezier(0.0, 0.0, 1.0, 1.0)"
+},
+{
+"name": "material_motion_easing_standard",
+"value": "cubic-bezier(0.4, 0.0, 0.2, 1.0)"
+},
+{
+"name": "max_length_msg",
+"value": "Maximum number of characters reached"
+},
+{
+"name": "maximum_25_images_allowed",
+"value": "Maximum 25 images allowed"
+},
+{
+"name": "maybe_later",
+"value": "Maybe later"
+},
+{
+"name": "medium",
+"value": "Medium"
+},
+{
+"name": "meter",
+"value": "Meter"
+},
+{
+"name": "metropolis",
+"value": "Metropolis"
+},
+{
+"name": "mirror",
+"value": "Mirror"
+},
+{
+"name": "mobile_number",
+"value": "Mobile Number"
+},
+{
+"name": "mock_loc_desc",
+"value": "\"Your device is using a mock location. This app needs your real location to work properly. Let's fix it together. \n\nOpen Setting -> Developer Options -> Turn Off\""
+},
+{
+"name": "mock_loc_title",
+"value": "\"Can't Detect Your Real Location\""
+},
+{
+"name": "move",
+"value": "Move"
+},
+{
+"name": "move_failed",
+"value": "Move failed."
+},
+{
+"name": "move_map_adjust_location",
+"value": "Move the map to adjust location"
+},
+{
+"name": "move_to",
+"value": "Move to"
+},
+{
+"name": "moved_to_trash",
+"value": "Moved to Trash."
+},
+{
+"name": "moveto",
+"value": "Moved to"
+},
+{
+"name": "moving",
+"value": "Moving\u2026"
+},
+{
+"name": "mraid_alert_accept",
+"value": "Accept"
+},
+{
+"name": "mraid_alert_decline",
+"value": "Decline"
+},
+{
+"name": "mraid_allow_calendar_event",
+"value": "Allow Ad to create a calendar event?"
+},
+{
+"name": "mraid_allow_store_picture",
+"value": "Allow Ad to store image in Picture gallery?"
+},
+{
+"name": "mraid_create_calendar_event",
+"value": "Create calendar event"
+},
+{
+"name": "mraid_save_image",
+"value": "Save image"
+},
+{
+"name": "mtrl_button_overflow_icon_content_description",
+"value": "Overflow menu"
+},
+{
+"name": "mtrl_button_snackbar_close_content_description",
+"value": "Close"
+},
+{
+"name": "mtrl_checkbox_button_icon_path_checked",
+"value": "M14,18.2 11.4,15.6 10,17 14,21 22,13 20.6,11.6z"
+},
+{
+"name": "mtrl_checkbox_button_icon_path_group_name",
+"value": "icon"
+},
+{
+"name": "mtrl_checkbox_button_icon_path_indeterminate",
+"value": "M13.4,15 11,15 11,17 13.4,17 21,17 21,15z"
+},
+{
+"name": "mtrl_checkbox_button_icon_path_name",
+"value": "icon path"
+},
+{
+"name": "mtrl_checkbox_button_path_checked",
+"value": "M23,7H9C7.9,7,7,7.9,7,9v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V9C25,7.9,24.1,7,23,7z"
+},
+{
+"name": "mtrl_checkbox_button_path_group_name",
+"value": "button"
+},
+{
+"name": "mtrl_checkbox_button_path_name",
+"value": "button path"
+},
+{
+"name": "mtrl_checkbox_button_path_unchecked",
+"value": "M23,7H9C7.9,7,7,7.9,7,9v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V9C25,7.9,24.1,7,23,7z M23,23H9V9h14V23z"
+},
+{
+"name": "mtrl_checkbox_state_description_checked",
+"value": "Checked"
+},
+{
+"name": "mtrl_checkbox_state_description_indeterminate",
+"value": "Partially checked"
+},
+{
+"name": "mtrl_checkbox_state_description_unchecked",
+"value": "Not checked"
+},
+{
+"name": "mtrl_chip_close_icon_content_description",
+"value": "Remove %1$s"
+},
+{
+"name": "multiheader_close_dialog_msg",
+"value": "Are you sure want to remove it?"
+},
+{
+"name": "multiple",
+"value": "Multiple"
+},
+{
+"name": "multiple_folders",
+"value": "Multiple folders"
+},
+{
+"name": "my_files",
+"value": "My Files"
+},
+{
+"name": "native_body",
+"value": "Body"
+},
+{
+"name": "native_headline",
+"value": "Headline"
+},
+{
+"name": "native_media_view",
+"value": "Media View"
+},
+{
+"name": "nav_General",
+"value": "GENERAL"
+},
+{
+"name": "nav_camera",
+"value": "CAMERA"
+},
+{
+"name": "nav_our_apps",
+"value": "More Apps"
+},
+{
+"name": "nav_privacy_policy",
+"value": "Privacy Policy"
+},
+{
+"name": "nav_rate_app",
+"value": "Rate App"
+},
+{
+"name": "nav_reports",
+"value": "Report After Capture"
+},
+{
+"name": "nav_send_error",
+"value": "Report a Problem"
+},
+{
+"name": "nav_share_app",
+"value": "Share App"
+},
+{
+"name": "nav_stamp",
+"value": "STAMP"
+},
+{
+"name": "nav_storage",
+"value": "STORAGE"
+},
+{
+"name": "nav_term_of_use",
+"value": "Terms of use"
+},
+{
+"name": "nav_version",
+"value": "App Version"
+},
+{
+"name": "navigation_compass_template",
+"value": "Navigation Compass Template"
+},
+{
+"name": "need_access",
+"value": "Enable Required Permissions"
+},
+{
+"name": "new_filter_1",
+"value": "Filter 1"
+},
+{
+"name": "new_filter_10",
+"value": "Filter 10"
+},
+{
+"name": "new_filter_11",
+"value": "Filter 11"
+},
+{
+"name": "new_filter_12",
+"value": "Filter 12"
+},
+{
+"name": "new_filter_13",
+"value": "Filter 13"
+},
+{
+"name": "new_filter_14",
+"value": "Filter 14"
+},
+{
+"name": "new_filter_15",
+"value": "Filter 15"
+},
+{
+"name": "new_filter_16",
+"value": "Filter 16"
+},
+{
+"name": "new_filter_17",
+"value": "Filter 17"
+},
+{
+"name": "new_filter_2",
+"value": "Filter 2"
+},
+{
+"name": "new_filter_3",
+"value": "Filter 3"
+},
+{
+"name": "new_filter_4",
+"value": "Filter 4"
+},
+{
+"name": "new_filter_5",
+"value": "Filter 5"
+},
+{
+"name": "new_filter_6",
+"value": "Filter 6"
+},
+{
+"name": "new_filter_7",
+"value": "Filter 7"
+},
+{
+"name": "new_filter_8",
+"value": "Filter 8"
+},
+{
+"name": "new_filter_9",
+"value": "Filter 9"
+},
+{
+"name": "new_scene_mode",
+"value": "Scene Mode"
+},
+{
+"name": "new_tag",
+"value": "New"
+},
+{
+"name": "next",
+"value": "Next"
+},
+{
+"name": "no",
+"value": "No"
+},
+{
+"name": "no_albums_found",
+"value": "No Albums found"
+},
+{
+"name": "no_albums_found_nwith_this_name",
+"value": "\"No Albums found\nwith this name\""
+},
+{
+"name": "no_internet",
+"value": "No Internet"
+},
+{
+"name": "no_internet_msg",
+"value": "It seems you are not connected with internet!!!"
+},
+{
+"name": "no_new_locations_imported",
+"value": "No new locations to import (all already exist)"
+},
+{
+"name": "no_photos_found",
+"value": "No photos captured with GPS Map Camera yet."
+},
+{
+"name": "no_thanks_btn",
+"value": "No, Thanks"
+},
+{
+"name": "normal",
+"value": "Normal"
+},
+{
+"name": "not10msg",
+"value": "You may opt for Standard Purchase inclusive of all the Features"
+},
+{
+"name": "not10title",
+"value": "Let us know what is stopping you from Purchase!"
+},
+{
+"name": "not11msg",
+"value": "Get your best customised camera by setting it up as required"
+},
+{
+"name": "not11title",
+"value": "Map Data is yet to be opened!!"
+},
+{
+"name": "not12msg",
+"value": "Get your best customised camera by setting it up as required"
+},
+{
+"name": "not12title",
+"value": "Camera settings are left to be explored!"
+},
+{
+"name": "not13msg",
+"value": "\"Perhaps you haven't seen this option called Folders where you can save your images folder-wise!\""
+},
+{
+"name": "not13title",
+"value": "Unfold the Folders!"
+},
+{
+"name": "not14msg",
+"value": "Store your Photos by giving them distinct file names"
+},
+{
+"name": "not14title",
+"value": "Give unique name!"
+},
+{
+"name": "not15msg",
+"value": "We have amazing templates on board to easy your stamping experience"
+},
+{
+"name": "not15title",
+"value": "Template temptation!"
+},
+{
+"name": "not16msg",
+"value": "Try our best font styles in your pictures"
+},
+{
+"name": "not16title",
+"value": "Fashion fades, style is eternal."
+},
+{
+"name": "not17msg",
+"value": "Move &amp; set the position of your stamps"
+},
+{
+"name": "not17title",
+"value": "After all Position matters!"
+},
+{
+"name": "not1msg",
+"value": "We acknowledged your enthusiasm. there is much more in our app that matches your level. Try our Pro features and Excel in your activities using our App."
+},
+{
+"name": "not1title",
+"value": "Your measures are quite up than the rest!!"
+},
+{
+"name": "not2msg",
+"value": "\"Don't bother, but you are our favorite!! Purchase Premium to use the app for free Lifetime\""
+},
+{
+"name": "not2title",
+"value": "I think you should try this out!!"
+},
+{
+"name": "not3msg1",
+"value": "Bravo! You have stamped 100 photos using GPS Map camera"
+},
+{
+"name": "not3msg2",
+"value": "Wow! you have just finished Stamping 500 photos using GPS map camera application."
+},
+{
+"name": "not3title",
+"value": "100!! and counting more.."
+},
+{
+"name": "not4msg",
+"value": "Freeze the moment, Capture the memories"
+},
+{
+"name": "not4title",
+"value": "\"Don't let the great moment to pass\""
+},
+{
+"name": "not_connected",
+"value": "Not Connected"
+},
+{
+"name": "note",
+"value": "Note"
+},
+{
+"name": "note_exist",
+"value": "Note already exist"
+},
+{
+"name": "note_title_exist",
+"value": "Title already exist"
+},
+{
+"name": "notes",
+"value": "Notes"
+},
+{
+"name": "notes_export_failed",
+"value": "Notes export failed"
+},
+{
+"name": "notes_exported_successfully_at",
+"value": "Notes exported successfully at %1$s"
+},
+{
+"name": "notes_hastag",
+"value": "Note/Hashtag"
+},
+{
+"name": "notes_import_failed",
+"value": "Notes import failed"
+},
+{
+"name": "notes_imported_successfully",
+"value": "Notes imported successfully"
+},
+{
+"name": "notification_permission_name_for_title",
+"value": "Notifications"
+},
+{
+"name": "notification_permission_settings_message",
+"value": "Notifications"
+},
+{
+"name": "numbering",
+"value": "Numbering"
+},
+{
+"name": "off",
+"value": "Off"
+},
+{
+"name": "office_number",
+"value": "Office Number"
+},
+{
+"name": "oh_no",
+"value": "Oh, no!"
+},
+{
+"name": "ok",
+"value": "Ok"
+},
+{
+"name": "ok_got_it",
+"value": "OK, Got It"
+},
+{
+"name": "on",
+"value": "On"
+},
+{
+"name": "onboard_1_maintext",
+"value": "Capture Authenticity, Anywhere in the World"
+},
+{
+"name": "onboard_1_subtext",
+"value": "Where Every Photo Tells 100% Truth"
+},
+{
+"name": "onboard_2_maintext",
+"value": "Highly-Rated GPS Map Camera App"
+},
+{
+"name": "onboard_2_subtext",
+"value": "Trusted by Millions"
+},
+{
+"name": "onboard_3_maintext",
+"value": "Edit Location Name"
+},
+{
+"name": "onboard_3_subtext",
+"value": "Make It More Authentic"
+},
+{
+"name": "onesignal_app_id",
+"value": "8fb99145-9c3c-4451-aa19-c9d2ca982fdc"
+},
+{
+"name": "open",
+"value": "Open"
+},
+{
+"name": "open_camera",
+"value": "Open Camera"
+},
+{
+"name": "open_in_maps",
+"value": "Open in Maps"
+},
+{
+"name": "or_automatic",
+"value": "Automatic"
+},
+{
+"name": "or_landscape",
+"value": "Landscape"
+},
+{
+"name": "or_portrait",
+"value": "Portrait"
+},
+{
+"name": "orlabel",
+"value": "Orientation Label"
+},
+{
+"name": "orlabel_bgcolor",
+"value": "Orientation Label Background Color"
+},
+{
+"name": "out_of_range",
+"value": "Out of Range"
+},
+{
+"name": "password_toggle_content_description",
+"value": "Show password"
+},
+{
+"name": "path_password_eye",
+"value": "M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z"
+},
+{
+"name": "path_password_eye_mask_strike_through",
+"value": "M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z"
+},
+{
+"name": "path_password_eye_mask_visible",
+"value": "M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z"
+},
+{
+"name": "path_password_strike_through",
+"value": "M3.27,4.27 L19.74,20.74"
+},
+{
+"name": "pdf_page_as_image",
+"value": "pdf page as image"
+},
+{
+"name": "pdf_reporting_setting_desc",
+"value": "Generate PDF from stamped photos"
+},
+{
+"name": "pdf_reports_desc",
+"value": "Show reports option on camera"
+},
+{
+"name": "pdf_save_successfully",
+"value": "PDF save successfully"
+},
+{
+"name": "pdf_saving_failed",
+"value": "PDF saving failed"
+},
+{
+"name": "permission_denied_title",
+"value": "Permission Denied:"
+},
+{
+"name": "permission_desc",
+"value": "To capture photos with GPS location stamps, we need access to your camera and location."
+},
+{
+"name": "permission_not_available_message",
+"value": "You have previously denied %s. Please go to settings to enable."
+},
+{
+"name": "permission_not_available_open_settings_option",
+"value": "Settings"
+},
+{
+"name": "permission_not_available_title",
+"value": "%s Not Available"
+},
+{
+"name": "permission_required",
+"value": "Permission required"
+},
+{
+"name": "person_name",
+"value": "Person Name"
+},
+{
+"name": "phone_storage",
+"value": "Phone Storage"
+},
+{
+"name": "photo",
+"value": "Photo"
+},
+{
+"name": "photo_access",
+"value": "\\\"GPS Map Camera\\\" folder access required"
+},
+{
+"name": "photo_access_fail",
+"value": "Please select the GPS Map Camera folder in DCIM"
+},
+{
+"name": "photo_location",
+"value": "Photo Location"
+},
+{
+"name": "photo_report",
+"value": "Photo Report"
+},
+{
+"name": "photo_report_desc",
+"value": "Turn captured photos into branded reports with your company details, project info, and GPS data."
+},
+{
+"name": "photos",
+"value": "Photo"
+},
+{
+"name": "photos_amp_videos_taken_on_your_device_nwill_show_up_here",
+"value": "\"Photos &amp; videos taken on your device\nwill show up here\""
+},
+{
+"name": "pincode",
+"value": "Pincode"
+},
+{
+"name": "playstore_app_desc1",
+"value": "\"Other users will benefit from your review.\n\nPlease leave your review on Google play.\""
+},
+{
+"name": "please_enter_address",
+"value": "Please enter address"
+},
+{
+"name": "please_enter_title",
+"value": "Please enter title"
+},
+{
+"name": "please_wait_",
+"value": "Please wait\u2026"
+},
+{
+"name": "plus_code",
+"value": "Plus Code"
+},
+{
+"name": "pos_bottom",
+"value": "Bottom"
+},
+{
+"name": "pos_top",
+"value": "Top"
+},
+{
+"name": "prefix",
+"value": "Prefix"
+},
+{
+"name": "premium",
+"value": "Premium"
+},
+{
+"name": "premium_buy_now_btn_click",
+"value": "premium_buy_now_btn_click"
+},
+{
+"name": "premium_noti",
+"value": "Pay Once, Lifetime Ad-Free Use."
+},
+{
+"name": "prepared_by",
+"value": "Prepared by:"
+},
+{
+"name": "prepared_by_",
+"value": "Prepared by"
+},
+{
+"name": "pressure",
+"value": "Pressure"
+},
+{
+"name": "print",
+"value": "Print"
+},
+{
+"name": "print_error",
+"value": "Print error"
+},
+{
+"name": "privacy_policy",
+"value": "Privacy Policy"
+},
+{
+"name": "private_contact",
+"value": "Private Contact"
+},
+{
+"name": "pro",
+"value": "PRO"
+},
+{
+"name": "pro_mes",
+"value": "Are you enjoying this App? Upgarade Now to PRO."
+},
+{
+"name": "project_id",
+"value": "gps-camera-9bb65"
+},
+{
+"name": "project_name",
+"value": "Project Name"
+},
+{
+"name": "project_name_",
+"value": "Project Name:"
+},
+{
+"name": "project_wise_organize",
+"value": "Organize by project"
+},
+{
+"name": "ps_cam_access_desc",
+"value": "\"Capture photos and videos with \nlocation information.\""
+},
+{
+"name": "ps_camera_access",
+"value": "Camera Access"
+},
+{
+"name": "ps_location_access",
+"value": "Location Access"
+},
+{
+"name": "ps_location_access_desc",
+"value": "Add accurate GPS coordinates &amp; address details to your photos."
+},
+{
+"name": "ps_photo_library_access",
+"value": "Storage access"
+},
+{
+"name": "ps_photo_library_access_desc",
+"value": "Save photos and videos to your device."
+},
+{
+"name": "purchase_half_info_1",
+"value": "\"This subscription gives you unlimited access to our app features. you will be automatically charged half-yearly \""
+},
+{
+"name": "purchase_info_annual_text_2",
+"value": "\"This subscription gives you unlimited access to our app features. you will be automatically charged annually \""
+},
+{
+"name": "purchase_now",
+"value": "Purchase Now"
+},
+{
+"name": "qr_code_template",
+"value": "Scan Location Template"
+},
+{
+"name": "qrcode",
+"value": "QR Code"
+},
+{
+"name": "qrcode_scan",
+"value": "QR Code Detection"
+},
+{
+"name": "quality_fhd",
+"value": "FHD"
+},
+{
+"name": "quality_hd",
+"value": "HD"
+},
+{
+"name": "quality_sd",
+"value": "SD"
+},
+{
+"name": "quality_uhd",
+"value": "UHD"
+},
+{
+"name": "quckshare_mode",
+"value": "Share Photo"
+},
+{
+"name": "quckshare_mode_desc",
+"value": "Open share options after each capture"
+},
+{
+"name": "que_1",
+"value": "What is the Manual Location feature?"
+},
+{
+"name": "que_1_",
+"value": "What is the Manual Location feature?"
+},
+{
+"name": "que_2",
+"value": "How do I select a template, and what steps are needed to modify it?"
+},
+{
+"name": "que_3",
+"value": "Where can I find the stamp settings in the app?"
+},
+{
+"name": "que_4",
+"value": "Where is the General settings option, and how can I change it?"
+},
+{
+"name": "que_5",
+"value": "How do I change the folder where my images are stored?"
+},
+{
+"name": "que_6",
+"value": "How can I add person name to a stamp?"
+},
+{
+"name": "quick_share",
+"value": "Location Share"
+},
+{
+"name": "rate_app_desc1",
+"value": "We are working hard for a better user experience."
+},
+{
+"name": "rate_app_desc2",
+"value": "\"We'd greatly appreciate if you can rate us.\""
+},
+{
+"name": "rate_app_desc3",
+"value": "We\u2019ll grateful for this :)"
+},
+{
+"name": "rate_app_zero_star_error",
+"value": "\"Choose the shining stars and tap on 'RATE!'.\""
+},
+{
+"name": "rate_on_google_play",
+"value": "Rate on Google Play"
+},
+{
+"name": "rate_on_play",
+"value": "Rate on playstore"
+},
+{
+"name": "rate_us",
+"value": "Rate Us"
+},
+{
+"name": "rateus",
+"value": "Rate us"
+},
+{
+"name": "ratio",
+"value": "Ratio"
+},
+{
+"name": "re_background_color",
+"value": "Reporting Tag Background Color"
+},
+{
+"name": "recent_added_contacts",
+"value": "Recently Added Contacts"
+},
+{
+"name": "recent_added_note",
+"value": "Recent added note"
+},
+{
+"name": "recent_added_reporting_tag",
+"value": "Recent added reporting tag"
+},
+{
+"name": "recent_company_organisation_name",
+"value": "Recent added Company / Organization Name"
+},
+{
+"name": "recent_project_name",
+"value": "Recent added Project Name"
+},
+{
+"name": "recent_remarks",
+"value": "Recent added Remarks"
+},
+{
+"name": "recent_supervisors",
+"value": "Recent added Supervisors"
+},
+{
+"name": "recent_titles",
+"value": "Recent added Titles"
+},
+{
+"name": "recent_used_logo",
+"value": "Recent used logo"
+},
+{
+"name": "recently_used_email",
+"value": "Recently Used Email"
+},
+{
+"name": "recommend",
+"value": "Recommended"
+},
+{
+"name": "remark",
+"value": "Remark"
+},
+{
+"name": "remark_",
+"value": "Remark:"
+},
+{
+"name": "remove_ads",
+"value": "Remove Ads"
+},
+{
+"name": "remove_watermark",
+"value": "App Watermark"
+},
+{
+"name": "rename",
+"value": "Rename"
+},
+{
+"name": "rename_failed",
+"value": "Rename failed."
+},
+{
+"name": "report_by_",
+"value": "Report By:"
+},
+{
+"name": "report_name_empty",
+"value": "Report name should not be empty"
+},
+{
+"name": "report_title",
+"value": "Report Title"
+},
+{
+"name": "reportby",
+"value": "Report By"
+},
+{
+"name": "reporting_tag",
+"value": "Reporting Tag"
+},
+{
+"name": "reporting_tag_empty",
+"value": "Please enter tag"
+},
+{
+"name": "reporting_tag_exist",
+"value": "Reporting Tag already exist"
+},
+{
+"name": "reporting_template",
+"value": "Reporting Template"
+},
+{
+"name": "reports",
+"value": "Reports"
+},
+{
+"name": "reset",
+"value": "Reset"
+},
+{
+"name": "restart_msg",
+"value": "All PRO features are now available to you for the lifetime."
+},
+{
+"name": "rise",
+"value": "Rise"
+},
+{
+"name": "s_n_empty_msg",
+"value": "Please enter sequence number"
+},
+{
+"name": "satellite",
+"value": "Satellite"
+},
+{
+"name": "save",
+"value": "Save"
+},
+{
+"name": "save_and_exit",
+"value": "Save &amp; Exit"
+},
+{
+"name": "save_location",
+"value": "Save Location"
+},
+{
+"name": "save_original_photos",
+"value": "Auto Save Original Photos"
+},
+{
+"name": "save_original_photos_desc",
+"value": "Save two photos - stamped and original"
+},
+{
+"name": "save_pdf",
+"value": "Save PDF"
+},
+{
+"name": "save_photo",
+"value": "Save Photo"
+},
+{
+"name": "save_report_pdf",
+"value": "Creating your report as PDF\u2026"
+},
+{
+"name": "save_report_photo",
+"value": "Saving your report as photo\u2026"
+},
+{
+"name": "sd_card_permission",
+"value": "Save to SD Card"
+},
+{
+"name": "search",
+"value": "Search your Album"
+},
+{
+"name": "search_here",
+"value": "Search by Area"
+},
+{
+"name": "search_menu_title",
+"value": "Search"
+},
+{
+"name": "searchview_clear_text_content_description",
+"value": "Clear text"
+},
+{
+"name": "searchview_navigation_content_description",
+"value": "Back"
+},
+{
+"name": "select_color",
+"value": "Select Color"
+},
+{
+"name": "select_folder",
+"value": "Select Folder"
+},
+{
+"name": "select_gmc_file",
+"value": "Please select a valid .gmc backup file"
+},
+{
+"name": "select_image",
+"value": "Select Image"
+},
+{
+"name": "select_image_first",
+"value": "Select Image First"
+},
+{
+"name": "select_language",
+"value": "Language"
+},
+{
+"name": "select_photos",
+"value": "Select Photos"
+},
+{
+"name": "send_an_error",
+"value": "Send an Error"
+},
+{
+"name": "send_error",
+"value": "Send Error"
+},
+{
+"name": "send_error_msg",
+"value": "Something went wrong? Don\u2019t worry, we\u2019re here to help. Please describe the issue in detail so our support team can assist you."
+},
+{
+"name": "send_error_title",
+"value": "Aww Snap! Looks like something\u2019s not right!"
+},
+{
+"name": "sendmsgholdtext",
+"value": "Your PDF is creating..."
+},
+{
+"name": "sequence_number",
+"value": "Sequence Number"
+},
+{
+"name": "sequence_type",
+"value": "Sequence Type"
+},
+{
+"name": "set_as",
+"value": "Set as\u2026"
+},
+{
+"name": "share_app_desc",
+"value": "Hi !! I explored this amazing GPS Map Camera Application on Google Play store for all Travel Lovers, Bloggers, people having Location based work or tasks. It helps auto adding location stamps to photos. Go and Check such amazing features this app is offering for free."
+},
+{
+"name": "share_btn",
+"value": "Share"
+},
+{
+"name": "share_gallery",
+"value": "Share"
+},
+{
+"name": "share_link",
+"value": "http://bit.ly/gpsmapcamera"
+},
+{
+"name": "share_media",
+"value": "Share Media"
+},
+{
+"name": "short_address",
+"value": "Short Address"
+},
+{
+"name": "show_100_times_photo_click",
+"value": "show_100_times_photo_click"
+},
+{
+"name": "show_10_time_open_45_pics",
+"value": "show_10_time_open_45_pics"
+},
+{
+"name": "show_15th_day_app_open",
+"value": "show_15th_day_app_open"
+},
+{
+"name": "show_2nd_day_app_open",
+"value": "show_2nd_day_app_open"
+},
+{
+"name": "show_3_time_no_buy",
+"value": "show_3_time_no_buy"
+},
+{
+"name": "show_3_time_no_buy_stan",
+"value": "show_3_time_no_buy_stan"
+},
+{
+"name": "show_50_times_photo_click_pro_screen",
+"value": "show_50_times_photo_click_pro_screen"
+},
+{
+"name": "show_camset_open_time",
+"value": "show_camset_open_time"
+},
+{
+"name": "show_file_open_time",
+"value": "show_file_open_time"
+},
+{
+"name": "show_fold_open_time",
+"value": "show_fold_open_time"
+},
+{
+"name": "show_font_open_time",
+"value": "show_font_open_time"
+},
+{
+"name": "show_map_open_time",
+"value": "show_map_open_time"
+},
+{
+"name": "show_stamppos_open_time",
+"value": "show_stamppos_open_time"
+},
+{
+"name": "show_temp_open_time",
+"value": "show_temp_open_time"
+},
+{
+"name": "show_these_details_email_subject",
+"value": "Show these details in the email subject"
+},
+{
+"name": "side_sheet_accessibility_pane_title",
+"value": "Side Sheet"
+},
+{
+"name": "sign_out",
+"value": "Sign Out"
+},
+{
+"name": "site_landline",
+"value": "Site Landline"
+},
+{
+"name": "size_large",
+"value": "Large"
+},
+{
+"name": "size_medium",
+"value": "Medium"
+},
+{
+"name": "size_small",
+"value": "Small"
+},
+{
+"name": "size_xtrasmall",
+"value": "Extra Small"
+},
+{
+"name": "skip",
+"value": "Skip"
+},
+{
+"name": "some_permissions_are_needed",
+"value": "Some permissions are needed to be allowed to use this app without any problems."
+},
+{
+"name": "something_not_working",
+"value": "Something not working?"
+},
+{
+"name": "something_not_working_desc",
+"value": "Tell us what happened and we\u2019ll help you fix it."
+},
+{
+"name": "sort_by",
+"value": "Sort By"
+},
+{
+"name": "sound",
+"value": "Sound"
+},
+{
+"name": "sound_level",
+"value": "Sound Level"
+},
+{
+"name": "space_in_stamp",
+"value": "You have added sufficient details, Deselect few to add new"
+},
+{
+"name": "ss_missing_saf_activity_handler",
+"value": "Storage Access Framework is currently not available."
+},
+{
+"name": "ss_please_grant_storage_permission",
+"value": "Please grant read and write permissions for external storage."
+},
+{
+"name": "ss_please_select_base_path",
+"value": "Please select path: %s"
+},
+{
+"name": "ss_please_select_base_path_with_storage_type_primary",
+"value": "Please select internal storage with path: %s"
+},
+{
+"name": "ss_please_select_base_path_with_storage_type_sd_card",
+"value": "Please select SD card with path: %s"
+},
+{
+"name": "ss_please_select_root_storage_primary",
+"value": "To grant storage access, please firstly select root path of internal storage."
+},
+{
+"name": "ss_please_select_root_storage_primary_with_location",
+"value": "To grant storage access, please firstly select root path of internal storage, located in %s"
+},
+{
+"name": "ss_please_select_root_storage_sdcard",
+"value": "To grant storage access, please firstly select root path of SD card."
+},
+{
+"name": "ss_please_select_root_storage_sdcard_with_location",
+"value": "To grant storage access, please firstly select root path of SD card, located in %s"
+},
+{
+"name": "ss_selecting_root_path_success_with_open_folder_picker",
+"value": "Now you can select any folders under %s"
+},
+{
+"name": "ss_selecting_root_path_success_without_open_folder_picker",
+"value": "Storage access has been granted for %s"
+},
+{
+"name": "ss_storage_access_denied_confirm",
+"value": "You have no write access to this storage, thus selecting this folder is useless. Would you like to grant access to this storage by selecting its root path?"
+},
+{
+"name": "ss_storage_permission_permanently_disabled",
+"value": "Storage permission was disabled permanently. Do you want to enable it from system settings?"
+},
+{
+"name": "stamp_color",
+"value": "Stamp Color"
+},
+{
+"name": "stamp_orientation",
+"value": "Stamp Orientation"
+},
+{
+"name": "stamp_pos",
+"value": "Stamp Position"
+},
+{
+"name": "stamp_position",
+"value": "Stamp Position"
+},
+{
+"name": "stamp_size",
+"value": "Stamp Size"
+},
+{
+"name": "standard_buy_now_btn_click",
+"value": "standard_buy_now_btn_click"
+},
+{
+"name": "standard_noti",
+"value": "Pay Once, Lifetime Use."
+},
+{
+"name": "starlit",
+"value": "Starlit"
+},
+{
+"name": "start_new_report",
+"value": "Start New Report"
+},
+{
+"name": "state",
+"value": "State"
+},
+{
+"name": "status_bar_notification_info_overflow",
+"value": "999+"
+},
+{
+"name": "step_1",
+"value": "Step 1"
+},
+{
+"name": "step_10",
+"value": "Step 10"
+},
+{
+"name": "step_2",
+"value": "Step 2"
+},
+{
+"name": "step_2_1",
+"value": "- Pick a place on the map where you want to set the location."
+},
+{
+"name": "step_3",
+"value": "Step 3"
+},
+{
+"name": "step_4",
+"value": "Step 4"
+},
+{
+"name": "step_5",
+"value": "Step 5"
+},
+{
+"name": "step_6",
+"value": "Step 6"
+},
+{
+"name": "step_6_desc",
+"value": "Save Your Manual Location"
+},
+{
+"name": "step_7",
+"value": "Step 7"
+},
+{
+"name": "step_7_desc",
+"value": "When can I see and use the Manual Location?"
+},
+{
+"name": "step_8",
+"value": "Step 8"
+},
+{
+"name": "step_9",
+"value": "Step 9"
+},
+{
+"name": "storage",
+"value": "Storage"
+},
+{
+"name": "struck",
+"value": "Struck"
+},
+{
+"name": "style",
+"value": "Style"
+},
+{
+"name": "subject",
+"value": "Subject"
+},
+{
+"name": "subscribe",
+"value": "Subscribe Now"
+},
+{
+"name": "suffix",
+"value": "Suffix"
+},
+{
+"name": "supervisor",
+"value": "Supervisor"
+},
+{
+"name": "supervisor_",
+"value": "Supervisor:"
+},
+{
+"name": "tag_name",
+"value": "Tag Name"
+},
+{
+"name": "tampered_backup_file",
+"value": "Backup file is invalid, corrupted, or has been modified!"
+},
+{
+"name": "tap_here_to_exit_app",
+"value": "Tap here to exit app"
+},
+{
+"name": "tap_to_add",
+"value": "Tap to add"
+},
+{
+"name": "template",
+"value": "Template"
+},
+{
+"name": "terms_of_service",
+"value": "Terms of Service"
+},
+{
+"name": "termtext",
+"value": "By continuing, you agree to our Terms of Service and Privacy Policy."
+},
+{
+"name": "terrain",
+"value": "Terrain"
+},
+{
+"name": "test_ad",
+"value": "Test Ad"
+},
+{
+"name": "text_generating_pdf",
+"value": "Generating PDF"
+},
+{
+"name": "text_next",
+"value": "Next"
+},
+{
+"name": "text_next_page",
+"value": "Next Page"
+},
+{
+"name": "text_pdf_preview_not_support",
+"value": "PDF Preview Is not supported on below android Lolipop"
+},
+{
+"name": "text_previous_page",
+"value": "Previous Page"
+},
+{
+"name": "thanks_for_rate",
+"value": "Thank you for your valuable rating."
+},
+{
+"name": "timeFormat",
+"value": "Time Format"
+},
+{
+"name": "timer",
+"value": "Timer"
+},
+{
+"name": "timezone",
+"value": "Time Zone"
+},
+{
+"name": "title",
+"value": "Title"
+},
+{
+"name": "title_desc",
+"value": "For reference only. Not shown on stamp."
+},
+{
+"name": "to_additional_recipient_cc",
+"value": "To Additional Recipient (CC)"
+},
+{
+"name": "to_main_recipient",
+"value": "To main recipient"
+},
+{
+"name": "today",
+"value": "Today"
+},
+{
+"name": "tooltip_text",
+"value": "To Change order Drag list up/down"
+},
+{
+"name": "touch_setting",
+"value": "Screen Tap Action"
+},
+{
+"name": "txt_send_error_message",
+"value": "Please enter min 30 characters."
+},
+{
+"name": "type_accurate",
+"value": "Accurate"
+},
+{
+"name": "type_concise",
+"value": "Concise (Recommended)"
+},
+{
+"name": "type_left",
+"value": "Left"
+},
+{
+"name": "type_right",
+"value": "Right"
+},
+{
+"name": "type_something",
+"value": "Type Something"
+},
+{
+"name": "ucrop_crop",
+"value": "Crop"
+},
+{
+"name": "ucrop_error_input_data_is_absent",
+"value": "Both input and output Uri must be specified"
+},
+{
+"name": "ucrop_label_edit_photo",
+"value": "Edit Photo"
+},
+{
+"name": "ucrop_label_original",
+"value": "Original"
+},
+{
+"name": "ucrop_menu_crop",
+"value": "Crop"
+},
+{
+"name": "ucrop_mutate_exception_hint",
+"value": "Therefore, override color resource (ucrop_color_toolbar_widget) in your app to make it work on pre-L devices"
+},
+{
+"name": "ucrop_rotate",
+"value": "Rotate"
+},
+{
+"name": "ucrop_scale",
+"value": "Scale"
+},
+{
+"name": "unlock_custom_colors",
+"value": "Unlock Custom Colors"
+},
+{
+"name": "unsaved_changes",
+"value": "Unsaved Changes"
+},
+{
+"name": "unsaved_changes_msg",
+"value": "You have unsaved changes. Leaving now will discard your updates."
+},
+{
+"name": "until_you_cancel_annual",
+"value": "\" until you cancel.\""
+},
+{
+"name": "until_you_cancel_half",
+"value": "\" until you cancel.\""
+},
+{
+"name": "upgrade_gps_map_camera",
+"value": "Upgrade GPS Map Camera"
+},
+{
+"name": "upgrade_to_pro",
+"value": "Upgrade to Pro"
+},
+{
+"name": "user_guide",
+"value": "How to Use"
+},
+{
+"name": "user_guide_",
+"value": "User Guide"
+},
+{
+"name": "user_manual_instructions",
+"value": "Help &amp; Support"
+},
+{
+"name": "vid_voice",
+"value": "Video with Voice"
+},
+{
+"name": "vid_voice_off",
+"value": "Video without Voice"
+},
+{
+"name": "video",
+"value": "Video"
+},
+{
+"name": "video_quality",
+"value": "Video Quality"
+},
+{
+"name": "video_tutorial",
+"value": "Video Tutorials"
+},
+{
+"name": "vol_btn_setting",
+"value": "Volume Button Action"
+},
+{
+"name": "volume",
+"value": "Volume"
+},
+{
+"name": "vpn_desc",
+"value": "\"It looks like you're using a VPN, which hides your real location. This app needs your actual location to work properly. Try turning off your VPN and come back.\""
+},
+{
+"name": "vpn_title",
+"value": "VPN Connection Detected"
+},
+{
+"name": "wallpaper_set",
+"value": "Wallpaper set."
+},
+{
+"name": "watermark",
+"value": "Show App Logo"
+},
+{
+"name": "watermark_desc",
+"value": "GPS Map Camera branding on stamp"
+},
+{
+"name": "watermark_inapp_msg",
+"value": "To remove app logo watermark, Upgrade to PRO"
+},
+{
+"name": "weather",
+"value": "Temperature"
+},
+{
+"name": "week",
+"value": "Day"
+},
+{
+"name": "whisper",
+"value": "Whisper"
+},
+{
+"name": "white_balance",
+"value": "White Balance"
+},
+{
+"name": "wifi",
+"value": "Connect to Wi-Fi"
+},
+{
+"name": "wind",
+"value": "Wind"
+},
+{
+"name": "work_report",
+"value": "Work report"
+},
+{
+"name": "wp",
+"value": "WhatsApp"
+},
+{
+"name": "wp_and_wpb_not_installed",
+"value": "Neither WhatsApp nor WhatsApp Business is installed."
+},
+{
+"name": "write_note",
+"value": "Show note options on capture"
+},
+{
+"name": "yes",
+"value": "Yes"
+},
+{
+"name": "yesterday",
+"value": "Yesterday"
+},
+{
+"name": "you_can_t_move_to_the_same_folder",
+"value": "\"You can't move to the same folder.\""
+},
+{
+"name": "you_don_t_have_any_albums_nin_this_page",
+"value": "\"You don't have any albums\nin this page\""
+},
+{
+"name": "your_current_draft_will_be_replaced",
+"value": "Your current draft will be replaced"
+},
+{
+"name": "zoom",
+"value": "Zoom"
+}
+]

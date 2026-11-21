@@ -1,0 +1,3522 @@
+[
+ {
+  "name": "RF_DalvikCacheLeftovers",
+  "value": "软件的系统残留 (Dalvik-Cache)"
+ },
+ {
+  "name": "abc_action_bar_home_description",
+  "value": "Navigate home"
+ },
+ {
+  "name": "abc_action_bar_up_description",
+  "value": "Navigate up"
+ },
+ {
+  "name": "abc_action_menu_overflow_description",
+  "value": "More options"
+ },
+ {
+  "name": "abc_action_mode_done",
+  "value": "Done"
+ },
+ {
+  "name": "abc_activity_chooser_view_see_all",
+  "value": "See all"
+ },
+ {
+  "name": "abc_activitychooserview_choose_application",
+  "value": "Choose an app"
+ },
+ {
+  "name": "abc_capital_off",
+  "value": "OFF"
+ },
+ {
+  "name": "abc_capital_on",
+  "value": "ON"
+ },
+ {
+  "name": "abc_menu_alt_shortcut_label",
+  "value": "Alt+"
+ },
+ {
+  "name": "abc_menu_ctrl_shortcut_label",
+  "value": "Ctrl+"
+ },
+ {
+  "name": "abc_menu_delete_shortcut_label",
+  "value": "delete"
+ },
+ {
+  "name": "abc_menu_enter_shortcut_label",
+  "value": "enter"
+ },
+ {
+  "name": "abc_menu_function_shortcut_label",
+  "value": "Function+"
+ },
+ {
+  "name": "abc_menu_meta_shortcut_label",
+  "value": "Meta+"
+ },
+ {
+  "name": "abc_menu_shift_shortcut_label",
+  "value": "Shift+"
+ },
+ {
+  "name": "abc_menu_space_shortcut_label",
+  "value": "space"
+ },
+ {
+  "name": "abc_menu_sym_shortcut_label",
+  "value": "Sym+"
+ },
+ {
+  "name": "abc_prepend_shortcut_label",
+  "value": "Menu+"
+ },
+ {
+  "name": "abc_search_hint",
+  "value": "Search…"
+ },
+ {
+  "name": "abc_searchview_description_clear",
+  "value": "Clear query"
+ },
+ {
+  "name": "abc_searchview_description_query",
+  "value": "Search query"
+ },
+ {
+  "name": "abc_searchview_description_search",
+  "value": "Search"
+ },
+ {
+  "name": "abc_searchview_description_submit",
+  "value": "Submit query"
+ },
+ {
+  "name": "abc_searchview_description_voice",
+  "value": "Voice search"
+ },
+ {
+  "name": "abc_shareactionprovider_share_with",
+  "value": "Share with"
+ },
+ {
+  "name": "abc_shareactionprovider_share_with_application",
+  "value": "Share with %s"
+ },
+ {
+  "name": "abc_toolbar_collapse_description",
+  "value": "Collapse"
+ },
+ {
+  "name": "accept",
+  "value": "Accept"
+ },
+ {
+  "name": "account_type",
+  "value": "Password-protected"
+ },
+ {
+  "name": "action_mode_deselect_all",
+  "value": "Deselect all"
+ },
+ {
+  "name": "action_mode_select_all",
+  "value": "Select all"
+ },
+ {
+  "name": "active",
+  "value": "Active"
+ },
+ {
+  "name": "activity_tip_name",
+  "value": "Lucky Draw"
+ },
+ {
+  "name": "activity_title_cache_data",
+  "value": "App data"
+ },
+ {
+  "name": "activity_title_deep_apk",
+  "value": "Delete APKs"
+ },
+ {
+  "name": "activity_title_deep_clean",
+  "value": "Deep clean"
+ },
+ {
+  "name": "activity_title_garbage_cleanup",
+  "value": "Cleaner"
+ },
+ {
+  "name": "activity_title_large_file",
+  "value": "Big files"
+ },
+ {
+  "name": "activity_title_main",
+  "value": "Clear"
+ },
+ {
+  "name": "activity_title_video",
+  "value": "Delete videos"
+ },
+ {
+  "name": "ad_flag_text",
+  "value": "AD"
+ },
+ {
+  "name": "add_private",
+  "value": "Make files private"
+ },
+ {
+  "name": "add_private_files",
+  "value": "Add files"
+ },
+ {
+  "name": "add_remote",
+  "value": "Add remote device"
+ },
+ {
+  "name": "agree_all",
+  "value": "\"I've read and agreed to all of the following terms and conditions.\""
+ },
+ {
+  "name": "agree_privacy_policy",
+  "value": "Agree to Privacy Policy"
+ },
+ {
+  "name": "all",
+  "value": "All"
+ },
+ {
+  "name": "already_latest_version",
+  "value": "Current version is up to date."
+ },
+ {
+  "name": "analying",
+  "value": "Analyzing…"
+ },
+ {
+  "name": "androidx_startup",
+  "value": "androidx.startup"
+ },
+ {
+  "name": "anonymous",
+  "value": "Anonymous"
+ },
+ {
+  "name": "anonymous_type",
+  "value": "Portable (not secure)"
+ },
+ {
+  "name": "apk_status_damage",
+  "value": "Corrupted"
+ },
+ {
+  "name": "apk_status_duplicate",
+  "value": "Duplicate"
+ },
+ {
+  "name": "apk_status_install",
+  "value": "Installed"
+ },
+ {
+  "name": "apk_status_installed_old",
+  "value": "Old version"
+ },
+ {
+  "name": "apk_status_uninstalled",
+  "value": "Not installed"
+ },
+ {
+  "name": "apk_title_alipay_plugin",
+  "value": "支付宝插件"
+ },
+ {
+  "name": "app_clean_group_document_recv",
+  "value": "Received files"
+ },
+ {
+  "name": "app_clean_group_document_send",
+  "value": "Sent files"
+ },
+ {
+  "name": "app_clean_group_image_recv",
+  "value": "Received images"
+ },
+ {
+  "name": "app_clean_group_image_send",
+  "value": "Sent images"
+ },
+ {
+  "name": "app_name",
+  "value": "File Manager"
+ },
+ {
+  "name": "app_name_bluetooth",
+  "value": "Bluetooth"
+ },
+ {
+  "name": "app_name_camera",
+  "value": "Camera"
+ },
+ {
+  "name": "app_name_downloadedrom",
+  "value": "Packages"
+ },
+ {
+  "name": "app_name_downloads",
+  "value": "Downloads"
+ },
+ {
+  "name": "app_name_market",
+  "value": "App Store"
+ },
+ {
+  "name": "app_name_midrop",
+  "value": "ShareMe"
+ },
+ {
+  "name": "app_name_miui",
+  "value": "MIUI"
+ },
+ {
+  "name": "app_name_miuimusic",
+  "value": "Music"
+ },
+ {
+  "name": "app_name_miuiringtone",
+  "value": "Ringtone"
+ },
+ {
+  "name": "app_name_miuiwallpaper",
+  "value": "Wallpapers"
+ },
+ {
+  "name": "app_name_screenshot",
+  "value": "Screenshots"
+ },
+ {
+  "name": "app_name_transport",
+  "value": "Bluetooth &amp; downloads"
+ },
+ {
+  "name": "app_permissions",
+  "value": "App permissions"
+ },
+ {
+  "name": "app_permissions_desc",
+  "value": "File Manager needs some permissions to work normally."
+ },
+ {
+  "name": "app_usage_never",
+  "value": "Not recently used"
+ },
+ {
+  "name": "app_usage_recently",
+  "value": "Used recently"
+ },
+ {
+  "name": "authorization_item_desc",
+  "value": "Toggle this switch to grant or revoke your authorization"
+ },
+ {
+  "name": "authorization_item_title",
+  "value": "Authorization"
+ },
+ {
+  "name": "auto",
+  "value": "System"
+ },
+ {
+  "name": "auto_save_extend",
+  "value": "Extend"
+ },
+ {
+  "name": "auto_upgrade",
+  "value": "Update automatically"
+ },
+ {
+  "name": "big5_summary",
+  "value": "Traditional Chinese Windows default encoding"
+ },
+ {
+  "name": "big5_title",
+  "value": "BIG5"
+ },
+ {
+  "name": "browser_scan_history_desc",
+  "value": "Browser History"
+ },
+ {
+  "name": "browser_search_history_desc",
+  "value": "Searched items"
+ },
+ {
+  "name": "btn_text_quick_cleanup",
+  "value": "Clean up"
+ },
+ {
+  "name": "btn_text_quick_cleanup_apk",
+  "value": "Delete selected APKs %1$s"
+ },
+ {
+  "name": "btn_text_quick_cleanup_appdata",
+  "value": "Delete selected data %1$s"
+ },
+ {
+  "name": "btn_text_quick_cleanup_large_file",
+  "value": "Delete selected files %1$s"
+ },
+ {
+  "name": "btn_text_quick_cleanup_video",
+  "value": "Delete selected videos %1$s"
+ },
+ {
+  "name": "btn_text_stop",
+  "value": "Stop"
+ },
+ {
+  "name": "button_text_uninstall_only",
+  "value": "Uninstall %s"
+ },
+ {
+  "name": "byteShort",
+  "value": "B"
+ },
+ {
+  "name": "cache_title_empty_folder",
+  "value": "Empty folder (%d)"
+ },
+ {
+  "name": "cache_title_empty_folder2",
+  "value": "Empty folder"
+ },
+ {
+  "name": "cache_title_system_cache",
+  "value": "System cache"
+ },
+ {
+  "name": "call_log",
+  "value": "Call Logs"
+ },
+ {
+  "name": "can_not_send_with_too_many",
+  "value": "\"Can't send that many items at once\""
+ },
+ {
+  "name": "cancel",
+  "value": "Cancel"
+ },
+ {
+  "name": "cancel_auto_save",
+  "value": "No thanks"
+ },
+ {
+  "name": "cancel_error",
+  "value": "\"Couldn't remove. Try again.\""
+ },
+ {
+  "name": "cancel_operation",
+  "value": "Cancel operation"
+ },
+ {
+  "name": "cancel_success",
+  "value": "Moved files to %s successfully"
+ },
+ {
+  "name": "cancelled_by_user",
+  "value": "Operation canceled"
+ },
+ {
+  "name": "cannot_send",
+  "value": "\"Can't send files from external storage\""
+ },
+ {
+  "name": "category",
+  "value": "Categories"
+ },
+ {
+  "name": "category_album",
+  "value": "Albums"
+ },
+ {
+  "name": "category_all",
+  "value": "All files"
+ },
+ {
+  "name": "category_apk",
+  "value": "APKs"
+ },
+ {
+  "name": "category_bluetooth",
+  "value": "Bluetooth"
+ },
+ {
+  "name": "category_document",
+  "value": "Docs"
+ },
+ {
+  "name": "category_download",
+  "value": "Downloads"
+ },
+ {
+  "name": "category_favorite",
+  "value": "Favorites"
+ },
+ {
+  "name": "category_file",
+  "value": "Files"
+ },
+ {
+  "name": "category_folder",
+  "value": "Folders"
+ },
+ {
+  "name": "category_installed_app",
+  "value": "Installed apps"
+ },
+ {
+  "name": "category_midrive",
+  "value": "Mi Drive"
+ },
+ {
+  "name": "category_move_limit_notice",
+  "value": "You can move from 3 to 7 items to the upper part of the screen"
+ },
+ {
+  "name": "category_music",
+  "value": "Music"
+ },
+ {
+  "name": "category_other",
+  "value": "Other"
+ },
+ {
+  "name": "category_photo",
+  "value": "Photos"
+ },
+ {
+  "name": "category_picture",
+  "value": "Images"
+ },
+ {
+  "name": "category_recent",
+  "value": "Recent"
+ },
+ {
+  "name": "category_theme",
+  "value": "Themes"
+ },
+ {
+  "name": "category_transport",
+  "value": "Bluetooth &amp; downloads"
+ },
+ {
+  "name": "category_type_other",
+  "value": "Other"
+ },
+ {
+  "name": "category_video",
+  "value": "Videos"
+ },
+ {
+  "name": "category_zip",
+  "value": "Archives"
+ },
+ {
+  "name": "cd_check_box_checked",
+  "value": "checked"
+ },
+ {
+  "name": "cd_check_box_middle",
+  "value": "partial selection"
+ },
+ {
+  "name": "cd_check_box_unchecked",
+  "value": "not checked"
+ },
+ {
+  "name": "cd_list_item_collapse",
+  "value": "collapsed"
+ },
+ {
+  "name": "cd_list_item_expanded",
+  "value": "expanded"
+ },
+ {
+  "name": "check_upgrade",
+  "value": "Check for updates"
+ },
+ {
+  "name": "checking_new_version",
+  "value": "Checking for updates…"
+ },
+ {
+  "name": "choose_connect_type",
+  "value": "Connection type"
+ },
+ {
+  "name": "clean_found_trash",
+  "value": "Found %1$s of trash"
+ },
+ {
+  "name": "clean_marquee_text",
+  "value": "Scan for more junk files"
+ },
+ {
+  "name": "click_to_switch_volume",
+  "value": "Tap to switch between internal storage and SD card"
+ },
+ {
+  "name": "click_to_switch_volume_pad",
+  "value": "Tap to switch between internal storage and SD card"
+ },
+ {
+  "name": "clip_board_history_desc",
+  "value": "Copied/cut contents"
+ },
+ {
+  "name": "clipboard",
+  "value": "Clipboard"
+ },
+ {
+  "name": "columbus_ad_flag_text",
+  "value": "AD"
+ },
+ {
+  "name": "columbus_player_close_desc",
+  "value": "You will lose your reward"
+ },
+ {
+  "name": "columbus_player_close_resume",
+  "value": "RESUME VIDEO"
+ },
+ {
+  "name": "columbus_player_close_title",
+  "value": "Close Video?"
+ },
+ {
+  "name": "columbus_player_close_video",
+  "value": "CLOSE VIDEO"
+ },
+ {
+  "name": "columbus_player_install_now",
+  "value": "INSTALL NOW"
+ },
+ {
+  "name": "columbus_player_learn_more",
+  "value": "Learn More"
+ },
+ {
+  "name": "columbus_player_speed_title",
+  "value": "Skip Video?"
+ },
+ {
+  "name": "columbus_player_speed_video",
+  "value": "Skip VIDEO"
+ },
+ {
+  "name": "columbus_player_unit_sec",
+  "value": "sec"
+ },
+ {
+  "name": "columbus_skip_ad",
+  "value": "Skip"
+ },
+ {
+  "name": "com.crashlytics.android.build_id",
+  "value": "802cbc06b3cc4d6f9a2015b698c6a771"
+ },
+ {
+  "name": "common_google_play_services_enable_button",
+  "value": "Enable"
+ },
+ {
+  "name": "common_google_play_services_enable_text",
+  "value": "\"%1$s won't work unless you enable Google Play services.\""
+ },
+ {
+  "name": "common_google_play_services_enable_title",
+  "value": "Enable Google Play services"
+ },
+ {
+  "name": "common_google_play_services_install_button",
+  "value": "Install"
+ },
+ {
+  "name": "common_google_play_services_install_text",
+  "value": "\"%1$s won't run without Google Play services, which are missing from your device.\""
+ },
+ {
+  "name": "common_google_play_services_install_title",
+  "value": "Get Google Play services"
+ },
+ {
+  "name": "common_google_play_services_notification_channel_name",
+  "value": "Google Play services availability"
+ },
+ {
+  "name": "common_google_play_services_notification_ticker",
+  "value": "Google Play services error"
+ },
+ {
+  "name": "common_google_play_services_unknown_issue",
+  "value": "%1$s is having trouble with Google Play services. Please try again."
+ },
+ {
+  "name": "common_google_play_services_unsupported_text",
+  "value": "\"%1$s won't run without Google Play services, which are not supported by your device.\""
+ },
+ {
+  "name": "common_google_play_services_update_button",
+  "value": "Update"
+ },
+ {
+  "name": "common_google_play_services_update_text",
+  "value": "\"%1$s won't run unless you update Google Play services.\""
+ },
+ {
+  "name": "common_google_play_services_update_title",
+  "value": "Update Google Play services"
+ },
+ {
+  "name": "common_google_play_services_updating_text",
+  "value": "\"%1$s won't run without Google Play services, which are currently updating.\""
+ },
+ {
+  "name": "common_google_play_services_wear_update_text",
+  "value": "New version of Google Play services needed. It will update itself shortly."
+ },
+ {
+  "name": "common_open_on_phone",
+  "value": "Open on phone"
+ },
+ {
+  "name": "common_signin_button_text",
+  "value": "Sign in"
+ },
+ {
+  "name": "common_signin_button_text_long",
+  "value": "Sign in with Google"
+ },
+ {
+  "name": "compress_fail",
+  "value": "\"Couldn't compress. A file with the same name already exists.\""
+ },
+ {
+  "name": "compress_fail_unknown",
+  "value": "\"Couldn't compress. Storage is full or an unknown error occurred.\""
+ },
+ {
+  "name": "compress_message",
+  "value": "Compress to…"
+ },
+ {
+  "name": "compress_title",
+  "value": "Compress"
+ },
+ {
+  "name": "confirm",
+  "value": "OK"
+ },
+ {
+  "name": "confirm_clean",
+  "value": "Clean up"
+ },
+ {
+  "name": "confirm_know",
+  "value": "OK"
+ },
+ {
+  "name": "connection_error",
+  "value": "\"Couldn't connect\""
+ },
+ {
+  "name": "connection_lost",
+  "value": "Disconnected"
+ },
+ {
+  "name": "copy",
+  "value": "Copy"
+ },
+ {
+  "name": "copy_failed",
+  "value": "\"Couldn't copy\""
+ },
+ {
+  "name": "copy_to",
+  "value": "Copy to…"
+ },
+ {
+  "name": "copy_to_internal_storage_first",
+  "value": "Copy items to internal storage first."
+ },
+ {
+  "name": "copy_toast_msg",
+  "value": "Link copied to clipboard"
+ },
+ {
+  "name": "dark_mode",
+  "value": "Dark mode"
+ },
+ {
+  "name": "dark_mode_notice_message",
+  "value": "Dark theme is available now!"
+ },
+ {
+  "name": "data_support_cm",
+  "value": "Powered by Clean Master"
+ },
+ {
+  "name": "decompress_cancel",
+  "value": "Cancel"
+ },
+ {
+  "name": "decompress_confirm",
+  "value": "Extract"
+ },
+ {
+  "name": "decompress_corrupt",
+  "value": "\"Couldn't unpack files. Package is corrupted.\""
+ },
+ {
+  "name": "decompress_destination_error",
+  "value": "\"Can't extract files to this location.\""
+ },
+ {
+  "name": "decompress_encrypted_rar_not_supported",
+  "value": "\"Encrypted RAR files aren't supported.\""
+ },
+ {
+  "name": "decompress_fail",
+  "value": "\"Couldn't extract.\""
+ },
+ {
+  "name": "decompress_input_password",
+  "value": "Enter password"
+ },
+ {
+  "name": "decompress_password_error",
+  "value": "The password you entered is incorrect."
+ },
+ {
+  "name": "decompress_success",
+  "value": "Finished extracting"
+ },
+ {
+  "name": "decompress_title",
+  "value": "Extract"
+ },
+ {
+  "name": "decompress_to",
+  "value": "Extract files to…"
+ },
+ {
+  "name": "decompress_to_here",
+  "value": "Extract here"
+ },
+ {
+  "name": "decrypt",
+  "value": "Remove"
+ },
+ {
+  "name": "decrypt_error",
+  "value": "\"Couldn't remove\""
+ },
+ {
+  "name": "decrypt_to",
+  "value": "Decrypt and save to…"
+ },
+ {
+  "name": "decrypting",
+  "value": "Removing…"
+ },
+ {
+  "name": "deepclean_apk_content",
+  "value": "Delete APKs or unnecessary apps"
+ },
+ {
+  "name": "deepclean_apk_summary_empty",
+  "value": "Everything looks good, no APKs to delete"
+ },
+ {
+  "name": "deepclean_cache_content",
+  "value": "Clear data generated by apps"
+ },
+ {
+  "name": "deepclean_cache_summary_empty",
+  "value": "Everything looks good, no data to clear"
+ },
+ {
+  "name": "deepclean_large_content",
+  "value": "Delete files bigger than 10MB"
+ },
+ {
+  "name": "deepclean_large_summary_empty",
+  "value": "Everything looks good, no files to delete"
+ },
+ {
+  "name": "deepclean_list_item_from_app",
+  "value": "App Store"
+ },
+ {
+  "name": "deepclean_list_item_from_download",
+  "value": "Downloads"
+ },
+ {
+  "name": "deepclean_list_item_from_gallery",
+  "value": "Gallery"
+ },
+ {
+  "name": "deepclean_list_item_from_miui",
+  "value": "MIUI"
+ },
+ {
+  "name": "deepclean_list_item_from_music",
+  "value": "Music"
+ },
+ {
+  "name": "deepclean_list_item_from_sdcard",
+  "value": "SD card"
+ },
+ {
+  "name": "deepclean_video_content",
+  "value": "Delete already viewed or unnecessary videos"
+ },
+ {
+  "name": "deepclean_video_summary_empty",
+  "value": "Everything looks good"
+ },
+ {
+  "name": "default_cache_type",
+  "value": "Data files"
+ },
+ {
+  "name": "default_change_log",
+  "value": "Update the app to check out the new features."
+ },
+ {
+  "name": "default_web_client_id",
+  "value": "599532519894-qvdg613vlo22tol6uljd7upk0pg7j0s2.apps.googleusercontent.com"
+ },
+ {
+  "name": "delete_dialog_button",
+  "value": "Delete"
+ },
+ {
+  "name": "delete_error",
+  "value": "\"Couldn't delete files. Try again.\""
+ },
+ {
+  "name": "delete_file",
+  "value": "Delete this file?"
+ },
+ {
+  "name": "delete_file_error",
+  "value": "\"Couldn't delete file\""
+ },
+ {
+  "name": "delete_file_folder_confirm",
+  "value": "Delete %1$s and %2$s?"
+ },
+ {
+  "name": "delete_folder",
+  "value": "Delete now?"
+ },
+ {
+  "name": "dialog_msg_esc_cleanmaster",
+  "value": "Stop scanning and exit Cleaner?"
+ },
+ {
+  "name": "dialog_msg_score_explorer",
+  "value": "How do you feel about File Manager?"
+ },
+ {
+  "name": "dialog_msg_score_not_good",
+  "value": "Could you give us your feedback as well?"
+ },
+ {
+  "name": "dialog_msg_score_perfect",
+  "value": "Nice! Rate File Manager in Play Store as well?"
+ },
+ {
+  "name": "dialog_msg_stop_scan",
+  "value": "Stop scanning now?"
+ },
+ {
+  "name": "dialog_msg_uninstall_apps",
+  "value": "Uninstall these apps?"
+ },
+ {
+  "name": "dialog_msg_uninstall_apps_xspace",
+  "value": "Uninstall these apps including their Dual apps?"
+ },
+ {
+  "name": "dialog_select_type",
+  "value": "Select type"
+ },
+ {
+  "name": "dialog_title_esc_cleanmaster",
+  "value": "Exit Cleaner"
+ },
+ {
+  "name": "dialog_title_score",
+  "value": "Rate File Manager"
+ },
+ {
+  "name": "dialog_title_stop_scan",
+  "value": "Stop scanning"
+ },
+ {
+  "name": "dialog_type_audio",
+  "value": "Audio"
+ },
+ {
+  "name": "dialog_type_image",
+  "value": "Images"
+ },
+ {
+  "name": "dialog_type_text",
+  "value": "Docs"
+ },
+ {
+  "name": "dialog_type_video",
+  "value": "Videos"
+ },
+ {
+  "name": "directory_info_divider",
+  "value": "\"  |  \""
+ },
+ {
+  "name": "display_name",
+  "value": "Show name"
+ },
+ {
+  "name": "domain",
+  "value": "Domain"
+ },
+ {
+  "name": "download",
+  "value": "Continue"
+ },
+ {
+  "name": "download_success",
+  "value": "Downloaded successfully"
+ },
+ {
+  "name": "downloading",
+  "value": "Loading..."
+ },
+ {
+  "name": "drag_not_support_with_dir",
+  "value": "\"Can't drag and send folders\""
+ },
+ {
+  "name": "empty_by_forbid_access",
+  "value": "\"The contents of this folder can't be displayed here due to Android restrictions.\""
+ },
+ {
+  "name": "empty_title_apk",
+  "value": "No install packages found"
+ },
+ {
+  "name": "empty_title_garbage_cache",
+  "value": "Nothing to clear"
+ },
+ {
+  "name": "empty_title_installed_apps",
+  "value": "Empty"
+ },
+ {
+  "name": "empty_title_large_files",
+  "value": "Empty"
+ },
+ {
+  "name": "empty_title_video",
+  "value": "No videos to delete​"
+ },
+ {
+  "name": "enable_documentsui",
+  "value": "Turn on %s in Settings > Installed apps first"
+ },
+ {
+  "name": "enable_sd_card",
+  "value": "SD card is corrupted or disconnected"
+ },
+ {
+  "name": "enable_usb",
+  "value": "USB device is corrupted or disconnected"
+ },
+ {
+  "name": "encoding",
+  "value": "Encoding"
+ },
+ {
+  "name": "encoding_auto",
+  "value": "Auto"
+ },
+ {
+  "name": "encrypt_error",
+  "value": "\"Couldn't make private. Try again.\""
+ },
+ {
+  "name": "encrypt_prefix",
+  "value": "PRIVATE"
+ },
+ {
+  "name": "encrypt_success",
+  "value": "Selected items are private now"
+ },
+ {
+  "name": "encrypt_success_first_five",
+  "value": "\"This item is now private. You can view private files by pulling down on the File Manager's start page.\""
+ },
+ {
+  "name": "encrypting",
+  "value": "Encrypting…"
+ },
+ {
+  "name": "engine_init",
+  "value": "Initializing…"
+ },
+ {
+  "name": "error_contains_sharer_path",
+  "value": "\"Can't make files from \\\"/MIUI/Gallery/cloud/sharer\\\" private. Move the file to another folder and try again.\""
+ },
+ {
+  "name": "error_create_dir",
+  "value": "\"Couldn't create folder\""
+ },
+ {
+  "name": "error_create_file",
+  "value": "\"Couldn't create file\""
+ },
+ {
+  "name": "error_delete_failed",
+  "value": "\"Couldn't delete file\""
+ },
+ {
+  "name": "error_file_already_exists",
+  "value": "This file already exists."
+ },
+ {
+  "name": "error_filename_too_long",
+  "value": "The filename you entered is too long."
+ },
+ {
+  "name": "error_folder_already_exists",
+  "value": "This file already exists"
+ },
+ {
+  "name": "error_info_cant_send_folder",
+  "value": "\"Can't send folders.\""
+ },
+ {
+  "name": "error_invalid_path",
+  "value": "Incorrect path"
+ },
+ {
+  "name": "error_not_support",
+  "value": "Not supported"
+ },
+ {
+  "name": "error_open_file_failed_no_app_found",
+  "value": "\"Couldn't find apps to open this file.\""
+ },
+ {
+  "name": "exo_controls_fastforward_description",
+  "value": "Fast forward"
+ },
+ {
+  "name": "exo_controls_fullscreen_description",
+  "value": "Fullscreen mode"
+ },
+ {
+  "name": "exo_controls_hide",
+  "value": "Hide player controls"
+ },
+ {
+  "name": "exo_controls_next_description",
+  "value": "Next track"
+ },
+ {
+  "name": "exo_controls_pause_description",
+  "value": "Pause"
+ },
+ {
+  "name": "exo_controls_play_description",
+  "value": "Play"
+ },
+ {
+  "name": "exo_controls_previous_description",
+  "value": "Previous track"
+ },
+ {
+  "name": "exo_controls_repeat_all_description",
+  "value": "Repeat all"
+ },
+ {
+  "name": "exo_controls_repeat_off_description",
+  "value": "Repeat none"
+ },
+ {
+  "name": "exo_controls_repeat_one_description",
+  "value": "Repeat one"
+ },
+ {
+  "name": "exo_controls_rewind_description",
+  "value": "Rewind"
+ },
+ {
+  "name": "exo_controls_show",
+  "value": "Show player controls"
+ },
+ {
+  "name": "exo_controls_shuffle_off_description",
+  "value": "Shuffle off"
+ },
+ {
+  "name": "exo_controls_shuffle_on_description",
+  "value": "Shuffle on"
+ },
+ {
+  "name": "exo_controls_stop_description",
+  "value": "Stop"
+ },
+ {
+  "name": "exo_controls_vr_description",
+  "value": "VR mode"
+ },
+ {
+  "name": "exo_download_completed",
+  "value": "Download completed"
+ },
+ {
+  "name": "exo_download_description",
+  "value": "Download"
+ },
+ {
+  "name": "exo_download_downloading",
+  "value": "Downloading"
+ },
+ {
+  "name": "exo_download_failed",
+  "value": "Download failed"
+ },
+ {
+  "name": "exo_download_notification_channel_name",
+  "value": "Downloads"
+ },
+ {
+  "name": "exo_download_removing",
+  "value": "Removing downloads"
+ },
+ {
+  "name": "exo_item_list",
+  "value": "%1$s, %2$s"
+ },
+ {
+  "name": "exo_track_bitrate",
+  "value": "%1$.2f Mbps"
+ },
+ {
+  "name": "exo_track_mono",
+  "value": "Mono"
+ },
+ {
+  "name": "exo_track_resolution",
+  "value": "%1$d × %2$d"
+ },
+ {
+  "name": "exo_track_role_alternate",
+  "value": "Alternate"
+ },
+ {
+  "name": "exo_track_role_closed_captions",
+  "value": "CC"
+ },
+ {
+  "name": "exo_track_role_commentary",
+  "value": "Commentary"
+ },
+ {
+  "name": "exo_track_role_supplementary",
+  "value": "Supplementary"
+ },
+ {
+  "name": "exo_track_selection_auto",
+  "value": "Auto"
+ },
+ {
+  "name": "exo_track_selection_none",
+  "value": "None"
+ },
+ {
+  "name": "exo_track_selection_title_audio",
+  "value": "Audio"
+ },
+ {
+  "name": "exo_track_selection_title_text",
+  "value": "Text"
+ },
+ {
+  "name": "exo_track_selection_title_video",
+  "value": "Video"
+ },
+ {
+  "name": "exo_track_stereo",
+  "value": "Stereo"
+ },
+ {
+  "name": "exo_track_surround",
+  "value": "Surround sound"
+ },
+ {
+  "name": "exo_track_surround_5_point_1",
+  "value": "5.1 surround sound"
+ },
+ {
+  "name": "exo_track_surround_7_point_1",
+  "value": "7.1 surround sound"
+ },
+ {
+  "name": "exo_track_unknown",
+  "value": "Unknown"
+ },
+ {
+  "name": "expand_button_title",
+  "value": "Advanced"
+ },
+ {
+  "name": "explicit",
+  "value": "Explicit"
+ },
+ {
+  "name": "extended_storage_file_can_not_open",
+  "value": "\"Can't open the file. Copy it to internal storage.\""
+ },
+ {
+  "name": "extract",
+  "value": "Extract"
+ },
+ {
+  "name": "facebook_clean_exit_confirm_cancel",
+  "value": "Keep scanning"
+ },
+ {
+  "name": "facebook_clean_exit_confirm_msg",
+  "value": "\"Haven't finished scanning Facebook yet. Stop scanning now?\""
+ },
+ {
+  "name": "facebook_clean_exit_confirm_ok",
+  "value": "Stop"
+ },
+ {
+  "name": "facebook_clean_exit_confirm_title",
+  "value": "Stop scanning?"
+ },
+ {
+  "name": "facebook_group_cache",
+  "value": "Cache files"
+ },
+ {
+  "name": "facebook_group_gif",
+  "value": "GIFs"
+ },
+ {
+  "name": "facebook_group_image",
+  "value": "Images"
+ },
+ {
+  "name": "facebook_group_video",
+  "value": "Videos"
+ },
+ {
+  "name": "fail_to_create_folder_unknown",
+  "value": "\"Couldn't create folder due to an unknown error.\""
+ },
+ {
+  "name": "failed_not_access_sd_card",
+  "value": "Allow access to SD card first"
+ },
+ {
+  "name": "failed_obtain_permissions",
+  "value": "\"Couldn't get permissions\""
+ },
+ {
+  "name": "fallback_menu_item_copy_link",
+  "value": "Copy link"
+ },
+ {
+  "name": "fallback_menu_item_open_in_browser",
+  "value": "Open in browser"
+ },
+ {
+  "name": "fallback_menu_item_share_link",
+  "value": "Share link"
+ },
+ {
+  "name": "favorite_notice_message",
+  "value": "\"You can add folders to favorites now.\nPress and hold a folder and tap \\\"More\\\" to add.\""
+ },
+ {
+  "name": "favorite_photo",
+  "value": "Photos"
+ },
+ {
+  "name": "favorite_ringtone",
+  "value": "Ringtones"
+ },
+ {
+  "name": "favorite_screen_cap",
+  "value": "Screenshots"
+ },
+ {
+  "name": "fcm_fallback_notification_channel_label",
+  "value": "Miscellaneous"
+ },
+ {
+  "name": "feedback_desc",
+  "value": "\"Describe the issue you've encountered\""
+ },
+ {
+  "name": "feedback_send_email_body_extra_info",
+  "value": "\"Don't delete the following info. It will help us locate the problem.\""
+ },
+ {
+  "name": "feeling_ok",
+  "value": "Neutral"
+ },
+ {
+  "name": "file",
+  "value": "Files"
+ },
+ {
+  "name": "fileSizeSuffix",
+  "value": "%1$s %2$s"
+ },
+ {
+  "name": "file_info_canread",
+  "value": "Readable: "
+ },
+ {
+  "name": "file_info_canwrite",
+  "value": "Writable: "
+ },
+ {
+  "name": "file_info_ishidden",
+  "value": "Hidden: "
+ },
+ {
+  "name": "file_info_location",
+  "value": "Location: "
+ },
+ {
+  "name": "file_info_modified",
+  "value": "Last modified: "
+ },
+ {
+  "name": "file_info_size",
+  "value": "Size: "
+ },
+ {
+  "name": "file_loading",
+  "value": "Just a sec…"
+ },
+ {
+  "name": "file_name_invalid",
+  "value": "\"File names can't contain the following characters: /\\\\:*?&lt;>\""
+ },
+ {
+  "name": "file_not_found",
+  "value": "File not found"
+ },
+ {
+  "name": "find_new_version",
+  "value": "An update is available: %1$s"
+ },
+ {
+  "name": "firebase_database_url",
+  "value": "https://originfileexplorer.firebaseio.com"
+ },
+ {
+  "name": "folder_name_empty",
+  "value": "\"Folder name can't be blank\""
+ },
+ {
+  "name": "folder_name_illegal",
+  "value": "Invalid folder name"
+ },
+ {
+  "name": "found_usb",
+  "value": "USB storage connected"
+ },
+ {
+  "name": "ftp_account_req_notice",
+  "value": "Username and password are case-sensitive and must contain %1$d-%2$d characters. You can combine English letters, special symbols, and numbers."
+ },
+ {
+  "name": "ftp_anonymous_login",
+  "value": "Sign in anonymously"
+ },
+ {
+  "name": "ftp_invalid_username_or_password",
+  "value": "The username or password you entered is invalid."
+ },
+ {
+  "name": "ftp_open_port_error",
+  "value": "\"Couldn't open port. Check your network connection or reset port number.\""
+ },
+ {
+  "name": "ftp_password_hint",
+  "value": "Password"
+ },
+ {
+  "name": "ftp_port_number",
+  "value": "Port number"
+ },
+ {
+  "name": "ftp_random_port",
+  "value": "Random port"
+ },
+ {
+  "name": "ftp_transfer_secure",
+  "value": "Security"
+ },
+ {
+  "name": "ftp_username_and_passworld",
+  "value": "Set username and password"
+ },
+ {
+  "name": "ftp_username_hint",
+  "value": "Username"
+ },
+ {
+  "name": "gbk_summary",
+  "value": "Simplified Chinese Windows default encoding"
+ },
+ {
+  "name": "gbk_title",
+  "value": "GBK"
+ },
+ {
+  "name": "gcm_defaultSenderId",
+  "value": "599532519894"
+ },
+ {
+  "name": "gigabyteShort",
+  "value": "GB"
+ },
+ {
+  "name": "google_api_key",
+  "value": "AIzaSyBOhW…[redacted]"
+ },
+ {
+  "name": "google_app_id",
+  "value": "1:599532519894:android:cdc497eda781bcf4"
+ },
+ {
+  "name": "google_crash_reporting_api_key",
+  "value": "AIzaSyBOhW…[redacted]"
+ },
+ {
+  "name": "google_storage_bucket",
+  "value": "originfileexplorer.appspot.com"
+ },
+ {
+  "name": "gps_prompt_context",
+  "value": "Downloading with mobile network?"
+ },
+ {
+  "name": "gps_prompt_title",
+  "value": "Tips"
+ },
+ {
+  "name": "great",
+  "value": "Very satisfied"
+ },
+ {
+  "name": "grid_order",
+  "value": "Grid view"
+ },
+ {
+  "name": "hints_ad_header_left",
+  "value": "Trash"
+ },
+ {
+  "name": "hints_apk_header_left",
+  "value": "APK"
+ },
+ {
+  "name": "hints_apk_version",
+  "value": "Version: %s"
+ },
+ {
+  "name": "hints_cache_header_left",
+  "value": "Cache files"
+ },
+ {
+  "name": "hints_cache_msd_desc",
+  "value": "\"Deleting delta updates won't influence app usage\""
+ },
+ {
+  "name": "hints_cache_msd_title",
+  "value": "Delta update"
+ },
+ {
+  "name": "hints_deepclean_list_item_from",
+  "value": "From %s"
+ },
+ {
+  "name": "hints_finish_quick_cleanup",
+  "value": "Done"
+ },
+ {
+  "name": "hints_list_item_clean",
+  "value": "Clear"
+ },
+ {
+  "name": "hints_list_item_keep",
+  "value": "Keep"
+ },
+ {
+  "name": "hints_memory_header_left",
+  "value": "Memory"
+ },
+ {
+  "name": "hints_quick_deep_clean",
+  "value": "Clean now"
+ },
+ {
+  "name": "hints_quick_deep_scanning",
+  "value": "Scanning"
+ },
+ {
+  "name": "hints_residual_header_left",
+  "value": "Residuals"
+ },
+ {
+  "name": "hints_scan_has_finish",
+  "value": "Cleaned successfully"
+ },
+ {
+  "name": "hints_scanfinish",
+  "value": "No trash"
+ },
+ {
+  "name": "hints_storage_free_size",
+  "value": "Total %1$s, %2$s available"
+ },
+ {
+  "name": "hints_title_garbage",
+  "value": "Trash"
+ },
+ {
+  "name": "hints_video_camera",
+  "value": "Captured videos"
+ },
+ {
+  "name": "hints_video_download",
+  "value": "Downloaded videos"
+ },
+ {
+  "name": "homepage_tab_recent",
+  "value": "Recent"
+ },
+ {
+  "name": "host",
+  "value": "Host"
+ },
+ {
+  "name": "hot_sticker",
+  "value": "Stickers"
+ },
+ {
+  "name": "ic_remove_desc",
+  "value": "File Manager is a system app that allows you to view and manage files on your device. Remove anyway?"
+ },
+ {
+  "name": "ic_remove_title",
+  "value": "Remove \\\"File Manager\\\" from Home screen?"
+ },
+ {
+  "name": "if_cancel",
+  "value": "Cancel this operation?"
+ },
+ {
+  "name": "image_loading_error",
+  "value": "\"Couldn't load image\""
+ },
+ {
+  "name": "implicit",
+  "value": "Implicit"
+ },
+ {
+  "name": "info_app_package_name",
+  "value": "Package name:"
+ },
+ {
+  "name": "info_app_version",
+  "value": "App version:"
+ },
+ {
+  "name": "info_language",
+  "value": "Language:"
+ },
+ {
+  "name": "info_location",
+  "value": "Region:"
+ },
+ {
+  "name": "info_product",
+  "value": "Device:"
+ },
+ {
+  "name": "info_system",
+  "value": "System:"
+ },
+ {
+  "name": "info_system_version",
+  "value": "System version:"
+ },
+ {
+  "name": "invalid_name_or_password",
+  "value": "Invalid username or password"
+ },
+ {
+  "name": "junk_syscache_alert_desc",
+  "value": "我们不建议清理这个缓存,&lt;font color=#d64438>清理后会影响APP正常运行&lt;/font>"
+ },
+ {
+  "name": "junk_tag_RF_DalvikCacheLeftovers",
+  "value": "软件的系统残留 (Dalvik-Cache)"
+ },
+ {
+  "name": "junk_tag_RF_DemoVideo_LG",
+  "value": "LG手机演示用视频"
+ },
+ {
+  "name": "junk_tag_RF_DemoVideo_MIUI",
+  "value": "小米手机品牌展示视频"
+ },
+ {
+  "name": "junk_tag_RF_DemoVideo_Samsung",
+  "value": "三星手机演示用视频"
+ },
+ {
+  "name": "junk_tag_RF_DemoVideo_Sony",
+  "value": "索尼手机演示用视频"
+ },
+ {
+  "name": "junk_tag_RF_EmptyFolders",
+  "value": "Empty folders"
+ },
+ {
+  "name": "junk_tag_RF_ImageThumbnails",
+  "value": "Gallery Thumbnails"
+ },
+ {
+  "name": "junk_tag_RF_LibsDirFiles",
+  "value": "无用的数据文件"
+ },
+ {
+  "name": "junk_tag_RF_LogFiles",
+  "value": "日志文件"
+ },
+ {
+  "name": "junk_tag_RF_LostDirFiles",
+  "value": "无用的系统文件"
+ },
+ {
+  "name": "junk_tag_RF_MFCacheDirFiles",
+  "value": "无用的缓存文件"
+ },
+ {
+  "name": "junk_tag_RF_TaobaoLogFiles",
+  "value": "手机淘宝的日志文件"
+ },
+ {
+  "name": "junk_tag_RF_TempFiles",
+  "value": "临时文件"
+ },
+ {
+  "name": "junk_tag_RF_WechatDownload",
+  "value": "微信下载表情时的临时文件"
+ },
+ {
+  "name": "junk_tag_big_file_from_name_album",
+  "value": "相册"
+ },
+ {
+  "name": "junk_tag_big_file_from_name_baidu",
+  "value": "百度地图"
+ },
+ {
+  "name": "junk_tag_big_file_from_name_baofeng",
+  "value": "暴风影音"
+ },
+ {
+  "name": "junk_tag_big_file_from_name_bluetoothfiles",
+  "value": "蓝牙目录"
+ },
+ {
+  "name": "junk_tag_big_file_from_name_camerafiles",
+  "value": "系统相册目录"
+ },
+ {
+  "name": "junk_tag_big_file_from_name_downloads",
+  "value": "下载目录"
+ },
+ {
+  "name": "junk_tag_big_file_from_name_fmt",
+  "value": "来自%s"
+ },
+ {
+  "name": "junk_tag_big_file_from_name_musicfiles",
+  "value": "音乐目录"
+ },
+ {
+  "name": "junk_tag_big_file_from_name_sdcard",
+  "value": "存储卡根目录"
+ },
+ {
+  "name": "junk_tag_big_file_from_name_videofiles",
+  "value": "视频目录"
+ },
+ {
+  "name": "junk_tag_big_file_mergedfile_desc_aura",
+  "value": "它是Sygic GPS下载的地图，&lt;font color=#d64438 >清理后无法恢复&lt;/font>"
+ },
+ {
+  "name": "junk_tag_big_file_mergedfile_desc_baidumap",
+  "value": "它是百度地图下载的地图，&lt;font color=#d64438 >清理后需要重新下载才能离线使用&lt;/font>"
+ },
+ {
+  "name": "junk_tag_big_file_mergedfile_desc_baofeng",
+  "value": "这是暴风影音下载的视频，&lt;font color=#d64438 >清理后无法恢复&lt;/font>"
+ },
+ {
+  "name": "junk_tag_big_file_mergedfile_desc_downloader",
+  "value": "它是使用Downloader下载的文件，&lt;font color=#d64438 >清理后文件会被删除&lt;/font>"
+ },
+ {
+  "name": "junk_tag_big_file_mergedfile_desc_duokan",
+  "value": "这是多看阅读中的我的书架书籍，&lt;font color=#d64438 >清理后将无法查看&lt;/font>"
+ },
+ {
+  "name": "junk_tag_big_file_mergedfile_desc_goapk",
+  "value": "这是安智市场中下载的安装包，&lt;font color=#d64438 >清理后将无法使用&lt;/font>"
+ },
+ {
+  "name": "junk_tag_big_file_mergedfile_desc_googletransfer",
+  "value": "它是翻译下载的离线语言包，&lt;font color=#d64438 >清理后需要联网重新下载才能离线使用&lt;/font>"
+ },
+ {
+  "name": "junk_tag_big_file_mergedfile_desc_navitel",
+  "value": "它是Navitel下载的地图，&lt;font color=#d64438 >清理后下载的 地图会被删除，需要联网重新下载&lt;/font>"
+ },
+ {
+  "name": "junk_tag_big_file_mergedfile_desc_sygic",
+  "value": "它是Sygic GPS下载的地图，&lt;font color=#d64438 >清理后无法恢复&lt;/font>"
+ },
+ {
+  "name": "junk_tag_big_file_mergedfile_desc_ucbrowser",
+  "value": "这是UC Browser的可离线阅读的小说，&lt;font color=#d64438 >清理后可离线阅读的小说会被删除&lt;/font>"
+ },
+ {
+  "name": "junk_tag_big_file_mergedfile_desc_vk",
+  "value": "它是使用VK播放音乐的时候缓存的语音文件，&lt;font color=#d64438 >清理后不能离线收听&lt;/font>"
+ },
+ {
+  "name": "junk_tag_big_file_mergedfile_desc_yandex",
+  "value": "它是使用Яндекс.Маркет下载的所有地图，&lt;font color=#d64438 >清理后不能离线使用&lt;/font>"
+ },
+ {
+  "name": "junk_tag_big_file_mergedfile_name_aura",
+  "value": "下载的地图(Sygic)"
+ },
+ {
+  "name": "junk_tag_big_file_mergedfile_name_downloader",
+  "value": "下载的文件(Downloader)"
+ },
+ {
+  "name": "junk_tag_big_file_mergedfile_name_duokan",
+  "value": "我的书架书籍(多看)"
+ },
+ {
+  "name": "junk_tag_big_file_mergedfile_name_goapk",
+  "value": "下载的安装包(安智市场)"
+ },
+ {
+  "name": "junk_tag_big_file_mergedfile_name_googletransfer",
+  "value": "下载的离线语言包(Google 翻译)"
+ },
+ {
+  "name": "junk_tag_big_file_mergedfile_name_navitel",
+  "value": "下载的地图(Navitel)"
+ },
+ {
+  "name": "junk_tag_big_file_mergedfile_name_sygic",
+  "value": "下载的地图(Sygic)"
+ },
+ {
+  "name": "junk_tag_big_file_mergedfile_name_ucbrowser",
+  "value": "可离线阅读的小说(UC浏览器)"
+ },
+ {
+  "name": "junk_tag_big_file_mergedfile_name_vk",
+  "value": "保存的语音文件(VK播放)"
+ },
+ {
+  "name": "junk_tag_big_file_mergedfile_name_yandex",
+  "value": "下载的地图(Yandex)"
+ },
+ {
+  "name": "junk_tag_big_file_type_apk",
+  "value": "%1$s安装包(V%2$s)"
+ },
+ {
+  "name": "junk_tag_big_file_type_font",
+  "value": "[字体]%1$s"
+ },
+ {
+  "name": "junk_tag_big_file_type_gamedata_obb",
+  "value": "%1$s的数据包"
+ },
+ {
+  "name": "junk_tag_big_file_type_map_baidu",
+  "value": "%1$s离线地图"
+ },
+ {
+  "name": "junk_tag_junk_android_data_2nd_card_left_overs",
+  "value": "软件卸载后残留文件"
+ },
+ {
+  "name": "junk_tag_junk_big_name_android_data_google_file",
+  "value": "翻译数据文件"
+ },
+ {
+  "name": "junk_tag_junk_big_name_c_thumbnails",
+  "value": "相册缩略图"
+ },
+ {
+  "name": "junk_tag_junk_big_name_d_100media",
+  "value": "录制的视频"
+ },
+ {
+  "name": "junk_tag_junk_big_name_d_thumbnails",
+  "value": "相册缩略图"
+ },
+ {
+  "name": "junk_tag_junk_big_name_demovideo",
+  "value": "功能演示视频"
+ },
+ {
+  "name": "junk_tag_junk_big_name_downloadmanager",
+  "value": "下载的文件"
+ },
+ {
+  "name": "junk_tag_junk_big_name_llogs",
+  "value": "系统无用日志文件"
+ },
+ {
+  "name": "junk_tag_junk_big_name_mi_userbook",
+  "value": "小米功能新手引导"
+ },
+ {
+  "name": "junk_tag_junk_big_name_miui_gallerydemovideo",
+  "value": "小米功能演示视频"
+ },
+ {
+  "name": "junk_tag_junk_big_name_s_dic",
+  "value": "三星字典的词库"
+ },
+ {
+  "name": "junk_tag_junk_big_name_s_movie",
+  "value": "三星自带视频"
+ },
+ {
+  "name": "junk_tag_junk_big_name_samsung_video",
+  "value": "三星自带视频"
+ },
+ {
+  "name": "junk_tag_junk_big_name_smt",
+  "value": "语音识别数据文件"
+ },
+ {
+  "name": "junk_tag_junk_big_name_sys_rom",
+  "value": "系统包软件"
+ },
+ {
+  "name": "junk_tag_junk_big_name_tencent_qqfile",
+  "value": "QQ接收的文件"
+ },
+ {
+  "name": "junk_tag_junk_big_name_thumbnails",
+  "value": "手机图片缩略图"
+ },
+ {
+  "name": "junk_tag_junk_big_name_whatsapp_media_video",
+  "value": "whatsapp视频文件"
+ },
+ {
+  "name": "junk_tag_system_fixed_cache_item_sd_pushLog_title",
+  "value": "GDC推送日志"
+ },
+ {
+  "name": "just_now",
+  "value": "Just now"
+ },
+ {
+  "name": "kilobyteShort",
+  "value": "KB"
+ },
+ {
+  "name": "lack_perm_dialog_title",
+  "value": "Permissions required"
+ },
+ {
+  "name": "list_order",
+  "value": "List view"
+ },
+ {
+  "name": "load_more",
+  "value": "View more"
+ },
+ {
+  "name": "loading",
+  "value": "Just a sec…"
+ },
+ {
+  "name": "local_image",
+  "value": "Images"
+ },
+ {
+  "name": "local_music",
+  "value": "Audio files"
+ },
+ {
+  "name": "local_network",
+  "value": "LAN"
+ },
+ {
+  "name": "local_video",
+  "value": "Video files"
+ },
+ {
+  "name": "main_title_filesize",
+  "value": "%1$s trash"
+ },
+ {
+  "name": "mainbtn_text_quick_cleanup",
+  "value": "Clean up %s"
+ },
+ {
+  "name": "make_private",
+  "value": "Make private"
+ },
+ {
+  "name": "make_private_msg_1",
+  "value": "Make this file private?"
+ },
+ {
+  "name": "make_private_msg_2",
+  "value": "Make these files private?"
+ },
+ {
+  "name": "make_private_msg_3",
+  "value": "All files in this folder will be made private."
+ },
+ {
+  "name": "megabyteShort",
+  "value": "MB"
+ },
+ {
+  "name": "menu_add_to_white_list",
+  "value": "Add to exceptions"
+ },
+ {
+  "name": "menu_clear",
+  "value": "Clear"
+ },
+ {
+  "name": "menu_install",
+  "value": "Install this app"
+ },
+ {
+  "name": "menu_item_deep_clean",
+  "value": "Deep clean"
+ },
+ {
+  "name": "menu_item_ftp",
+  "value": "Connect to computer"
+ },
+ {
+  "name": "menu_item_midrop",
+  "value": "Transfer files"
+ },
+ {
+  "name": "menu_item_midrop_desc",
+  "value": "More apps"
+ },
+ {
+  "name": "menu_item_router",
+  "value": "Router"
+ },
+ {
+  "name": "menu_item_sort",
+  "value": "Sort by"
+ },
+ {
+  "name": "menu_item_sort_add_time",
+  "value": "\"Added to favorites \""
+ },
+ {
+  "name": "menu_item_sort_date",
+  "value": "Modification time"
+ },
+ {
+  "name": "menu_item_sort_name",
+  "value": "Name"
+ },
+ {
+  "name": "menu_item_sort_type",
+  "value": "Type"
+ },
+ {
+  "name": "menu_item_usb",
+  "value": "USB"
+ },
+ {
+  "name": "menu_new_display_open",
+  "value": "用新窗口打开"
+ },
+ {
+  "name": "menu_open",
+  "value": "Open"
+ },
+ {
+  "name": "menu_pc_open",
+  "value": "用电脑程序打开"
+ },
+ {
+  "name": "menu_view",
+  "value": "View"
+ },
+ {
+  "name": "mi_router_label",
+  "value": "Router"
+ },
+ {
+  "name": "mode",
+  "value": "Mode"
+ },
+ {
+  "name": "monitor_app_name",
+  "value": "zeus-monitor-crash"
+ },
+ {
+  "name": "month_day_format",
+  "value": "MMM dd"
+ },
+ {
+  "name": "more",
+  "value": "More"
+ },
+ {
+  "name": "more_option",
+  "value": "More options"
+ },
+ {
+  "name": "move_failed",
+  "value": "\"Can't move\""
+ },
+ {
+  "name": "move_icon_to_desktop_hint",
+  "value": "Create a Home screen shortcut for File Manager to work with files more efficiently."
+ },
+ {
+  "name": "move_icon_to_desktop_success",
+  "value": "Created shortcut successfully"
+ },
+ {
+  "name": "move_to",
+  "value": "Move to…"
+ },
+ {
+  "name": "msg_auto_seven_day",
+  "value": "Cached items are cleared every 24 hours. Extend this interval to 7 days?"
+ },
+ {
+  "name": "msg_set_password",
+  "value": "Set password first"
+ },
+ {
+  "name": "mtp_device",
+  "value": "Media device (MTP)"
+ },
+ {
+  "name": "must_permissions",
+  "value": "Mandatory permissions"
+ },
+ {
+  "name": "must_privacy_policy",
+  "value": "Privacy Policy (mandatory)"
+ },
+ {
+  "name": "must_user_service",
+  "value": "User Agreement (mandatory)"
+ },
+ {
+  "name": "name_debuglog_dir",
+  "value": "BSP debug log"
+ },
+ {
+  "name": "name_empty",
+  "value": "You must enter a name."
+ },
+ {
+  "name": "native_body",
+  "value": "Body"
+ },
+ {
+  "name": "native_headline",
+  "value": "Headline"
+ },
+ {
+  "name": "native_media_view",
+  "value": "Media View"
+ },
+ {
+  "name": "network_settings_error",
+  "value": "\"Can't connect to the network\""
+ },
+ {
+  "name": "new_feature",
+  "value": "New feature"
+ },
+ {
+  "name": "new_folder_name",
+  "value": "New folder"
+ },
+ {
+  "name": "no",
+  "value": "No"
+ },
+ {
+  "name": "no_apk",
+  "value": "Tap to get apps"
+ },
+ {
+  "name": "no_enough_storage_indication",
+  "value": "\"Device's storage space is full.\""
+ },
+ {
+  "name": "no_enough_storage_title",
+  "value": "Not enough storage space"
+ },
+ {
+  "name": "no_file",
+  "value": "Empty"
+ },
+ {
+  "name": "no_host",
+  "value": "Enter host address"
+ },
+ {
+  "name": "no_recent_files",
+  "value": "No recent files"
+ },
+ {
+  "name": "no_wifi",
+  "value": "No Wi-Fi networks"
+ },
+ {
+  "name": "no_wifi_hint",
+  "value": "\"Couldn't find Wi-Fi networks. Tap to open Wi-Fi settings.\""
+ },
+ {
+  "name": "not_connect",
+  "value": "\"Can't connect\""
+ },
+ {
+  "name": "not_connect_user",
+  "value": "\"Can't connect: %1$s and %2$s\""
+ },
+ {
+  "name": "not_installed_documentsui",
+  "value": "DocumentsUI not installed"
+ },
+ {
+  "name": "not_set",
+  "value": "Not set"
+ },
+ {
+  "name": "not_support_documentui",
+  "value": "\"DocumentUI isn't supported on this device\""
+ },
+ {
+  "name": "not_very_dissatisfied",
+  "value": "Dissatisfied"
+ },
+ {
+  "name": "notif_server_starting",
+  "value": "Starting FTP server…"
+ },
+ {
+  "name": "notif_title",
+  "value": "FTP server is running"
+ },
+ {
+  "name": "notification_settings",
+  "value": "Settings"
+ },
+ {
+  "name": "notification_wechat_expired_empty",
+  "value": "WeChat has already deleted these video clips."
+ },
+ {
+  "name": "notifications_permission_confirm",
+  "value": "Allow"
+ },
+ {
+  "name": "notifications_permission_decline",
+  "value": "\"Don't allow\""
+ },
+ {
+  "name": "notifications_permission_title",
+  "value": "Allow app to send you notifications?"
+ },
+ {
+  "name": "offline_notification_text",
+  "value": "Tap to open ad"
+ },
+ {
+  "name": "offline_notification_title",
+  "value": "View the ad you saved when you were offline"
+ },
+ {
+  "name": "offline_opt_in_confirm",
+  "value": "OK"
+ },
+ {
+  "name": "offline_opt_in_confirmation",
+  "value": "\"You'll get a notification with the link when you're back online\""
+ },
+ {
+  "name": "offline_opt_in_decline",
+  "value": "No thanks"
+ },
+ {
+  "name": "offline_opt_in_message",
+  "value": "\"We'll send you a notification with a link to the advertiser site.\""
+ },
+ {
+  "name": "offline_opt_in_title",
+  "value": "\"Open ad when you're back online.\""
+ },
+ {
+  "name": "ok",
+  "value": "OK"
+ },
+ {
+  "name": "online_not_support",
+  "value": "\"Can't view this file at the moment.\""
+ },
+ {
+  "name": "open",
+  "value": "Open"
+ },
+ {
+  "name": "open_file_error",
+  "value": "\"Couldn't find the app that opens this file\""
+ },
+ {
+  "name": "open_private_folder",
+  "value": "Release to view private files"
+ },
+ {
+  "name": "operation_add_fav",
+  "value": "Adding to favorites…"
+ },
+ {
+  "name": "operation_cancel",
+  "value": "Cancel"
+ },
+ {
+  "name": "operation_compress",
+  "value": "Compress"
+ },
+ {
+  "name": "operation_compressing",
+  "value": "Compressing…"
+ },
+ {
+  "name": "operation_copy",
+  "value": "Copy"
+ },
+ {
+  "name": "operation_create_folder",
+  "value": "Create folder"
+ },
+ {
+  "name": "operation_create_folder_message",
+  "value": "Enter folder name"
+ },
+ {
+  "name": "operation_decompressing",
+  "value": "Extracting…"
+ },
+ {
+  "name": "operation_del_fav",
+  "value": "Removing from favorites…"
+ },
+ {
+  "name": "operation_delete",
+  "value": "Delete"
+ },
+ {
+  "name": "operation_delete_confirm_message",
+  "value": "Delete?"
+ },
+ {
+  "name": "operation_delete_confirm_message_folder",
+  "value": "\"All folder contents will be deleted.\n\""
+ },
+ {
+  "name": "operation_delete_done",
+  "value": "All done!"
+ },
+ {
+  "name": "operation_deleting",
+  "value": "Deleting…"
+ },
+ {
+  "name": "operation_deleting_message",
+  "value": "Deleting…"
+ },
+ {
+  "name": "operation_edit",
+  "value": "Edit"
+ },
+ {
+  "name": "operation_favorite",
+  "value": "Add to favorites"
+ },
+ {
+  "name": "operation_hide_sys",
+  "value": "\"Don't show hidden files\""
+ },
+ {
+  "name": "operation_info",
+  "value": "Details"
+ },
+ {
+  "name": "operation_language",
+  "value": "Language"
+ },
+ {
+  "name": "operation_move",
+  "value": "Move"
+ },
+ {
+  "name": "operation_moving",
+  "value": "Moving…"
+ },
+ {
+  "name": "operation_other_apps",
+  "value": "Open in another app"
+ },
+ {
+  "name": "operation_paste",
+  "value": "Paste"
+ },
+ {
+  "name": "operation_pasting",
+  "value": "Copying…"
+ },
+ {
+  "name": "operation_refresh",
+  "value": "Refresh"
+ },
+ {
+  "name": "operation_rename",
+  "value": "Rename"
+ },
+ {
+  "name": "operation_rename_message",
+  "value": "Enter new name"
+ },
+ {
+  "name": "operation_send",
+  "value": "Send"
+ },
+ {
+  "name": "operation_show_sys",
+  "value": "Show hidden files"
+ },
+ {
+  "name": "operation_unfavorite",
+  "value": "Remove from favorites"
+ },
+ {
+  "name": "optimizecenter_data_support_tc",
+  "value": "Powered by Tencent"
+ },
+ {
+  "name": "optional",
+  "value": "Optional"
+ },
+ {
+  "name": "otg_data_transfer_success",
+  "value": "Transferred successfully"
+ },
+ {
+  "name": "otg_data_transferring",
+  "value": "\"Transferring files. Don't disconnect your device.\""
+ },
+ {
+  "name": "overwrite_msg",
+  "value": "\\\"%s\\\" already exists. Tap to replace it with the new file."
+ },
+ {
+  "name": "pad",
+  "value": "Internal storage"
+ },
+ {
+  "name": "partial_cancel_successful",
+  "value": "\"Couldn't remove some files. Moved the rest of the files to %s.\""
+ },
+ {
+  "name": "partial_delete_failure",
+  "value": "\"Couldn't delete some files. Try again.\""
+ },
+ {
+  "name": "partial_encrypt_success",
+  "value": "\"Couldn't make some files private. Try again.\""
+ },
+ {
+  "name": "passive",
+  "value": "Passive"
+ },
+ {
+  "name": "perm_manage_external_storage",
+  "value": "Allow File Manager to access photos and videos to be able to use this feature. You can do this in Settings."
+ },
+ {
+  "name": "permission_denial",
+  "value": "\"Couldn't access files. Allow File Manager to access files in the Settings.\""
+ },
+ {
+  "name": "permission_phone",
+  "value": "Phone"
+ },
+ {
+  "name": "permission_phone_desc",
+  "value": "Access IMEI to identify, store, and handle private files"
+ },
+ {
+  "name": "permission_required",
+  "value": "\"Couldn't access files. Allow File Manager to access files in the Settings.​\""
+ },
+ {
+  "name": "permission_storage",
+  "value": "Storage"
+ },
+ {
+  "name": "permission_storage_desc",
+  "value": "Access and create files, access storage and save files"
+ },
+ {
+  "name": "petabyteShort",
+  "value": "PB"
+ },
+ {
+  "name": "phone",
+  "value": "Storage"
+ },
+ {
+  "name": "phone_search",
+  "value": "Google Search"
+ },
+ {
+  "name": "phone_storage",
+  "value": "Storage"
+ },
+ {
+  "name": "phone_storage_apk_title",
+  "value": "APKs: "
+ },
+ {
+  "name": "phone_storage_audio_title",
+  "value": "Music: "
+ },
+ {
+  "name": "phone_storage_cal",
+  "value": "Checking…"
+ },
+ {
+  "name": "phone_storage_clean",
+  "value": "Clean up"
+ },
+ {
+  "name": "phone_storage_doc_title",
+  "value": "Docs: "
+ },
+ {
+  "name": "phone_storage_free_title",
+  "value": "Available: "
+ },
+ {
+  "name": "phone_storage_image_title",
+  "value": "Images: "
+ },
+ {
+  "name": "phone_storage_info_str",
+  "value": "%1$s of %2$s available"
+ },
+ {
+  "name": "phone_storage_other_title",
+  "value": "Other: "
+ },
+ {
+  "name": "phone_storage_size_tip",
+  "value": "\"File Manager's storage accounting may differ from other apps\""
+ },
+ {
+  "name": "phone_storage_video_title",
+  "value": "Videos: "
+ },
+ {
+  "name": "phone_storage_zip_title",
+  "value": "Archives: "
+ },
+ {
+  "name": "pick_file",
+  "value": "Choose files"
+ },
+ {
+  "name": "pick_folder",
+  "value": "Select folder"
+ },
+ {
+  "name": "player_tips_brightness",
+  "value": "Adjust brightness"
+ },
+ {
+  "name": "player_tips_double_click",
+  "value": "Double tap the screen"
+ },
+ {
+  "name": "player_tips_landscape",
+  "value": "Slide horizontally"
+ },
+ {
+  "name": "player_tips_pause_player",
+  "value": "Pause/resume playback"
+ },
+ {
+  "name": "player_tips_rewind",
+  "value": "Adjust playback progress"
+ },
+ {
+  "name": "player_tips_up_down_left",
+  "value": "Slide vertically on the left"
+ },
+ {
+  "name": "player_tips_up_down_right",
+  "value": "Slide vertically on the right"
+ },
+ {
+  "name": "player_tips_volume",
+  "value": "Adjust volume"
+ },
+ {
+  "name": "port",
+  "value": "Port"
+ },
+ {
+  "name": "port_range",
+  "value": "Port number must be between 1024–65535"
+ },
+ {
+  "name": "possible_permissions",
+  "value": "Optional permissions"
+ },
+ {
+  "name": "preference_copied",
+  "value": "\\\"%1$s\\\" copied to clipboard."
+ },
+ {
+  "name": "privacy_accept",
+  "value": "Agree &amp; continue"
+ },
+ {
+  "name": "privacy_appdata_chrome_history_des",
+  "value": "Visited websites"
+ },
+ {
+  "name": "privacy_desc",
+  "value": "Welcome to File Manager! Besides the basic features, this app also provides the following services:"
+ },
+ {
+  "name": "privacy_experience_statement",
+  "value": "Join our User Experience program to share user data with us in order to help us improve our products and services."
+ },
+ {
+  "name": "privacy_item1",
+  "value": "Categorizing recently used items"
+ },
+ {
+  "name": "privacy_item2",
+  "value": "Viewing and editing files"
+ },
+ {
+  "name": "privacy_title",
+  "value": "Welcome to File Manager"
+ },
+ {
+  "name": "private_files",
+  "value": "Private"
+ },
+ {
+  "name": "private_folder",
+  "value": "Private files"
+ },
+ {
+  "name": "private_folder_no_file_hints",
+  "value": "Press and hold a file or a folder to make it private"
+ },
+ {
+  "name": "private_folder_update",
+  "value": "Updating private files…"
+ },
+ {
+  "name": "private_toast_hint2",
+  "value": "Press and hold a file or a folder to make it private."
+ },
+ {
+  "name": "project_id",
+  "value": "originfileexplorer"
+ },
+ {
+  "name": "promot_enctypt_password",
+  "value": "Enter password used to unlock your device"
+ },
+ {
+  "name": "qr_code",
+  "value": "QR code"
+ },
+ {
+  "name": "recent_apk_status_install",
+  "value": "INSTALLED"
+ },
+ {
+  "name": "recommended_content",
+  "value": "Recommendations"
+ },
+ {
+  "name": "remain_item_name_n7p",
+  "value": ""
+ },
+ {
+  "name": "remain_item_name_pamp",
+  "value": ""
+ },
+ {
+  "name": "remind_no_notice",
+  "value": "Remember my choice"
+ },
+ {
+  "name": "rename_alert",
+  "value": "\"If you change this file's extension, you may not be able to open it.\""
+ },
+ {
+  "name": "rename_alert2",
+  "value": "Files with the names that start with \\\".\\\" are automatically hidden by the system. Use this name anyway?"
+ },
+ {
+  "name": "rename_failed",
+  "value": "\"Couldn't rename %1$s\""
+ },
+ {
+  "name": "repair_done",
+  "value": "Restored successfully"
+ },
+ {
+  "name": "repair_error",
+  "value": "\"Couldn't restore. Try again.\""
+ },
+ {
+  "name": "repair_file",
+  "value": "Restore encrypted files"
+ },
+ {
+  "name": "request_document_permission",
+  "value": "To manage files on your SD card, give File Manager the required permissions."
+ },
+ {
+  "name": "request_document_permission_title",
+  "value": "Permissions required"
+ },
+ {
+  "name": "restoring",
+  "value": "Restoring…"
+ },
+ {
+  "name": "revoke",
+  "value": "Revoke"
+ },
+ {
+  "name": "revoke_authorization",
+  "value": "Revoke authorization"
+ },
+ {
+  "name": "revoke_confirm_dialog_cancel",
+  "value": "Cancel"
+ },
+ {
+  "name": "revoke_confirm_dialog_content",
+  "value": "By toggling off the switch, you withdraw your consent to the Privacy Policy of File Manager. We will cease to collect your personal information. The personal information already collected and retained will be deleted within the specific period as required by applicable laws. File Manager needs to collect necessary personal information to improve its services. Your withdrawal of consent to its Privacy Policy will be held as refusing to accept improved services based on collected personal information."
+ },
+ {
+  "name": "revoke_desc",
+  "value": "By toggling off the switch, you withdraw your consent to the Privacy Policy of File Manager."
+ },
+ {
+  "name": "revoke_net_dialog_content",
+  "value": "Your device needs to connect to the network for you to be able to withdraw consent. Check your network settings and try again."
+ },
+ {
+  "name": "revoke_net_dialog_ok",
+  "value": "Got it"
+ },
+ {
+  "name": "revoke_net_dialog_title",
+  "value": "\"Can't connect to the network\""
+ },
+ {
+  "name": "revoke_success",
+  "value": "Revoked authorization successfully"
+ },
+ {
+  "name": "revoke_timer",
+  "value": "(%1$ds)"
+ },
+ {
+  "name": "revoke_tips",
+  "value": "After you revoke authorization, File Manager will stop collecting data, and all the related data will be deleted from the servers. This might make File Manager virtually unusable. Revoke authorization anyway?"
+ },
+ {
+  "name": "revoke_title",
+  "value": "Withdrawal of consent"
+ },
+ {
+  "name": "revoking",
+  "value": "Revoking authorization…"
+ },
+ {
+  "name": "rlv_last_refreshing_time",
+  "value": "Updated %1$s"
+ },
+ {
+  "name": "rlv_loading_more",
+  "value": "Just a sec…"
+ },
+ {
+  "name": "rlv_pull_to_refresh",
+  "value": "Pull down to refresh"
+ },
+ {
+  "name": "rlv_refreshing",
+  "value": "Refreshing…"
+ },
+ {
+  "name": "rlv_release_to_refresh",
+  "value": "Release to refresh"
+ },
+ {
+  "name": "s1",
+  "value": "Save image"
+ },
+ {
+  "name": "s2",
+  "value": "Allow Ad to store image in Picture gallery?"
+ },
+ {
+  "name": "s3",
+  "value": "Accept"
+ },
+ {
+  "name": "s4",
+  "value": "Decline"
+ },
+ {
+  "name": "s5",
+  "value": "Create calendar event"
+ },
+ {
+  "name": "s6",
+  "value": "Allow Ad to create a calendar event?"
+ },
+ {
+  "name": "s7",
+  "value": "Test Ad"
+ },
+ {
+  "name": "satisfied",
+  "value": "Satisfied"
+ },
+ {
+  "name": "save_seven_day",
+  "value": "Clear once a week"
+ },
+ {
+  "name": "scan_code_download_from_play",
+  "value": "Scan this QR code to download from Play Store"
+ },
+ {
+  "name": "scanning",
+  "value": "Scanning…"
+ },
+ {
+  "name": "screenshot_fail",
+  "value": "\"Couldn't take screenshot\""
+ },
+ {
+  "name": "screenshot_success",
+  "value": "Saved screenshot to %1$s"
+ },
+ {
+  "name": "search_description",
+  "value": "Search all files on device"
+ },
+ {
+  "name": "search_empty_view_hint",
+  "value": "\"Couldn't find anything\""
+ },
+ {
+  "name": "search_error_hint",
+  "value": "Search"
+ },
+ {
+  "name": "search_file_type_apk",
+  "value": "APK"
+ },
+ {
+  "name": "search_file_type_doc",
+  "value": "Doc"
+ },
+ {
+  "name": "search_file_type_music",
+  "value": "Music"
+ },
+ {
+  "name": "search_file_type_picture",
+  "value": "Photo"
+ },
+ {
+  "name": "search_file_type_video",
+  "value": "Video"
+ },
+ {
+  "name": "search_hint",
+  "value": "Enter filename"
+ },
+ {
+  "name": "search_history",
+  "value": "Search history"
+ },
+ {
+  "name": "search_menu_title",
+  "value": "Search"
+ },
+ {
+  "name": "search_result",
+  "value": "Results"
+ },
+ {
+  "name": "search_title",
+  "value": "Search"
+ },
+ {
+  "name": "search_title_hint",
+  "value": "Search"
+ },
+ {
+  "name": "security_mode",
+  "value": "Safe mode"
+ },
+ {
+  "name": "select_dest_folder",
+  "value": "Select folder"
+ },
+ {
+  "name": "select_image",
+  "value": "Images"
+ },
+ {
+  "name": "select_music",
+  "value": "Audio files"
+ },
+ {
+  "name": "select_video",
+  "value": "Video files"
+ },
+ {
+  "name": "select_volume",
+  "value": "Select volume"
+ },
+ {
+  "name": "send_notification_message",
+  "value": "Allow this app to send notifications to be able to use this feature normally. You can grant this permission in Settings."
+ },
+ {
+  "name": "send_notification_title",
+  "value": "Permissions required"
+ },
+ {
+  "name": "send_success",
+  "value": "Sent"
+ },
+ {
+  "name": "server_control_advanced_settings",
+  "value": "Additional settings"
+ },
+ {
+  "name": "server_control_charset",
+  "value": "Transfer encoding"
+ },
+ {
+  "name": "server_control_settings",
+  "value": "Settings"
+ },
+ {
+  "name": "set_pattern",
+  "value": "Password was upgraded"
+ },
+ {
+  "name": "set_pattern_btn",
+  "value": "Set"
+ },
+ {
+  "name": "set_pattern_msg",
+  "value": "Set your password again. Privacy protection password also works for photos, messages, and notes."
+ },
+ {
+  "name": "set_pattern_msg_two",
+  "value": "Set a privacy protection password. The same password will be used for photos, notes, and folders."
+ },
+ {
+  "name": "setting",
+  "value": "Settings"
+ },
+ {
+  "name": "settings_about",
+  "value": "About"
+ },
+ {
+  "name": "settings_feedback",
+  "value": "Feedback"
+ },
+ {
+  "name": "settings_score",
+  "value": "Rate File Manager"
+ },
+ {
+  "name": "share_facebook",
+  "value": "Facebook"
+ },
+ {
+  "name": "share_file_manger",
+  "value": "Share File Manager"
+ },
+ {
+  "name": "share_via_qr_code",
+  "value": "Share using QR code"
+ },
+ {
+  "name": "show_hide_file_desc",
+  "value": "Show files that are used to run Android and apps"
+ },
+ {
+  "name": "size_byte",
+  "value": "B"
+ },
+ {
+  "name": "size_giga_byte",
+  "value": "GB"
+ },
+ {
+  "name": "size_kilo_byte",
+  "value": "KB"
+ },
+ {
+  "name": "size_mega_byte",
+  "value": "MB"
+ },
+ {
+  "name": "size_peta_byte",
+  "value": "PB"
+ },
+ {
+  "name": "size_suffix",
+  "value": "%1$s%2$s"
+ },
+ {
+  "name": "size_tera_byte",
+  "value": "TB"
+ },
+ {
+  "name": "skip_ad",
+  "value": "Skip"
+ },
+ {
+  "name": "skip_file",
+  "value": "Skip"
+ },
+ {
+  "name": "smb_loading",
+  "value": "Just a sec…"
+ },
+ {
+  "name": "sms",
+  "value": "SMS/MMS"
+ },
+ {
+  "name": "sort_size_asc",
+  "value": "Smaller to bigger"
+ },
+ {
+  "name": "sort_size_desc",
+  "value": "Bigger to smaller"
+ },
+ {
+  "name": "start_server",
+  "value": "Start"
+ },
+ {
+  "name": "status_bar_notification_info_overflow",
+  "value": "999+"
+ },
+ {
+  "name": "status_cache",
+  "value": "Cache"
+ },
+ {
+  "name": "status_download",
+  "value": "Downloads"
+ },
+ {
+  "name": "stay_awake_summary",
+  "value": "\"Don't let display sleep while using FTP\""
+ },
+ {
+  "name": "stay_awake_title",
+  "value": "Keep display awake"
+ },
+ {
+  "name": "stop_server",
+  "value": "Stop"
+ },
+ {
+  "name": "storage_cloned_app",
+  "value": "Storage for dual apps"
+ },
+ {
+  "name": "storage_info_detail",
+  "value": "Available: %1$s Total: %2$s"
+ },
+ {
+  "name": "storage_internal",
+  "value": "Internal storage"
+ },
+ {
+  "name": "storage_sd_card",
+  "value": "SD card"
+ },
+ {
+  "name": "storage_usb",
+  "value": "USB storage"
+ },
+ {
+  "name": "storage_warning",
+  "value": "\"Can't use external storage\""
+ },
+ {
+  "name": "str_clean",
+  "value": "Clean"
+ },
+ {
+  "name": "str_ftp",
+  "value": "FTP"
+ },
+ {
+  "name": "str_gdrive",
+  "value": "Google Drive"
+ },
+ {
+  "name": "summary_collapsed_preference_list",
+  "value": "%1$s, %2$s"
+ },
+ {
+  "name": "summary_delete_apk",
+  "value": "Delete selected APKs permanently?"
+ },
+ {
+  "name": "summary_delete_cache",
+  "value": "Clear cache of the selected apps?"
+ },
+ {
+  "name": "summary_delete_large_file",
+  "value": "Delete selected files permanently?"
+ },
+ {
+  "name": "summary_delete_video",
+  "value": "Delete selected videos permanently?"
+ },
+ {
+  "name": "switch_to_grid_mode",
+  "value": "Switch to grid view"
+ },
+ {
+  "name": "switch_to_list_mode",
+  "value": "Switch to list view"
+ },
+ {
+  "name": "sys_cache_on_sdcard_item_name",
+  "value": "缓存"
+ },
+ {
+  "name": "tab_common_app",
+  "value": "Apps &amp; folders"
+ },
+ {
+  "name": "tab_more",
+  "value": "More"
+ },
+ {
+  "name": "terabyteShort",
+  "value": "TB"
+ },
+ {
+  "name": "terms_conditions",
+  "value": "Terms and conditions"
+ },
+ {
+  "name": "terms_conditions_desc",
+  "value": "Read all the following items carefully and choose whether you accept them."
+ },
+ {
+  "name": "time_am",
+  "value": "AM"
+ },
+ {
+  "name": "time_pm",
+  "value": "PM"
+ },
+ {
+  "name": "time_to_upgrade",
+  "value": "An update is available"
+ },
+ {
+  "name": "tip",
+  "value": "Attention"
+ },
+ {
+  "name": "tips_by_forbid_access",
+  "value": "The contents of this folder will no longer be accessible due to system restrictions introduced in Android R. Remove your personal files from this folder as soon as possible."
+ },
+ {
+  "name": "title_app_tags",
+  "value": "Apps"
+ },
+ {
+  "name": "title_delete_deepclean",
+  "value": "Delete"
+ },
+ {
+  "name": "title_enable_documentsui",
+  "value": "Turn on DocumentsUI"
+ },
+ {
+  "name": "title_expire_video",
+  "value": "About to expire"
+ },
+ {
+  "name": "title_recent",
+  "value": "Recent"
+ },
+ {
+  "name": "title_remote",
+  "value": "Remote"
+ },
+ {
+  "name": "title_select_volume",
+  "value": "Select folder"
+ },
+ {
+  "name": "toast_add_white_list_success",
+  "value": "Added to exceptions successfully"
+ },
+ {
+  "name": "toast_file_not_can_read",
+  "value": "No app was found to handle this action."
+ },
+ {
+  "name": "toast_scroll_down_score_midrop",
+  "value": "Scroll down to rate File Manager"
+ },
+ {
+  "name": "transfer_private_data",
+  "value": "Moving private files from SD card…"
+ },
+ {
+  "name": "try_now",
+  "value": "Try"
+ },
+ {
+  "name": "type_not_support",
+  "value": "\"This file format isn't supported. Unpack this file and try again.\""
+ },
+ {
+  "name": "ui_main_toast_favorite_removed",
+  "value": "Removed from favorites"
+ },
+ {
+  "name": "ui_main_toast_operation_failed",
+  "value": "\"Couldn't remove %1$s from favorites\""
+ },
+ {
+  "name": "unlock_pattern_msg",
+  "value": "Privacy protection password also works for photos, messages, and notes."
+ },
+ {
+  "name": "unlock_pattern_msg_two",
+  "value": "Your privacy protection password will be used for photos, notes, and folders."
+ },
+ {
+  "name": "unlock_pattern_msg_without_message",
+  "value": "Your Privacy protection password is the same for photos, files, and notes."
+ },
+ {
+  "name": "unlock_pattern_title",
+  "value": "New password"
+ },
+ {
+  "name": "update_now",
+  "value": "Update now"
+ },
+ {
+  "name": "update_use_mobile_data",
+  "value": "Update automatically using mobile data"
+ },
+ {
+  "name": "usb_has_removed",
+  "value": "USB device was removed"
+ },
+ {
+  "name": "usb_label",
+  "value": "USB"
+ },
+ {
+  "name": "used",
+  "value": "Used"
+ },
+ {
+  "name": "user_experience_desc",
+  "value": "Share user data with us to help us improve our products and services"
+ },
+ {
+  "name": "user_experience_title",
+  "value": "User Experience Program"
+ },
+ {
+  "name": "user_not_login",
+  "value": "Sign in first"
+ },
+ {
+  "name": "user_notice_privacy_policy",
+  "value": "Privacy Policy"
+ },
+ {
+  "name": "user_notice_term_of_service",
+  "value": "User Agreement"
+ },
+ {
+  "name": "utf8_summary",
+  "value": "System FTP default encoding"
+ },
+ {
+  "name": "utf8_title",
+  "value": "UTF-8"
+ },
+ {
+  "name": "v7_preference_off",
+  "value": "OFF"
+ },
+ {
+  "name": "v7_preference_on",
+  "value": "ON"
+ },
+ {
+  "name": "version_name",
+  "value": "Version"
+ },
+ {
+  "name": "very_dissatisfied",
+  "value": "Very dissatisfied"
+ },
+ {
+  "name": "video_replay_btn",
+  "value": "Replay"
+ },
+ {
+  "name": "view_by_document",
+  "value": "View in Files"
+ },
+ {
+  "name": "vungle_ad_name",
+  "value": "Vungle广告"
+ },
+ {
+  "name": "watermark_label_prefix",
+  "value": "\"AdMob - \""
+ },
+ {
+  "name": "wechat_clean_finish_summary",
+  "value": "Deleted selected files successfully"
+ },
+ {
+  "name": "wechat_content_bad_pic_file",
+  "value": "The file is corrupted"
+ },
+ {
+  "name": "wechat_video",
+  "value": "Video at %s"
+ },
+ {
+  "name": "whatsapp_btn_quick_cleanup",
+  "value": "Delete selected items (%s)"
+ },
+ {
+  "name": "whatsapp_cache_garbage",
+  "value": "Cache"
+ },
+ {
+  "name": "whatsapp_cache_garbage_cleanup",
+  "value": "Clear"
+ },
+ {
+  "name": "whatsapp_cache_garbage_tip",
+  "value": "\"Clearing cache doesn't delete anything important. You'll be able to use the app as usual after that.\""
+ },
+ {
+  "name": "whatsapp_clean_exit_confirm_cancel",
+  "value": "Keep scanning"
+ },
+ {
+  "name": "whatsapp_clean_exit_confirm_msg",
+  "value": "\"Haven't finished scanning WhatsApp yet. Stop scanning now?\""
+ },
+ {
+  "name": "whatsapp_clean_exit_confirm_ok",
+  "value": "Stop"
+ },
+ {
+  "name": "whatsapp_clean_exit_confirm_title",
+  "value": "Stop scanning?"
+ },
+ {
+  "name": "whatsapp_content_empty",
+  "value": "No items here."
+ },
+ {
+  "name": "whatsapp_delete_confirm_cancel",
+  "value": "Cancel"
+ },
+ {
+  "name": "whatsapp_delete_confirm_ok",
+  "value": "OK"
+ },
+ {
+  "name": "whatsapp_file_show_order",
+  "value": "Today"
+ },
+ {
+  "name": "whatsapp_group_audio",
+  "value": "Audio files"
+ },
+ {
+  "name": "whatsapp_group_document",
+  "value": "Documents"
+ },
+ {
+  "name": "whatsapp_group_gif",
+  "value": "GIFs"
+ },
+ {
+  "name": "whatsapp_group_image",
+  "value": "Images"
+ },
+ {
+  "name": "whatsapp_group_video",
+  "value": "Videos"
+ },
+ {
+  "name": "whatsapp_group_voice",
+  "value": "Voice messages"
+ },
+ {
+  "name": "whatsapp_group_wallpaper",
+  "value": "Wallpapers"
+ },
+ {
+  "name": "whatsapp_title",
+  "value": "WhatsApp cleaner"
+ },
+ {
+  "name": "wifi_state",
+  "value": "Wi-Fi status"
+ },
+ {
+  "name": "wqfile_group_chat_file",
+  "value": "Files sent in messengers"
+ },
+ {
+  "name": "wqfile_group_chat_pic",
+  "value": "Images from messengers"
+ },
+ {
+  "name": "wqfile_group_chat_video",
+  "value": "Videos from messengers"
+ },
+ {
+  "name": "wqfile_group_chat_voice",
+  "value": "Voice messages"
+ },
+ {
+  "name": "xiaomi_privacy_policy_new",
+  "value": "https://privacy.mi.com/all/%2$s"
+ },
+ {
+  "name": "xiaomi_user_agreement_new",
+  "value": "http://www.miui.com/res/doc/eula.html?region=%1$s&amp;lang=%2$s"
+ },
+ {
+  "name": "year_month_day_format",
+  "value": "MMM dd, yyyy"
+ },
+ {
+  "name": "yes",
+  "value": "Yes"
+ },
+ {
+  "name": "yesterday",
+  "value": "Yesterday"
+ }
+]

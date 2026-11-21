@@ -1,0 +1,13 @@
+http://maps.google.com/maps?q=
+http://www.youtube.com/watch?v=
+https://api.open-meteo.com/v1/elevation?latitude=
+https://api.openweathermap.org/data/2.5/air_pollution?lat=
+https://api.openweathermap.org/data/2.5/weather?lat=
+https://apps.apple.com/bf/app/gps-map-camera-timestamp/id1503116917
+https://maps.google.com/?q=
+https://onelink.to/gpsmapcamera
+https://play.google.com/store/apps/details?id=
+https://play.google.com/store/apps/details?id=com.gpsmapcamera.geotagginglocationonphoto
+https://www.google.com/maps/place/
+https://www.googleapis.com/auth/drive.file
+https://www.youtube.com/watch?v=488jwww9nd8&ab_channel=GPSMapCamera

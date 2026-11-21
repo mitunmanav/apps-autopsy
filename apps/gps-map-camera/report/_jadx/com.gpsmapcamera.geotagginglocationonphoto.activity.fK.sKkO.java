@@ -1,0 +1,56 @@
+package com.gpsmapcamera.geotagginglocationonphoto.activity.fK;
+
+/* JADX INFO: loaded from: classes.dex */
+public class sKkO {
+    public static String AkYps;
+    public static String BJsnlU;
+    public static String DExFZeqOHUgVERi;
+    public static String EtkxHeYvN;
+    public static String FvDARYPZQQU;
+    public static String GPlJZkCcxzm;
+    public static String GQMyhDXOG;
+    public static String IgqpbI;
+    public static String LmSSEAXrfPT;
+    public static String MWS;
+    public static String MmmUO;
+    public static String Mrs;
+    public static String MxRAIKX;
+    public static String NdWKRySkgnmb;
+    public static String NdfrUs;
+    public static String OUwtR;
+    public static String PenrXwlFcr;
+    public static String QwsZA;
+    public static String SFnCgnyNFbg;
+    public static String UEp;
+    public static String UickzdUdXUkSd;
+    public static String VJkOsZMzawV;
+    public static String XwoYwqeY;
+    public static String YCiVNkSEDBbNoo;
+    public static String YEPtiDdS;
+    public static String YhuEEMVi;
+    public static String ZfBFDdtuTHAWF;
+    public static String dnhTRPol;
+    public static String eraZblyiiLQR;
+    public static String gIMAfNXsMr;
+    public static String jYCsQUfTgvCqbJ;
+    public static String jtChnc;
+    public static String nfiPStc;
+    public static String oAHxOOWWKNsQxD;
+    public static String oPJKLwejege;
+    public static String oPc;
+    public static String pBK;
+    public static String pBkxOjQS;
+    public static String pjKEcdabUf;
+    public static String qRUuZ;
+    public static String qoWwIzJ;
+    public static String rkZUQPKizqtDxbz;
+    public static String uEL;
+    public static String uOgG;
+    public static String ubpeMW;
+    public static String uzpk;
+    public static String wRdTyJwdGVdgT;
+    public static String xEzA;
+    public static String xjtGd;
+    public static String yEKRnyXEDtY;
+    public static String yYd;
+}
